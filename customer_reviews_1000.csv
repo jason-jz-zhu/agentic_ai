@@ -1,0 +1,1001 @@
+id,customer_id,review_text,rating
+1,1091,"Amazing customer support, will buy again.",4
+2,1080,Would buy again!,3
+3,1779,"Amazing customer support, will buy again.",4
+4,1473,"Fast shipping, but packaging was poor.",2
+5,1879,Product was damaged on arrival.,4
+6,1677,"Disappointed, not as advertised.",1
+7,1098,Affordable and high quality.,2
+8,1201,The item is not as described.,5
+9,1487,Not satisfied with the quality.,3
+10,1407,"Amazing customer support, will buy again.",1
+11,1914,Very good experience!,2
+12,1818,"Excellent service, highly recommended!",1
+13,1309,"Excellent service, highly recommended!",1
+14,1304,Would buy again!,2
+15,1128,"Excellent service, highly recommended!",5
+16,1876,Great product! Fast delivery.,3
+17,1968,"Amazing customer support, will buy again.",5
+18,1521,Customer service was rude.,5
+19,1037,Customer service was rude.,3
+20,1565,Loved it! Very happy with my purchase.,4
+21,1547,Product was damaged on arrival.,5
+22,1398,"Amazing customer support, will buy again.",4
+23,1129,Product was damaged on arrival.,4
+24,1858,"Disappointed, not as advertised.",2
+25,1245,Customer service was rude.,1
+26,1296,Very good experience!,3
+27,1148,"Terrible experience, would not recommend.",3
+28,1754,Loved it! Very happy with my purchase.,1
+29,1186,Customer service was rude.,4
+30,1605,Customer service was rude.,4
+31,1328,"Amazing customer support, will buy again.",1
+32,1852,Customer service was rude.,1
+33,1458,Product was damaged on arrival.,1
+34,1006,Not satisfied with the quality.,3
+35,1623,Loved it! Very happy with my purchase.,3
+36,1079,"Fast shipping, but packaging was poor.",1
+37,1467,Great product! Fast delivery.,3
+38,1125,"Average, nothing special.",3
+39,1603,Affordable and high quality.,5
+40,1148,Would buy again!,4
+41,1705,Would buy again!,5
+42,1022,"Fast shipping, but packaging was poor.",5
+43,1754,Customer service was rude.,1
+44,1871,Would buy again!,2
+45,1428,"Fast shipping, but packaging was poor.",4
+46,1764,Product was damaged on arrival.,5
+47,1891,"Excellent service, highly recommended!",3
+48,1693,"Excellent service, highly recommended!",4
+49,1702,Very good experience!,3
+50,1554,The item is not as described.,4
+51,1283,"Average, nothing special.",3
+52,1748,The item is not as described.,3
+53,1055,Would buy again!,2
+54,1605,Loved it! Very happy with my purchase.,5
+55,1884,Great product! Fast delivery.,5
+56,1702,Great product! Fast delivery.,1
+57,1935,"Average, nothing special.",3
+58,1792,Customer service was rude.,3
+59,1725,"Excellent service, highly recommended!",3
+60,1998,Customer service was rude.,4
+61,1011,Customer service was rude.,1
+62,1345,Customer service was rude.,3
+63,1920,Loved it! Very happy with my purchase.,3
+64,1513,Loved it! Very happy with my purchase.,2
+65,1751,Customer service was rude.,3
+66,1252,"Amazing customer support, will buy again.",3
+67,1246,Customer service was rude.,5
+68,1153,Customer service was rude.,5
+69,1195,Would buy again!,1
+70,1246,Not satisfied with the quality.,2
+71,1391,Not satisfied with the quality.,1
+72,1958,"Amazing customer support, will buy again.",1
+73,1229,Very good experience!,1
+74,1472,Affordable and high quality.,1
+75,1729,"Excellent service, highly recommended!",2
+76,1524,Not satisfied with the quality.,2
+77,1717,Great product! Fast delivery.,5
+78,1450,"Amazing customer support, will buy again.",4
+79,1173,"Disappointed, not as advertised.",1
+80,1185,"Amazing customer support, will buy again.",4
+81,1243,"Excellent service, highly recommended!",3
+82,1993,"Fast shipping, but packaging was poor.",3
+83,1716,Not satisfied with the quality.,3
+84,1276,Very good experience!,4
+85,1752,"Terrible experience, would not recommend.",5
+86,1144,Not satisfied with the quality.,1
+87,1265,"Excellent service, highly recommended!",4
+88,1025,"Disappointed, not as advertised.",2
+89,1581,"Disappointed, not as advertised.",2
+90,1041,Product was damaged on arrival.,1
+91,1282,"Amazing customer support, will buy again.",5
+92,1007,Great product! Fast delivery.,4
+93,1010,Not satisfied with the quality.,4
+94,1516,Great product! Fast delivery.,3
+95,1477,Would buy again!,1
+96,1212,"Disappointed, not as advertised.",3
+97,1224,Loved it! Very happy with my purchase.,5
+98,1477,"Terrible experience, would not recommend.",3
+99,1852,Loved it! Very happy with my purchase.,5
+100,1807,Product was damaged on arrival.,4
+101,1528,"Average, nothing special.",1
+102,1900,Product was damaged on arrival.,2
+103,1903,Would buy again!,3
+104,1222,"Fast shipping, but packaging was poor.",3
+105,1321,"Average, nothing special.",3
+106,1210,"Disappointed, not as advertised.",4
+107,1170,"Excellent service, highly recommended!",5
+108,1683,"Disappointed, not as advertised.",3
+109,1150,Affordable and high quality.,3
+110,1097,Very good experience!,2
+111,1981,Great product! Fast delivery.,4
+112,1800,Not satisfied with the quality.,1
+113,1600,Affordable and high quality.,2
+114,1426,Not satisfied with the quality.,1
+115,1380,Very good experience!,2
+116,1762,Affordable and high quality.,2
+117,1230,The item is not as described.,4
+118,1242,"Average, nothing special.",4
+119,1659,Customer service was rude.,1
+120,1233,Great product! Fast delivery.,4
+121,1365,"Excellent service, highly recommended!",3
+122,1562,Customer service was rude.,4
+123,1948,"Disappointed, not as advertised.",1
+124,1588,"Fast shipping, but packaging was poor.",2
+125,1865,Customer service was rude.,3
+126,1395,Loved it! Very happy with my purchase.,2
+127,1299,Great product! Fast delivery.,2
+128,1393,Customer service was rude.,4
+129,1005,Product was damaged on arrival.,5
+130,1050,"Average, nothing special.",1
+131,1772,"Fast shipping, but packaging was poor.",2
+132,1379,Customer service was rude.,4
+133,1583,Product was damaged on arrival.,2
+134,1140,"Fast shipping, but packaging was poor.",2
+135,1860,Would buy again!,3
+136,1565,"Average, nothing special.",3
+137,1032,Would buy again!,3
+138,1018,Affordable and high quality.,2
+139,1155,Product was damaged on arrival.,1
+140,1461,Very good experience!,1
+141,1653,"Excellent service, highly recommended!",2
+142,1432,Customer service was rude.,3
+143,1131,"Average, nothing special.",5
+144,1697,"Amazing customer support, will buy again.",1
+145,1419,Would buy again!,2
+146,1405,Not satisfied with the quality.,3
+147,1703,Product was damaged on arrival.,3
+148,1178,Product was damaged on arrival.,2
+149,1052,"Amazing customer support, will buy again.",2
+150,1824,"Terrible experience, would not recommend.",5
+151,1450,"Terrible experience, would not recommend.",1
+152,1625,Affordable and high quality.,1
+153,1635,"Excellent service, highly recommended!",4
+154,1027,"Fast shipping, but packaging was poor.",4
+155,1997,Great product! Fast delivery.,2
+156,1244,Product was damaged on arrival.,4
+157,1234,Customer service was rude.,4
+158,1221,Affordable and high quality.,5
+159,1326,"Average, nothing special.",1
+160,1804,Affordable and high quality.,4
+161,1682,"Amazing customer support, will buy again.",2
+162,1898,"Fast shipping, but packaging was poor.",2
+163,1134,Customer service was rude.,1
+164,1185,Loved it! Very happy with my purchase.,1
+165,1723,"Average, nothing special.",2
+166,1666,Great product! Fast delivery.,1
+167,1254,Customer service was rude.,3
+168,1949,Very good experience!,1
+169,1730,Customer service was rude.,5
+170,1241,"Fast shipping, but packaging was poor.",1
+171,1261,"Terrible experience, would not recommend.",2
+172,1472,Affordable and high quality.,4
+173,1906,"Disappointed, not as advertised.",5
+174,1903,Loved it! Very happy with my purchase.,3
+175,1920,Not satisfied with the quality.,5
+176,1868,Great product! Fast delivery.,1
+177,1889,The item is not as described.,1
+178,1791,Not satisfied with the quality.,3
+179,1915,Great product! Fast delivery.,1
+180,1063,Product was damaged on arrival.,1
+181,1275,Not satisfied with the quality.,1
+182,1673,"Terrible experience, would not recommend.",3
+183,1158,Not satisfied with the quality.,3
+184,1011,Customer service was rude.,1
+185,1753,"Amazing customer support, will buy again.",5
+186,1531,Customer service was rude.,3
+187,1712,Customer service was rude.,5
+188,1214,"Excellent service, highly recommended!",4
+189,1751,"Average, nothing special.",3
+190,1910,Would buy again!,5
+191,1140,Very good experience!,2
+192,1879,Customer service was rude.,2
+193,1552,Great product! Fast delivery.,4
+194,1316,Not satisfied with the quality.,5
+195,1893,"Disappointed, not as advertised.",4
+196,1774,Would buy again!,1
+197,1899,Customer service was rude.,4
+198,1571,"Excellent service, highly recommended!",2
+199,1790,The item is not as described.,4
+200,1207,Would buy again!,1
+201,1335,Loved it! Very happy with my purchase.,4
+202,1302,"Amazing customer support, will buy again.",4
+203,1143,"Disappointed, not as advertised.",3
+204,1222,Very good experience!,3
+205,1025,Would buy again!,3
+206,1010,Not satisfied with the quality.,3
+207,1750,"Fast shipping, but packaging was poor.",1
+208,1295,Great product! Fast delivery.,1
+209,1695,"Fast shipping, but packaging was poor.",2
+210,1599,Great product! Fast delivery.,5
+211,1920,"Disappointed, not as advertised.",5
+212,1836,Not satisfied with the quality.,4
+213,1221,"Excellent service, highly recommended!",2
+214,1260,"Amazing customer support, will buy again.",3
+215,1430,Customer service was rude.,5
+216,1542,"Excellent service, highly recommended!",3
+217,1787,"Excellent service, highly recommended!",3
+218,1972,Affordable and high quality.,3
+219,1820,"Terrible experience, would not recommend.",5
+220,1651,Customer service was rude.,4
+221,1871,"Amazing customer support, will buy again.",3
+222,1757,Product was damaged on arrival.,5
+223,1106,"Amazing customer support, will buy again.",3
+224,1487,"Fast shipping, but packaging was poor.",5
+225,1083,Not satisfied with the quality.,4
+226,1671,Would buy again!,4
+227,1133,"Amazing customer support, will buy again.",2
+228,1432,"Terrible experience, would not recommend.",3
+229,1828,Not satisfied with the quality.,2
+230,1827,"Amazing customer support, will buy again.",4
+231,1176,Product was damaged on arrival.,1
+232,1079,Great product! Fast delivery.,5
+233,1030,Product was damaged on arrival.,5
+234,1508,Would buy again!,5
+235,1131,"Terrible experience, would not recommend.",2
+236,1121,"Disappointed, not as advertised.",1
+237,1737,"Fast shipping, but packaging was poor.",2
+238,1552,"Amazing customer support, will buy again.",2
+239,1278,Not satisfied with the quality.,2
+240,1660,The item is not as described.,3
+241,1886,Customer service was rude.,3
+242,1887,"Fast shipping, but packaging was poor.",3
+243,1421,Not satisfied with the quality.,5
+244,1820,Affordable and high quality.,5
+245,1053,Product was damaged on arrival.,1
+246,1053,Very good experience!,1
+247,1130,The item is not as described.,5
+248,1482,Would buy again!,2
+249,1563,Loved it! Very happy with my purchase.,5
+250,1924,"Excellent service, highly recommended!",5
+251,1714,The item is not as described.,3
+252,1178,"Average, nothing special.",4
+253,1764,"Fast shipping, but packaging was poor.",3
+254,1953,The item is not as described.,5
+255,1935,Very good experience!,4
+256,1866,"Terrible experience, would not recommend.",3
+257,1805,Great product! Fast delivery.,1
+258,1392,Product was damaged on arrival.,3
+259,1837,Affordable and high quality.,2
+260,1869,Product was damaged on arrival.,1
+261,1449,"Disappointed, not as advertised.",1
+262,1339,"Terrible experience, would not recommend.",4
+263,1015,Affordable and high quality.,3
+264,1502,The item is not as described.,1
+265,1125,Not satisfied with the quality.,1
+266,1637,"Excellent service, highly recommended!",3
+267,1996,Very good experience!,2
+268,1314,"Average, nothing special.",3
+269,1877,Affordable and high quality.,4
+270,1174,Affordable and high quality.,1
+271,1427,Affordable and high quality.,1
+272,1473,Would buy again!,2
+273,1966,Great product! Fast delivery.,5
+274,1892,"Excellent service, highly recommended!",2
+275,1826,"Amazing customer support, will buy again.",1
+276,1403,Customer service was rude.,4
+277,1043,Loved it! Very happy with my purchase.,4
+278,1373,Would buy again!,2
+279,1310,"Average, nothing special.",3
+280,1607,Loved it! Very happy with my purchase.,4
+281,1378,Very good experience!,5
+282,1762,Would buy again!,2
+283,1497,"Amazing customer support, will buy again.",1
+284,1842,"Terrible experience, would not recommend.",5
+285,1585,"Amazing customer support, will buy again.",3
+286,1025,Not satisfied with the quality.,2
+287,1983,Very good experience!,5
+288,1167,Loved it! Very happy with my purchase.,2
+289,1970,Great product! Fast delivery.,2
+290,1224,"Excellent service, highly recommended!",4
+291,1870,"Disappointed, not as advertised.",4
+292,1421,The item is not as described.,4
+293,1527,Great product! Fast delivery.,3
+294,1145,"Terrible experience, would not recommend.",4
+295,1417,Loved it! Very happy with my purchase.,2
+296,1402,"Average, nothing special.",1
+297,1935,Very good experience!,4
+298,1419,Great product! Fast delivery.,4
+299,1185,"Amazing customer support, will buy again.",2
+300,1886,Great product! Fast delivery.,3
+301,1161,Customer service was rude.,4
+302,1457,Affordable and high quality.,4
+303,1640,"Disappointed, not as advertised.",4
+304,1410,Very good experience!,4
+305,1365,Not satisfied with the quality.,5
+306,1839,"Fast shipping, but packaging was poor.",2
+307,1821,"Amazing customer support, will buy again.",2
+308,1897,Product was damaged on arrival.,5
+309,1111,"Disappointed, not as advertised.",3
+310,1351,Product was damaged on arrival.,3
+311,1781,Great product! Fast delivery.,4
+312,1500,Affordable and high quality.,1
+313,1825,Great product! Fast delivery.,4
+314,1259,Customer service was rude.,2
+315,1159,"Excellent service, highly recommended!",2
+316,1018,Product was damaged on arrival.,4
+317,1423,Affordable and high quality.,4
+318,1908,Loved it! Very happy with my purchase.,5
+319,1678,"Amazing customer support, will buy again.",2
+320,1607,"Disappointed, not as advertised.",1
+321,1897,Customer service was rude.,1
+322,1349,"Amazing customer support, will buy again.",5
+323,1866,"Amazing customer support, will buy again.",2
+324,1222,The item is not as described.,1
+325,1914,Great product! Fast delivery.,5
+326,1338,Loved it! Very happy with my purchase.,2
+327,1025,Would buy again!,2
+328,1422,"Amazing customer support, will buy again.",5
+329,1704,"Average, nothing special.",2
+330,1059,Very good experience!,1
+331,1818,Customer service was rude.,3
+332,1424,Product was damaged on arrival.,1
+333,1990,Customer service was rude.,2
+334,1357,"Terrible experience, would not recommend.",5
+335,1688,Loved it! Very happy with my purchase.,2
+336,1152,Loved it! Very happy with my purchase.,2
+337,1830,"Disappointed, not as advertised.",1
+338,1412,"Fast shipping, but packaging was poor.",4
+339,1286,Product was damaged on arrival.,2
+340,1937,"Average, nothing special.",1
+341,1917,Product was damaged on arrival.,1
+342,1567,"Fast shipping, but packaging was poor.",2
+343,1705,"Amazing customer support, will buy again.",5
+344,1567,"Amazing customer support, will buy again.",2
+345,1690,"Excellent service, highly recommended!",1
+346,1949,Customer service was rude.,1
+347,1426,The item is not as described.,5
+348,1250,Customer service was rude.,5
+349,1174,Great product! Fast delivery.,3
+350,1080,"Fast shipping, but packaging was poor.",5
+351,1016,Very good experience!,5
+352,1005,Customer service was rude.,1
+353,1829,Very good experience!,5
+354,1728,"Average, nothing special.",3
+355,1444,Great product! Fast delivery.,4
+356,1091,"Fast shipping, but packaging was poor.",5
+357,1627,Product was damaged on arrival.,5
+358,1225,"Terrible experience, would not recommend.",2
+359,1309,Product was damaged on arrival.,4
+360,1921,Loved it! Very happy with my purchase.,4
+361,1471,Would buy again!,3
+362,1156,"Average, nothing special.",4
+363,1180,The item is not as described.,4
+364,1889,"Amazing customer support, will buy again.",3
+365,1545,Loved it! Very happy with my purchase.,1
+366,1530,Affordable and high quality.,4
+367,1207,"Terrible experience, would not recommend.",5
+368,1947,The item is not as described.,4
+369,1294,"Disappointed, not as advertised.",3
+370,1109,"Terrible experience, would not recommend.",5
+371,1728,"Average, nothing special.",1
+372,1728,"Average, nothing special.",4
+373,1033,Very good experience!,3
+374,1681,The item is not as described.,5
+375,1793,Great product! Fast delivery.,3
+376,1147,Product was damaged on arrival.,1
+377,1010,Customer service was rude.,3
+378,1924,"Amazing customer support, will buy again.",1
+379,1548,Very good experience!,3
+380,1696,"Amazing customer support, will buy again.",2
+381,1834,Affordable and high quality.,5
+382,1648,"Amazing customer support, will buy again.",4
+383,1188,"Disappointed, not as advertised.",3
+384,1747,"Average, nothing special.",3
+385,1363,Would buy again!,3
+386,1189,Very good experience!,2
+387,1009,Loved it! Very happy with my purchase.,3
+388,1112,Not satisfied with the quality.,5
+389,1458,Affordable and high quality.,2
+390,1979,The item is not as described.,2
+391,1760,"Average, nothing special.",3
+392,1316,"Average, nothing special.",4
+393,1533,Not satisfied with the quality.,2
+394,1993,Loved it! Very happy with my purchase.,1
+395,1018,Product was damaged on arrival.,1
+396,1435,Loved it! Very happy with my purchase.,5
+397,1335,"Average, nothing special.",5
+398,1658,"Amazing customer support, will buy again.",1
+399,1371,Loved it! Very happy with my purchase.,4
+400,1840,Loved it! Very happy with my purchase.,5
+401,1147,Very good experience!,3
+402,1970,"Terrible experience, would not recommend.",2
+403,1751,Very good experience!,4
+404,1232,"Excellent service, highly recommended!",3
+405,1410,"Average, nothing special.",3
+406,1863,"Average, nothing special.",4
+407,1260,"Fast shipping, but packaging was poor.",4
+408,1885,"Disappointed, not as advertised.",3
+409,1704,"Amazing customer support, will buy again.",1
+410,1779,"Terrible experience, would not recommend.",5
+411,1420,"Amazing customer support, will buy again.",4
+412,1241,"Fast shipping, but packaging was poor.",4
+413,1278,Product was damaged on arrival.,1
+414,1385,Would buy again!,3
+415,1046,"Fast shipping, but packaging was poor.",4
+416,1898,Great product! Fast delivery.,4
+417,1630,"Excellent service, highly recommended!",4
+418,1984,"Average, nothing special.",5
+419,1873,Customer service was rude.,1
+420,1068,"Excellent service, highly recommended!",1
+421,1737,"Terrible experience, would not recommend.",4
+422,1267,Loved it! Very happy with my purchase.,4
+423,1563,Loved it! Very happy with my purchase.,3
+424,1995,The item is not as described.,5
+425,1161,Very good experience!,1
+426,1871,Product was damaged on arrival.,4
+427,1451,Not satisfied with the quality.,1
+428,1890,Not satisfied with the quality.,2
+429,1173,"Fast shipping, but packaging was poor.",5
+430,1571,"Amazing customer support, will buy again.",3
+431,1677,"Excellent service, highly recommended!",2
+432,1759,Very good experience!,3
+433,1273,"Fast shipping, but packaging was poor.",5
+434,1008,Product was damaged on arrival.,1
+435,1980,"Amazing customer support, will buy again.",2
+436,1150,"Disappointed, not as advertised.",1
+437,1017,"Amazing customer support, will buy again.",1
+438,1232,"Disappointed, not as advertised.",4
+439,1280,Not satisfied with the quality.,1
+440,1706,Very good experience!,2
+441,1923,Would buy again!,5
+442,1176,Very good experience!,1
+443,1180,Would buy again!,3
+444,1471,Great product! Fast delivery.,3
+445,1753,Loved it! Very happy with my purchase.,3
+446,1880,Not satisfied with the quality.,5
+447,1485,"Terrible experience, would not recommend.",2
+448,1944,"Amazing customer support, will buy again.",3
+449,1490,"Average, nothing special.",4
+450,1728,Product was damaged on arrival.,2
+451,1784,Great product! Fast delivery.,1
+452,1320,Product was damaged on arrival.,4
+453,1328,"Disappointed, not as advertised.",3
+454,1806,"Terrible experience, would not recommend.",5
+455,1785,Would buy again!,5
+456,1491,Would buy again!,3
+457,1335,"Fast shipping, but packaging was poor.",5
+458,1329,"Disappointed, not as advertised.",2
+459,1511,The item is not as described.,2
+460,1978,Not satisfied with the quality.,2
+461,1317,Great product! Fast delivery.,2
+462,1787,Product was damaged on arrival.,4
+463,1779,The item is not as described.,5
+464,1412,"Fast shipping, but packaging was poor.",4
+465,1524,"Amazing customer support, will buy again.",1
+466,1362,Loved it! Very happy with my purchase.,5
+467,1673,"Terrible experience, would not recommend.",3
+468,1171,Customer service was rude.,1
+469,1621,Very good experience!,4
+470,1683,"Fast shipping, but packaging was poor.",5
+471,1115,Great product! Fast delivery.,3
+472,1047,Affordable and high quality.,2
+473,1162,Loved it! Very happy with my purchase.,2
+474,1881,"Average, nothing special.",2
+475,1268,The item is not as described.,5
+476,1131,"Excellent service, highly recommended!",1
+477,1882,Customer service was rude.,1
+478,1781,Would buy again!,2
+479,1725,"Disappointed, not as advertised.",5
+480,1029,Would buy again!,4
+481,1337,Customer service was rude.,3
+482,1704,"Average, nothing special.",5
+483,1782,Would buy again!,2
+484,1290,The item is not as described.,1
+485,1261,Very good experience!,4
+486,1249,Would buy again!,5
+487,1602,Very good experience!,4
+488,1893,"Disappointed, not as advertised.",5
+489,1404,"Disappointed, not as advertised.",4
+490,1146,Not satisfied with the quality.,4
+491,1585,The item is not as described.,1
+492,1197,"Terrible experience, would not recommend.",5
+493,1819,"Average, nothing special.",2
+494,1411,Very good experience!,3
+495,1200,"Fast shipping, but packaging was poor.",4
+496,1837,"Amazing customer support, will buy again.",5
+497,1400,The item is not as described.,5
+498,1483,The item is not as described.,3
+499,1378,The item is not as described.,2
+500,1320,"Terrible experience, would not recommend.",3
+501,1133,"Fast shipping, but packaging was poor.",5
+502,1529,The item is not as described.,3
+503,1199,"Amazing customer support, will buy again.",3
+504,1829,Would buy again!,1
+505,1302,Very good experience!,1
+506,1536,"Excellent service, highly recommended!",5
+507,1581,Would buy again!,2
+508,1855,Not satisfied with the quality.,5
+509,1232,Great product! Fast delivery.,2
+510,1439,Loved it! Very happy with my purchase.,3
+511,1986,Not satisfied with the quality.,3
+512,1397,Would buy again!,2
+513,1225,"Excellent service, highly recommended!",2
+514,1798,Not satisfied with the quality.,3
+515,1054,"Average, nothing special.",2
+516,1239,"Disappointed, not as advertised.",4
+517,1784,"Amazing customer support, will buy again.",4
+518,1439,Would buy again!,1
+519,1724,"Terrible experience, would not recommend.",5
+520,1703,Great product! Fast delivery.,3
+521,1477,Would buy again!,4
+522,1782,"Average, nothing special.",2
+523,1898,Great product! Fast delivery.,5
+524,1262,Product was damaged on arrival.,3
+525,1532,Great product! Fast delivery.,2
+526,1947,"Fast shipping, but packaging was poor.",3
+527,1503,"Excellent service, highly recommended!",3
+528,1211,"Fast shipping, but packaging was poor.",1
+529,1774,"Fast shipping, but packaging was poor.",4
+530,1245,Loved it! Very happy with my purchase.,5
+531,1158,"Disappointed, not as advertised.",3
+532,1243,"Fast shipping, but packaging was poor.",5
+533,1103,Affordable and high quality.,3
+534,1497,"Excellent service, highly recommended!",2
+535,1772,"Amazing customer support, will buy again.",5
+536,1892,Would buy again!,2
+537,1886,Loved it! Very happy with my purchase.,3
+538,1512,Loved it! Very happy with my purchase.,2
+539,1811,Very good experience!,5
+540,1735,"Average, nothing special.",2
+541,1997,Would buy again!,3
+542,1890,Great product! Fast delivery.,1
+543,1710,Would buy again!,3
+544,1274,Great product! Fast delivery.,1
+545,1613,Customer service was rude.,1
+546,1393,Affordable and high quality.,2
+547,1660,Product was damaged on arrival.,5
+548,1817,"Amazing customer support, will buy again.",3
+549,1291,"Terrible experience, would not recommend.",3
+550,1800,"Average, nothing special.",2
+551,1152,"Fast shipping, but packaging was poor.",2
+552,1027,Would buy again!,3
+553,1695,"Excellent service, highly recommended!",2
+554,1247,Very good experience!,1
+555,1178,"Disappointed, not as advertised.",5
+556,1343,"Disappointed, not as advertised.",3
+557,1031,Would buy again!,3
+558,1622,Customer service was rude.,4
+559,1394,"Excellent service, highly recommended!",1
+560,1256,"Excellent service, highly recommended!",3
+561,1316,The item is not as described.,4
+562,1637,Product was damaged on arrival.,4
+563,1948,Would buy again!,1
+564,1012,"Fast shipping, but packaging was poor.",1
+565,1238,Would buy again!,4
+566,1271,"Disappointed, not as advertised.",2
+567,1008,"Average, nothing special.",4
+568,1552,Very good experience!,2
+569,1813,Great product! Fast delivery.,5
+570,1803,Great product! Fast delivery.,3
+571,1599,The item is not as described.,1
+572,1733,Very good experience!,5
+573,1566,Not satisfied with the quality.,1
+574,1760,Very good experience!,4
+575,1222,Very good experience!,3
+576,1735,"Average, nothing special.",3
+577,1932,Affordable and high quality.,4
+578,1726,Loved it! Very happy with my purchase.,4
+579,1721,"Fast shipping, but packaging was poor.",2
+580,1224,Would buy again!,3
+581,1795,Great product! Fast delivery.,1
+582,1456,"Average, nothing special.",5
+583,1760,"Fast shipping, but packaging was poor.",5
+584,1032,Loved it! Very happy with my purchase.,4
+585,1879,"Excellent service, highly recommended!",1
+586,1227,Very good experience!,5
+587,1910,Product was damaged on arrival.,4
+588,1534,Product was damaged on arrival.,3
+589,1686,Very good experience!,2
+590,1603,"Amazing customer support, will buy again.",2
+591,1532,Loved it! Very happy with my purchase.,4
+592,1848,Would buy again!,2
+593,1709,"Average, nothing special.",2
+594,1811,Not satisfied with the quality.,5
+595,1026,"Average, nothing special.",1
+596,1698,"Disappointed, not as advertised.",4
+597,1049,"Excellent service, highly recommended!",3
+598,1946,Would buy again!,3
+599,1631,"Excellent service, highly recommended!",5
+600,1700,Would buy again!,4
+601,1057,"Amazing customer support, will buy again.",4
+602,1629,Affordable and high quality.,4
+603,1698,Affordable and high quality.,3
+604,1673,"Excellent service, highly recommended!",1
+605,1263,Very good experience!,1
+606,1976,Great product! Fast delivery.,4
+607,1425,The item is not as described.,2
+608,1795,"Amazing customer support, will buy again.",3
+609,1470,Customer service was rude.,3
+610,1462,Customer service was rude.,2
+611,1252,Would buy again!,5
+612,1987,"Average, nothing special.",5
+613,1429,Very good experience!,2
+614,1216,"Excellent service, highly recommended!",4
+615,1152,"Excellent service, highly recommended!",4
+616,1962,Product was damaged on arrival.,4
+617,1856,The item is not as described.,3
+618,1959,Product was damaged on arrival.,2
+619,1076,Loved it! Very happy with my purchase.,1
+620,1858,"Excellent service, highly recommended!",1
+621,1840,Product was damaged on arrival.,1
+622,1841,Very good experience!,4
+623,1972,"Amazing customer support, will buy again.",4
+624,1444,Very good experience!,5
+625,1826,Customer service was rude.,4
+626,1823,Affordable and high quality.,2
+627,1638,Not satisfied with the quality.,5
+628,1253,Product was damaged on arrival.,4
+629,1821,The item is not as described.,1
+630,1133,Not satisfied with the quality.,1
+631,1431,Very good experience!,5
+632,1539,"Average, nothing special.",1
+633,1305,Affordable and high quality.,1
+634,1584,"Disappointed, not as advertised.",2
+635,1777,"Excellent service, highly recommended!",1
+636,1386,Loved it! Very happy with my purchase.,4
+637,1716,Not satisfied with the quality.,4
+638,2000,"Average, nothing special.",2
+639,1702,Loved it! Very happy with my purchase.,1
+640,1319,Affordable and high quality.,2
+641,1201,The item is not as described.,3
+642,1905,Would buy again!,5
+643,1633,Affordable and high quality.,4
+644,1233,"Excellent service, highly recommended!",3
+645,1205,Great product! Fast delivery.,4
+646,1952,Not satisfied with the quality.,1
+647,1125,Not satisfied with the quality.,2
+648,1503,"Disappointed, not as advertised.",5
+649,1871,Loved it! Very happy with my purchase.,1
+650,1619,"Average, nothing special.",2
+651,1792,Loved it! Very happy with my purchase.,4
+652,1008,"Amazing customer support, will buy again.",5
+653,1535,Customer service was rude.,3
+654,1711,Product was damaged on arrival.,1
+655,1540,Very good experience!,4
+656,1542,"Excellent service, highly recommended!",5
+657,1168,The item is not as described.,1
+658,1724,"Disappointed, not as advertised.",3
+659,1739,"Disappointed, not as advertised.",2
+660,1218,Customer service was rude.,5
+661,1308,Very good experience!,3
+662,1685,Product was damaged on arrival.,5
+663,1882,"Amazing customer support, will buy again.",1
+664,1817,Would buy again!,1
+665,1687,"Disappointed, not as advertised.",1
+666,1274,"Fast shipping, but packaging was poor.",3
+667,1332,Great product! Fast delivery.,3
+668,1134,Not satisfied with the quality.,5
+669,1559,"Excellent service, highly recommended!",5
+670,1378,Customer service was rude.,5
+671,1512,Product was damaged on arrival.,4
+672,1025,"Terrible experience, would not recommend.",2
+673,1636,Loved it! Very happy with my purchase.,3
+674,1609,Customer service was rude.,3
+675,1482,Customer service was rude.,2
+676,1409,Great product! Fast delivery.,3
+677,1874,Customer service was rude.,1
+678,1433,"Fast shipping, but packaging was poor.",2
+679,1048,Affordable and high quality.,5
+680,1984,Great product! Fast delivery.,1
+681,1841,"Fast shipping, but packaging was poor.",5
+682,1978,"Amazing customer support, will buy again.",4
+683,1907,Affordable and high quality.,2
+684,1029,Very good experience!,1
+685,1033,Customer service was rude.,4
+686,1570,"Disappointed, not as advertised.",1
+687,1613,"Average, nothing special.",1
+688,1891,"Terrible experience, would not recommend.",4
+689,1049,"Average, nothing special.",3
+690,1869,The item is not as described.,5
+691,1195,Great product! Fast delivery.,5
+692,1319,Loved it! Very happy with my purchase.,5
+693,1054,"Average, nothing special.",3
+694,1711,Loved it! Very happy with my purchase.,4
+695,1827,Not satisfied with the quality.,3
+696,1561,"Excellent service, highly recommended!",2
+697,1190,"Disappointed, not as advertised.",2
+698,1085,Loved it! Very happy with my purchase.,3
+699,1817,Customer service was rude.,2
+700,1618,Great product! Fast delivery.,2
+701,1733,Very good experience!,5
+702,1253,"Excellent service, highly recommended!",5
+703,1058,Product was damaged on arrival.,2
+704,1278,Would buy again!,4
+705,1226,Product was damaged on arrival.,1
+706,1382,"Terrible experience, would not recommend.",3
+707,1131,"Average, nothing special.",2
+708,1948,Great product! Fast delivery.,4
+709,1333,Would buy again!,3
+710,1663,Product was damaged on arrival.,2
+711,1216,"Amazing customer support, will buy again.",1
+712,1860,Would buy again!,2
+713,1438,"Fast shipping, but packaging was poor.",1
+714,1355,"Excellent service, highly recommended!",1
+715,1291,Product was damaged on arrival.,2
+716,1444,Loved it! Very happy with my purchase.,2
+717,1806,"Disappointed, not as advertised.",3
+718,1299,"Fast shipping, but packaging was poor.",2
+719,1607,Not satisfied with the quality.,3
+720,1322,Would buy again!,1
+721,1137,Not satisfied with the quality.,4
+722,1385,"Fast shipping, but packaging was poor.",2
+723,1647,Great product! Fast delivery.,3
+724,1427,Product was damaged on arrival.,4
+725,1162,"Disappointed, not as advertised.",5
+726,1258,The item is not as described.,1
+727,1207,"Terrible experience, would not recommend.",1
+728,1281,"Fast shipping, but packaging was poor.",5
+729,1988,"Disappointed, not as advertised.",2
+730,1782,Loved it! Very happy with my purchase.,2
+731,1740,"Disappointed, not as advertised.",5
+732,1682,"Terrible experience, would not recommend.",5
+733,1312,Great product! Fast delivery.,2
+734,1906,"Average, nothing special.",4
+735,1716,"Excellent service, highly recommended!",3
+736,1659,"Excellent service, highly recommended!",1
+737,1877,Would buy again!,5
+738,1675,"Excellent service, highly recommended!",1
+739,1953,"Amazing customer support, will buy again.",4
+740,1891,Customer service was rude.,5
+741,1745,"Amazing customer support, will buy again.",4
+742,1514,"Amazing customer support, will buy again.",4
+743,1734,Great product! Fast delivery.,5
+744,1953,Great product! Fast delivery.,4
+745,1956,"Terrible experience, would not recommend.",1
+746,1291,Loved it! Very happy with my purchase.,4
+747,1214,Customer service was rude.,1
+748,1984,"Terrible experience, would not recommend.",5
+749,1452,Great product! Fast delivery.,2
+750,1430,Affordable and high quality.,4
+751,1515,Would buy again!,1
+752,1587,Customer service was rude.,5
+753,1844,"Average, nothing special.",3
+754,1457,The item is not as described.,3
+755,1548,Not satisfied with the quality.,2
+756,1460,Would buy again!,5
+757,1913,Product was damaged on arrival.,1
+758,1511,"Average, nothing special.",5
+759,1210,Affordable and high quality.,4
+760,1320,"Amazing customer support, will buy again.",1
+761,1048,The item is not as described.,5
+762,1884,"Amazing customer support, will buy again.",1
+763,1322,"Fast shipping, but packaging was poor.",3
+764,1565,The item is not as described.,3
+765,1193,Would buy again!,3
+766,1235,Great product! Fast delivery.,2
+767,1482,Great product! Fast delivery.,4
+768,1794,"Disappointed, not as advertised.",1
+769,1967,"Excellent service, highly recommended!",4
+770,1342,"Amazing customer support, will buy again.",4
+771,1961,Great product! Fast delivery.,5
+772,1056,Customer service was rude.,1
+773,1982,"Excellent service, highly recommended!",3
+774,1053,"Excellent service, highly recommended!",5
+775,1360,Affordable and high quality.,2
+776,1645,Would buy again!,2
+777,1728,The item is not as described.,5
+778,1038,Customer service was rude.,3
+779,1813,The item is not as described.,2
+780,1794,Not satisfied with the quality.,3
+781,1622,Product was damaged on arrival.,5
+782,1716,Product was damaged on arrival.,5
+783,1055,Customer service was rude.,3
+784,1657,Not satisfied with the quality.,1
+785,1336,Affordable and high quality.,4
+786,1104,"Amazing customer support, will buy again.",1
+787,1102,The item is not as described.,5
+788,1493,Not satisfied with the quality.,5
+789,1825,"Fast shipping, but packaging was poor.",4
+790,1783,"Fast shipping, but packaging was poor.",2
+791,1230,"Disappointed, not as advertised.",5
+792,1278,"Amazing customer support, will buy again.",4
+793,1451,"Fast shipping, but packaging was poor.",1
+794,1983,Great product! Fast delivery.,1
+795,1015,Great product! Fast delivery.,1
+796,1438,"Disappointed, not as advertised.",5
+797,1140,Product was damaged on arrival.,1
+798,1094,Very good experience!,1
+799,1457,"Terrible experience, would not recommend.",4
+800,1859,"Excellent service, highly recommended!",2
+801,1794,Very good experience!,2
+802,1893,"Disappointed, not as advertised.",5
+803,1911,Product was damaged on arrival.,1
+804,1508,Customer service was rude.,1
+805,1098,"Fast shipping, but packaging was poor.",5
+806,1342,Great product! Fast delivery.,5
+807,1749,Not satisfied with the quality.,2
+808,1125,"Terrible experience, would not recommend.",4
+809,1748,"Amazing customer support, will buy again.",2
+810,1929,The item is not as described.,5
+811,1088,Product was damaged on arrival.,3
+812,1514,Product was damaged on arrival.,1
+813,1621,Customer service was rude.,2
+814,1502,Great product! Fast delivery.,1
+815,1568,Affordable and high quality.,3
+816,1573,Very good experience!,2
+817,1282,"Terrible experience, would not recommend.",1
+818,1245,Would buy again!,2
+819,1837,"Average, nothing special.",3
+820,1474,Customer service was rude.,2
+821,1165,"Terrible experience, would not recommend.",5
+822,1003,"Excellent service, highly recommended!",3
+823,1882,Would buy again!,5
+824,1045,Loved it! Very happy with my purchase.,2
+825,1045,"Disappointed, not as advertised.",5
+826,1552,"Fast shipping, but packaging was poor.",5
+827,1447,Affordable and high quality.,4
+828,1444,"Fast shipping, but packaging was poor.",3
+829,1656,Affordable and high quality.,5
+830,1615,Would buy again!,2
+831,1313,Very good experience!,1
+832,1166,Would buy again!,4
+833,1157,Would buy again!,4
+834,1009,Product was damaged on arrival.,2
+835,1068,Affordable and high quality.,3
+836,1558,Product was damaged on arrival.,3
+837,1041,"Disappointed, not as advertised.",4
+838,1445,Loved it! Very happy with my purchase.,2
+839,1616,"Amazing customer support, will buy again.",2
+840,1533,Very good experience!,3
+841,1421,Not satisfied with the quality.,2
+842,1187,The item is not as described.,1
+843,1677,"Terrible experience, would not recommend.",4
+844,1219,Would buy again!,2
+845,1848,"Amazing customer support, will buy again.",1
+846,1982,Not satisfied with the quality.,1
+847,1184,"Disappointed, not as advertised.",5
+848,1036,"Fast shipping, but packaging was poor.",1
+849,1731,Not satisfied with the quality.,3
+850,1687,"Excellent service, highly recommended!",1
+851,1127,Would buy again!,5
+852,1121,"Amazing customer support, will buy again.",4
+853,1643,"Terrible experience, would not recommend.",3
+854,1341,Customer service was rude.,1
+855,1334,"Disappointed, not as advertised.",5
+856,1481,"Terrible experience, would not recommend.",1
+857,1148,Not satisfied with the quality.,4
+858,1179,Not satisfied with the quality.,2
+859,1874,Affordable and high quality.,2
+860,1261,Great product! Fast delivery.,3
+861,1497,"Disappointed, not as advertised.",5
+862,1512,Would buy again!,2
+863,1425,"Amazing customer support, will buy again.",4
+864,1118,"Amazing customer support, will buy again.",2
+865,1042,"Amazing customer support, will buy again.",2
+866,1397,Affordable and high quality.,1
+867,1912,"Amazing customer support, will buy again.",3
+868,1430,The item is not as described.,1
+869,1695,"Amazing customer support, will buy again.",2
+870,1354,"Terrible experience, would not recommend.",5
+871,1439,"Average, nothing special.",4
+872,1332,"Disappointed, not as advertised.",3
+873,1544,Affordable and high quality.,2
+874,1910,"Average, nothing special.",1
+875,1502,Great product! Fast delivery.,1
+876,1263,Product was damaged on arrival.,5
+877,1415,Affordable and high quality.,3
+878,1525,"Disappointed, not as advertised.",2
+879,1579,The item is not as described.,3
+880,1512,Customer service was rude.,5
+881,1900,Not satisfied with the quality.,4
+882,1717,Not satisfied with the quality.,4
+883,1353,Affordable and high quality.,3
+884,1450,Customer service was rude.,1
+885,1451,Very good experience!,5
+886,1820,Would buy again!,2
+887,1039,"Excellent service, highly recommended!",1
+888,1933,"Amazing customer support, will buy again.",5
+889,1420,"Fast shipping, but packaging was poor.",4
+890,1827,Would buy again!,2
+891,1302,"Average, nothing special.",1
+892,1518,"Excellent service, highly recommended!",3
+893,1573,Loved it! Very happy with my purchase.,3
+894,1686,Product was damaged on arrival.,2
+895,1622,Affordable and high quality.,5
+896,1748,"Disappointed, not as advertised.",3
+897,1930,The item is not as described.,3
+898,1765,"Terrible experience, would not recommend.",2
+899,1678,"Fast shipping, but packaging was poor.",4
+900,1702,Customer service was rude.,4
+901,1561,"Average, nothing special.",1
+902,1784,"Excellent service, highly recommended!",5
+903,1800,Very good experience!,5
+904,1462,Loved it! Very happy with my purchase.,1
+905,1138,Great product! Fast delivery.,3
+906,1209,"Amazing customer support, will buy again.",5
+907,1429,Loved it! Very happy with my purchase.,4
+908,1972,"Amazing customer support, will buy again.",1
+909,1221,"Disappointed, not as advertised.",1
+910,1559,"Average, nothing special.",4
+911,1950,"Excellent service, highly recommended!",5
+912,1718,Not satisfied with the quality.,3
+913,1130,"Excellent service, highly recommended!",3
+914,1889,Product was damaged on arrival.,4
+915,1042,Affordable and high quality.,2
+916,1543,Loved it! Very happy with my purchase.,5
+917,1749,Product was damaged on arrival.,1
+918,1964,Not satisfied with the quality.,1
+919,1294,Great product! Fast delivery.,3
+920,1955,Loved it! Very happy with my purchase.,1
+921,1486,The item is not as described.,3
+922,1396,"Fast shipping, but packaging was poor.",1
+923,1279,Very good experience!,5
+924,1310,Affordable and high quality.,5
+925,1614,Product was damaged on arrival.,1
+926,1222,"Amazing customer support, will buy again.",3
+927,1294,Affordable and high quality.,2
+928,1294,Not satisfied with the quality.,2
+929,1117,Product was damaged on arrival.,2
+930,1225,Great product! Fast delivery.,5
+931,1340,"Amazing customer support, will buy again.",1
+932,1686,Customer service was rude.,5
+933,1419,Not satisfied with the quality.,1
+934,1814,The item is not as described.,1
+935,1057,Not satisfied with the quality.,1
+936,1459,"Fast shipping, but packaging was poor.",2
+937,1031,"Fast shipping, but packaging was poor.",5
+938,1309,Not satisfied with the quality.,4
+939,1669,Would buy again!,3
+940,1644,Customer service was rude.,1
+941,1953,Affordable and high quality.,2
+942,1464,"Terrible experience, would not recommend.",1
+943,1012,"Terrible experience, would not recommend.",3
+944,1298,Affordable and high quality.,2
+945,1285,"Excellent service, highly recommended!",4
+946,1294,"Terrible experience, would not recommend.",4
+947,1030,"Amazing customer support, will buy again.",3
+948,1137,"Terrible experience, would not recommend.",1
+949,1497,"Terrible experience, would not recommend.",3
+950,1174,"Excellent service, highly recommended!",4
+951,1127,"Terrible experience, would not recommend.",1
+952,1613,"Amazing customer support, will buy again.",5
+953,1048,Would buy again!,1
+954,1873,Customer service was rude.,3
+955,1273,"Average, nothing special.",4
+956,1341,The item is not as described.,2
+957,1301,"Terrible experience, would not recommend.",2
+958,1185,"Average, nothing special.",5
+959,1358,"Terrible experience, would not recommend.",1
+960,1564,Not satisfied with the quality.,4
+961,1228,Affordable and high quality.,4
+962,1578,"Fast shipping, but packaging was poor.",5
+963,1293,"Terrible experience, would not recommend.",2
+964,1645,"Fast shipping, but packaging was poor.",4
+965,1001,Loved it! Very happy with my purchase.,2
+966,1704,The item is not as described.,5
+967,1301,"Excellent service, highly recommended!",2
+968,1867,Affordable and high quality.,5
+969,1697,Loved it! Very happy with my purchase.,4
+970,1393,Product was damaged on arrival.,5
+971,1057,Affordable and high quality.,5
+972,1368,Would buy again!,1
+973,1820,"Fast shipping, but packaging was poor.",1
+974,1775,Very good experience!,3
+975,1230,"Average, nothing special.",3
+976,1450,Affordable and high quality.,3
+977,1942,Not satisfied with the quality.,5
+978,1071,"Terrible experience, would not recommend.",5
+979,1632,"Excellent service, highly recommended!",3
+980,1548,Affordable and high quality.,4
+981,1329,Product was damaged on arrival.,4
+982,1400,Would buy again!,1
+983,1431,Great product! Fast delivery.,2
+984,1426,Affordable and high quality.,4
+985,1671,"Amazing customer support, will buy again.",1
+986,1577,Great product! Fast delivery.,2
+987,1299,"Fast shipping, but packaging was poor.",2
+988,1006,Not satisfied with the quality.,2
+989,1841,"Average, nothing special.",2
+990,1950,"Fast shipping, but packaging was poor.",1
+991,1877,"Disappointed, not as advertised.",5
+992,1798,Very good experience!,4
+993,1830,Product was damaged on arrival.,1
+994,1911,Customer service was rude.,5
+995,1512,"Average, nothing special.",1
+996,1160,"Average, nothing special.",3
+997,1594,"Amazing customer support, will buy again.",4
+998,1304,Would buy again!,3
+999,1836,Loved it! Very happy with my purchase.,1
+1000,1945,Great product! Fast delivery.,5

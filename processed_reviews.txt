@@ -1,0 +1,2999 @@
+Action: Analyze review for customer 1001 - Customer 1
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1003 - Customer 3
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1005 - Customer 5
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1005 - Customer 5
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1006 - Customer 6
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1006 - Customer 6
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1007 - Customer 7
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1008 - Customer 8
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1008 - Customer 8
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1008 - Customer 8
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1009 - Customer 9
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1009 - Customer 9
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1010 - Customer 10
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1010 - Customer 10
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1010 - Customer 10
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1011 - Customer 11
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1011 - Customer 11
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1012 - Customer 12
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1012 - Customer 12
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1015 - Customer 15
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1015 - Customer 15
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1016 - Customer 16
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1017 - Customer 17
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1018 - Customer 18
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1018 - Customer 18
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1018 - Customer 18
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1022 - Customer 22
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1025 - Customer 25
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1025 - Customer 25
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1025 - Customer 25
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1025 - Customer 25
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1025 - Customer 25
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1026 - Customer 26
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1027 - Customer 27
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1027 - Customer 27
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1029 - Customer 29
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1029 - Customer 29
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1030 - Customer 30
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1030 - Customer 30
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1031 - Customer 31
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1031 - Customer 31
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1032 - Customer 32
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1032 - Customer 32
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1033 - Customer 33
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1033 - Customer 33
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1036 - Customer 36
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1037 - Customer 37
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1038 - Customer 38
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1039 - Customer 39
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1041 - Customer 41
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1041 - Customer 41
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1042 - Customer 42
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1042 - Customer 42
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1043 - Customer 43
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1045 - Customer 45
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1045 - Customer 45
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1046 - Customer 46
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1047 - Customer 47
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1048 - Customer 48
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1048 - Customer 48
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1048 - Customer 48
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1049 - Customer 49
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1049 - Customer 49
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1050 - Customer 50
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1052 - Customer 52
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1053 - Customer 53
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1053 - Customer 53
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1053 - Customer 53
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1054 - Customer 54
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1054 - Customer 54
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1055 - Customer 55
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1055 - Customer 55
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1056 - Customer 56
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1057 - Customer 57
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1057 - Customer 57
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1057 - Customer 57
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1058 - Customer 58
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1059 - Customer 59
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1063 - Customer 63
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1068 - Customer 68
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1068 - Customer 68
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1071 - Customer 71
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1076 - Customer 76
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1079 - Customer 79
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1079 - Customer 79
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1080 - Customer 80
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1080 - Customer 80
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1083 - Customer 83
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1085 - Customer 85
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1088 - Customer 88
+Thought: Customer gave a rating of 3.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1091 - Customer 91
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1091 - Customer 91
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1094 - Customer 94
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1097 - Customer 97
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1098 - Customer 98
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1098 - Customer 98
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1102 - Customer 102
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1103 - Customer 103
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1104 - Customer 104
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1106 - Customer 106
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1109 - Customer 109
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1111 - Customer 111
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1112 - Customer 112
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1115 - Customer 115
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1117 - Customer 117
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1118 - Customer 118
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1121 - Customer 121
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1121 - Customer 121
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1125 - Customer 125
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1125 - Customer 125
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1125 - Customer 125
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1125 - Customer 125
+Thought: Customer gave a rating of 4.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1127 - Customer 127
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1127 - Customer 127
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1128 - Customer 128
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1129 - Customer 129
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1130 - Customer 130
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1130 - Customer 130
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1131 - Customer 131
+Thought: Customer gave a rating of 5.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1131 - Customer 131
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1131 - Customer 131
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1131 - Customer 131
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1133 - Customer 133
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1133 - Customer 133
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1133 - Customer 133
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1134 - Customer 134
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1134 - Customer 134
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1137 - Customer 137
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1137 - Customer 137
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1138 - Customer 138
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1140 - Customer 140
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1140 - Customer 140
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1140 - Customer 140
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1143 - Customer 143
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1144 - Customer 144
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1145 - Customer 145
+Thought: Customer gave a rating of 4.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1146 - Customer 146
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1147 - Customer 147
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1147 - Customer 147
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1148 - Customer 148
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1148 - Customer 148
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1148 - Customer 148
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1150 - Customer 150
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1150 - Customer 150
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1152 - Customer 152
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1152 - Customer 152
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1152 - Customer 152
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1153 - Customer 153
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1155 - Customer 155
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1156 - Customer 156
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1157 - Customer 157
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1158 - Customer 158
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1158 - Customer 158
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1159 - Customer 159
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1160 - Customer 160
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1161 - Customer 161
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1161 - Customer 161
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1162 - Customer 162
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1162 - Customer 162
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1165 - Customer 165
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1166 - Customer 166
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1167 - Customer 167
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1168 - Customer 168
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1170 - Customer 170
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1171 - Customer 171
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1173 - Customer 173
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1173 - Customer 173
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1174 - Customer 174
+Thought: Customer gave a rating of 1.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1174 - Customer 174
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1174 - Customer 174
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1176 - Customer 176
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1176 - Customer 176
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1178 - Customer 178
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1178 - Customer 178
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1178 - Customer 178
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1179 - Customer 179
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1180 - Customer 180
+Thought: Customer gave a rating of 4.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1180 - Customer 180
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1184 - Customer 184
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1185 - Customer 185
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1185 - Customer 185
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1185 - Customer 185
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1185 - Customer 185
+Thought: Customer gave a rating of 5.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1186 - Customer 186
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1187 - Customer 187
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1188 - Customer 188
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1189 - Customer 189
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1190 - Customer 190
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1193 - Customer 193
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1195 - Customer 195
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1195 - Customer 195
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1197 - Customer 197
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1199 - Customer 199
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1200 - Customer 200
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1201 - Customer 201
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1201 - Customer 201
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1205 - Customer 205
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1207 - Customer 207
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1207 - Customer 207
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1207 - Customer 207
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1209 - Customer 209
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1210 - Customer 210
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1210 - Customer 210
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1211 - Customer 211
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1212 - Customer 212
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1214 - Customer 214
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1214 - Customer 214
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1216 - Customer 216
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1216 - Customer 216
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1218 - Customer 218
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1219 - Customer 219
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1221 - Customer 221
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1221 - Customer 221
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1221 - Customer 221
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1222 - Customer 222
+Thought: Customer gave a rating of 3.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1222 - Customer 222
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1222 - Customer 222
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1222 - Customer 222
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1222 - Customer 222
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1224 - Customer 224
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1224 - Customer 224
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1224 - Customer 224
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1225 - Customer 225
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1225 - Customer 225
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1225 - Customer 225
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1226 - Customer 226
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1227 - Customer 227
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1228 - Customer 228
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1229 - Customer 229
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1230 - Customer 230
+Thought: Customer gave a rating of 4.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1230 - Customer 230
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1230 - Customer 230
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1232 - Customer 232
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1232 - Customer 232
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1232 - Customer 232
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1233 - Customer 233
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1233 - Customer 233
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1234 - Customer 234
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1235 - Customer 235
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1238 - Customer 238
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1239 - Customer 239
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1241 - Customer 241
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1241 - Customer 241
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1242 - Customer 242
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1243 - Customer 243
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1243 - Customer 243
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1244 - Customer 244
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1245 - Customer 245
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1245 - Customer 245
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1245 - Customer 245
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1246 - Customer 246
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1246 - Customer 246
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1247 - Customer 247
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1249 - Customer 249
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1250 - Customer 250
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1252 - Customer 252
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1252 - Customer 252
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1253 - Customer 253
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1253 - Customer 253
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1254 - Customer 254
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1256 - Customer 256
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1258 - Customer 258
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1259 - Customer 259
+Thought: Customer gave a rating of 2.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1260 - Customer 260
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1260 - Customer 260
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1261 - Customer 261
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1261 - Customer 261
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1261 - Customer 261
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1262 - Customer 262
+Thought: Customer gave a rating of 3.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1263 - Customer 263
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1263 - Customer 263
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1265 - Customer 265
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1267 - Customer 267
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1268 - Customer 268
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1271 - Customer 271
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1273 - Customer 273
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1273 - Customer 273
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1274 - Customer 274
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1274 - Customer 274
+Thought: Customer gave a rating of 3.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1275 - Customer 275
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1276 - Customer 276
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1278 - Customer 278
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1278 - Customer 278
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1278 - Customer 278
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1278 - Customer 278
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1279 - Customer 279
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1280 - Customer 280
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1281 - Customer 281
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1282 - Customer 282
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1282 - Customer 282
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1283 - Customer 283
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1285 - Customer 285
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1286 - Customer 286
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1290 - Customer 290
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1291 - Customer 291
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1291 - Customer 291
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1291 - Customer 291
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1293 - Customer 293
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1294 - Customer 294
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1294 - Customer 294
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1294 - Customer 294
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1294 - Customer 294
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1294 - Customer 294
+Thought: Customer gave a rating of 4.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1295 - Customer 295
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1296 - Customer 296
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1298 - Customer 298
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1299 - Customer 299
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1299 - Customer 299
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1299 - Customer 299
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1301 - Customer 301
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1301 - Customer 301
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1302 - Customer 302
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1302 - Customer 302
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1302 - Customer 302
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1304 - Customer 304
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1304 - Customer 304
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1305 - Customer 305
+Thought: Customer gave a rating of 1.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1308 - Customer 308
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1309 - Customer 309
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1309 - Customer 309
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1309 - Customer 309
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1310 - Customer 310
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1310 - Customer 310
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1312 - Customer 312
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1313 - Customer 313
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1314 - Customer 314
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1316 - Customer 316
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1316 - Customer 316
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1316 - Customer 316
+Thought: Customer gave a rating of 4.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1317 - Customer 317
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1319 - Customer 319
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1319 - Customer 319
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1320 - Customer 320
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1320 - Customer 320
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1320 - Customer 320
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1321 - Customer 321
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1322 - Customer 322
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1322 - Customer 322
+Thought: Customer gave a rating of 3.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1326 - Customer 326
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1328 - Customer 328
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1328 - Customer 328
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1329 - Customer 329
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1329 - Customer 329
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1332 - Customer 332
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1332 - Customer 332
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1333 - Customer 333
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1334 - Customer 334
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1335 - Customer 335
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1335 - Customer 335
+Thought: Customer gave a rating of 5.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1335 - Customer 335
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1336 - Customer 336
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1337 - Customer 337
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1338 - Customer 338
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1339 - Customer 339
+Thought: Customer gave a rating of 4.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1340 - Customer 340
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1341 - Customer 341
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1341 - Customer 341
+Thought: Customer gave a rating of 2.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1342 - Customer 342
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1342 - Customer 342
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1343 - Customer 343
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1345 - Customer 345
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1349 - Customer 349
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1351 - Customer 351
+Thought: Customer gave a rating of 3.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1353 - Customer 353
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1354 - Customer 354
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1355 - Customer 355
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1357 - Customer 357
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1358 - Customer 358
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1360 - Customer 360
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1362 - Customer 362
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1363 - Customer 363
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1365 - Customer 365
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1365 - Customer 365
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1368 - Customer 368
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1371 - Customer 371
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1373 - Customer 373
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1378 - Customer 378
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1378 - Customer 378
+Thought: Customer gave a rating of 2.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1378 - Customer 378
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1379 - Customer 379
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1380 - Customer 380
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1382 - Customer 382
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1385 - Customer 385
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1385 - Customer 385
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1386 - Customer 386
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1391 - Customer 391
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1392 - Customer 392
+Thought: Customer gave a rating of 3.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1393 - Customer 393
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1393 - Customer 393
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1393 - Customer 393
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1394 - Customer 394
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1395 - Customer 395
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1396 - Customer 396
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1397 - Customer 397
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1397 - Customer 397
+Thought: Customer gave a rating of 1.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1398 - Customer 398
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1400 - Customer 400
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1400 - Customer 400
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1402 - Customer 402
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1403 - Customer 403
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1404 - Customer 404
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1405 - Customer 405
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1407 - Customer 407
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1409 - Customer 409
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1410 - Customer 410
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1410 - Customer 410
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1411 - Customer 411
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1412 - Customer 412
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1412 - Customer 412
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1415 - Customer 415
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1417 - Customer 417
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1419 - Customer 419
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1419 - Customer 419
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1419 - Customer 419
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1420 - Customer 420
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1420 - Customer 420
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1421 - Customer 421
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1421 - Customer 421
+Thought: Customer gave a rating of 4.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1421 - Customer 421
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1422 - Customer 422
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1423 - Customer 423
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1424 - Customer 424
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1425 - Customer 425
+Thought: Customer gave a rating of 2.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1425 - Customer 425
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1426 - Customer 426
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1426 - Customer 426
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1426 - Customer 426
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1427 - Customer 427
+Thought: Customer gave a rating of 1.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1427 - Customer 427
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1428 - Customer 428
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1429 - Customer 429
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1429 - Customer 429
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1430 - Customer 430
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1430 - Customer 430
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1430 - Customer 430
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1431 - Customer 431
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1431 - Customer 431
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1432 - Customer 432
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1432 - Customer 432
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1433 - Customer 433
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1435 - Customer 435
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1438 - Customer 438
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1438 - Customer 438
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1439 - Customer 439
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1439 - Customer 439
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1439 - Customer 439
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1444 - Customer 444
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1444 - Customer 444
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1444 - Customer 444
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1444 - Customer 444
+Thought: Customer gave a rating of 3.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1445 - Customer 445
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1447 - Customer 447
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1449 - Customer 449
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1450 - Customer 450
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1450 - Customer 450
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1450 - Customer 450
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1450 - Customer 450
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1451 - Customer 451
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1451 - Customer 451
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1451 - Customer 451
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1452 - Customer 452
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1456 - Customer 456
+Thought: Customer gave a rating of 5.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1457 - Customer 457
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1457 - Customer 457
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1457 - Customer 457
+Thought: Customer gave a rating of 4.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1458 - Customer 458
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1458 - Customer 458
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1459 - Customer 459
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1460 - Customer 460
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1461 - Customer 461
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1462 - Customer 462
+Thought: Customer gave a rating of 2.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1462 - Customer 462
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1464 - Customer 464
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1467 - Customer 467
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1470 - Customer 470
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1471 - Customer 471
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1471 - Customer 471
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1472 - Customer 472
+Thought: Customer gave a rating of 1.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1472 - Customer 472
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1473 - Customer 473
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1473 - Customer 473
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1474 - Customer 474
+Thought: Customer gave a rating of 2.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1477 - Customer 477
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1477 - Customer 477
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1477 - Customer 477
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1481 - Customer 481
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1482 - Customer 482
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1482 - Customer 482
+Thought: Customer gave a rating of 2.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1482 - Customer 482
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1483 - Customer 483
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1485 - Customer 485
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1486 - Customer 486
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1487 - Customer 487
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1487 - Customer 487
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1490 - Customer 490
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1491 - Customer 491
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1493 - Customer 493
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1497 - Customer 497
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1497 - Customer 497
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1497 - Customer 497
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1497 - Customer 497
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1500 - Customer 500
+Thought: Customer gave a rating of 1.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1502 - Customer 502
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1502 - Customer 502
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1502 - Customer 502
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1503 - Customer 503
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1503 - Customer 503
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1508 - Customer 508
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1508 - Customer 508
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1511 - Customer 511
+Thought: Customer gave a rating of 2.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1511 - Customer 511
+Thought: Customer gave a rating of 5.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1512 - Customer 512
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1512 - Customer 512
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1512 - Customer 512
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1512 - Customer 512
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1512 - Customer 512
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1513 - Customer 513
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1514 - Customer 514
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1514 - Customer 514
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1515 - Customer 515
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1516 - Customer 516
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1518 - Customer 518
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1521 - Customer 521
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1524 - Customer 524
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1524 - Customer 524
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1525 - Customer 525
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1527 - Customer 527
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1528 - Customer 528
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1529 - Customer 529
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1530 - Customer 530
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1531 - Customer 531
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1532 - Customer 532
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1532 - Customer 532
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1533 - Customer 533
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1533 - Customer 533
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1534 - Customer 534
+Thought: Customer gave a rating of 3.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1535 - Customer 535
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1536 - Customer 536
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1539 - Customer 539
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1540 - Customer 540
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1542 - Customer 542
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1542 - Customer 542
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1543 - Customer 543
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1544 - Customer 544
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1545 - Customer 545
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1547 - Customer 547
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1548 - Customer 548
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1548 - Customer 548
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1548 - Customer 548
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1552 - Customer 552
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1552 - Customer 552
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1552 - Customer 552
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1552 - Customer 552
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1554 - Customer 554
+Thought: Customer gave a rating of 4.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1558 - Customer 558
+Thought: Customer gave a rating of 3.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1559 - Customer 559
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1559 - Customer 559
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1561 - Customer 561
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1561 - Customer 561
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1562 - Customer 562
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1563 - Customer 563
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1563 - Customer 563
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1564 - Customer 564
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1565 - Customer 565
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1565 - Customer 565
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1565 - Customer 565
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1566 - Customer 566
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1567 - Customer 567
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1567 - Customer 567
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1568 - Customer 568
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1570 - Customer 570
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1571 - Customer 571
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1571 - Customer 571
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1573 - Customer 573
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1573 - Customer 573
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1577 - Customer 577
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1578 - Customer 578
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1579 - Customer 579
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1581 - Customer 581
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1581 - Customer 581
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1583 - Customer 583
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1584 - Customer 584
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1585 - Customer 585
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1585 - Customer 585
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1587 - Customer 587
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1588 - Customer 588
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1594 - Customer 594
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1599 - Customer 599
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1599 - Customer 599
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1600 - Customer 600
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1602 - Customer 602
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1603 - Customer 603
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1603 - Customer 603
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1605 - Customer 605
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1605 - Customer 605
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1607 - Customer 607
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1607 - Customer 607
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1607 - Customer 607
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1609 - Customer 609
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1613 - Customer 613
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1613 - Customer 613
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1613 - Customer 613
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1614 - Customer 614
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1615 - Customer 615
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1616 - Customer 616
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1618 - Customer 618
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1619 - Customer 619
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1621 - Customer 621
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1621 - Customer 621
+Thought: Customer gave a rating of 2.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1622 - Customer 622
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1622 - Customer 622
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1622 - Customer 622
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1623 - Customer 623
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1625 - Customer 625
+Thought: Customer gave a rating of 1.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1627 - Customer 627
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1629 - Customer 629
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1630 - Customer 630
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1631 - Customer 631
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1632 - Customer 632
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1633 - Customer 633
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1635 - Customer 635
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1636 - Customer 636
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1637 - Customer 637
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1637 - Customer 637
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1638 - Customer 638
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1640 - Customer 640
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1643 - Customer 643
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1644 - Customer 644
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1645 - Customer 645
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1645 - Customer 645
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1647 - Customer 647
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1648 - Customer 648
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1651 - Customer 651
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1653 - Customer 653
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1656 - Customer 656
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1657 - Customer 657
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1658 - Customer 658
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1659 - Customer 659
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1659 - Customer 659
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1660 - Customer 660
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1660 - Customer 660
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1663 - Customer 663
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1666 - Customer 666
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1669 - Customer 669
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1671 - Customer 671
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1671 - Customer 671
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1673 - Customer 673
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1673 - Customer 673
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1673 - Customer 673
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1675 - Customer 675
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1677 - Customer 677
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1677 - Customer 677
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1677 - Customer 677
+Thought: Customer gave a rating of 4.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1678 - Customer 678
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1678 - Customer 678
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1681 - Customer 681
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1682 - Customer 682
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1682 - Customer 682
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1683 - Customer 683
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1683 - Customer 683
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1685 - Customer 685
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1686 - Customer 686
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1686 - Customer 686
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1686 - Customer 686
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1687 - Customer 687
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1687 - Customer 687
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1688 - Customer 688
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1690 - Customer 690
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1693 - Customer 693
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1695 - Customer 695
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1695 - Customer 695
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1695 - Customer 695
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1696 - Customer 696
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1697 - Customer 697
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1697 - Customer 697
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1698 - Customer 698
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1698 - Customer 698
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1700 - Customer 700
+Thought: Customer gave a rating of 4.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1702 - Customer 702
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1702 - Customer 702
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1702 - Customer 702
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1702 - Customer 702
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1703 - Customer 703
+Thought: Customer gave a rating of 3.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1703 - Customer 703
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1704 - Customer 704
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1704 - Customer 704
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1704 - Customer 704
+Thought: Customer gave a rating of 5.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1704 - Customer 704
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1705 - Customer 705
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1705 - Customer 705
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1706 - Customer 706
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1709 - Customer 709
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1710 - Customer 710
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1711 - Customer 711
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1711 - Customer 711
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1712 - Customer 712
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1714 - Customer 714
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1716 - Customer 716
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1716 - Customer 716
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1716 - Customer 716
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1716 - Customer 716
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1717 - Customer 717
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1717 - Customer 717
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1718 - Customer 718
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1721 - Customer 721
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1723 - Customer 723
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1724 - Customer 724
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1724 - Customer 724
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1725 - Customer 725
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1725 - Customer 725
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1726 - Customer 726
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1728 - Customer 728
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1728 - Customer 728
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1728 - Customer 728
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1728 - Customer 728
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1728 - Customer 728
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1729 - Customer 729
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1730 - Customer 730
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1731 - Customer 731
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1733 - Customer 733
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1733 - Customer 733
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1734 - Customer 734
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1735 - Customer 735
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1735 - Customer 735
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1737 - Customer 737
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1737 - Customer 737
+Thought: Customer gave a rating of 4.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1739 - Customer 739
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1740 - Customer 740
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1745 - Customer 745
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1747 - Customer 747
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1748 - Customer 748
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1748 - Customer 748
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1748 - Customer 748
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1749 - Customer 749
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1749 - Customer 749
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1750 - Customer 750
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1751 - Customer 751
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1751 - Customer 751
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1751 - Customer 751
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1752 - Customer 752
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1753 - Customer 753
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1753 - Customer 753
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1754 - Customer 754
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1754 - Customer 754
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1757 - Customer 757
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1759 - Customer 759
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1760 - Customer 760
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1760 - Customer 760
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1760 - Customer 760
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1762 - Customer 762
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1762 - Customer 762
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1764 - Customer 764
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1764 - Customer 764
+Thought: Customer gave a rating of 3.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1765 - Customer 765
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1772 - Customer 772
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1772 - Customer 772
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1774 - Customer 774
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1774 - Customer 774
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1775 - Customer 775
+Thought: Customer gave a rating of 3.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1777 - Customer 777
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1779 - Customer 779
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1779 - Customer 779
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1779 - Customer 779
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1781 - Customer 781
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1781 - Customer 781
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1782 - Customer 782
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1782 - Customer 782
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1782 - Customer 782
+Thought: Customer gave a rating of 2.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1783 - Customer 783
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1784 - Customer 784
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1784 - Customer 784
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1784 - Customer 784
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1785 - Customer 785
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1787 - Customer 787
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1787 - Customer 787
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1790 - Customer 790
+Thought: Customer gave a rating of 4.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1791 - Customer 791
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1792 - Customer 792
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1792 - Customer 792
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1793 - Customer 793
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1794 - Customer 794
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1794 - Customer 794
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1794 - Customer 794
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1795 - Customer 795
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1795 - Customer 795
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1798 - Customer 798
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1798 - Customer 798
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1800 - Customer 800
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1800 - Customer 800
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1800 - Customer 800
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1803 - Customer 803
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1804 - Customer 804
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1805 - Customer 805
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1806 - Customer 806
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1806 - Customer 806
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1807 - Customer 807
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1811 - Customer 811
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1811 - Customer 811
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1813 - Customer 813
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1813 - Customer 813
+Thought: Customer gave a rating of 2.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1814 - Customer 814
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1817 - Customer 817
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1817 - Customer 817
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1817 - Customer 817
+Thought: Customer gave a rating of 2.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1818 - Customer 818
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1818 - Customer 818
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1819 - Customer 819
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1820 - Customer 820
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1820 - Customer 820
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1820 - Customer 820
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1820 - Customer 820
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1821 - Customer 821
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1821 - Customer 821
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1823 - Customer 823
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1824 - Customer 824
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1825 - Customer 825
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1825 - Customer 825
+Thought: Customer gave a rating of 4.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1826 - Customer 826
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1826 - Customer 826
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1827 - Customer 827
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1827 - Customer 827
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1827 - Customer 827
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1828 - Customer 828
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1829 - Customer 829
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1829 - Customer 829
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1830 - Customer 830
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1830 - Customer 830
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1834 - Customer 834
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1836 - Customer 836
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1836 - Customer 836
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1837 - Customer 837
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1837 - Customer 837
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1837 - Customer 837
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1839 - Customer 839
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1840 - Customer 840
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1840 - Customer 840
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1841 - Customer 841
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1841 - Customer 841
+Thought: Customer gave a rating of 5.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1841 - Customer 841
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1842 - Customer 842
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1844 - Customer 844
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1848 - Customer 848
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1848 - Customer 848
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1852 - Customer 852
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1852 - Customer 852
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1855 - Customer 855
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1856 - Customer 856
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1858 - Customer 858
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1858 - Customer 858
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1859 - Customer 859
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1860 - Customer 860
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1860 - Customer 860
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1863 - Customer 863
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1865 - Customer 865
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1866 - Customer 866
+Thought: Customer gave a rating of 3.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1866 - Customer 866
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1867 - Customer 867
+Thought: Customer gave a rating of 5.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1868 - Customer 868
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1869 - Customer 869
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1869 - Customer 869
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1870 - Customer 870
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1871 - Customer 871
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1871 - Customer 871
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1871 - Customer 871
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1871 - Customer 871
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1873 - Customer 873
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1873 - Customer 873
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1874 - Customer 874
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1874 - Customer 874
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1876 - Customer 876
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1877 - Customer 877
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1877 - Customer 877
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1877 - Customer 877
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1879 - Customer 879
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1879 - Customer 879
+Thought: Customer gave a rating of 2.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1879 - Customer 879
+Thought: Customer gave a rating of 1.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1880 - Customer 880
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1881 - Customer 881
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1882 - Customer 882
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1882 - Customer 882
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1882 - Customer 882
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1884 - Customer 884
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1884 - Customer 884
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1885 - Customer 885
+Thought: Customer gave a rating of 3.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1886 - Customer 886
+Thought: Customer gave a rating of 3.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1886 - Customer 886
+Thought: Customer gave a rating of 3.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1886 - Customer 886
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1887 - Customer 887
+Thought: Customer gave a rating of 3.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1889 - Customer 889
+Thought: Customer gave a rating of 1.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1889 - Customer 889
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1889 - Customer 889
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1890 - Customer 890
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1890 - Customer 890
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1891 - Customer 891
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1891 - Customer 891
+Thought: Customer gave a rating of 4.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1891 - Customer 891
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1892 - Customer 892
+Thought: Customer gave a rating of 2.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1892 - Customer 892
+Thought: Customer gave a rating of 2.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1893 - Customer 893
+Thought: Customer gave a rating of 4.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1893 - Customer 893
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1893 - Customer 893
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1897 - Customer 897
+Thought: Customer gave a rating of 5.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1897 - Customer 897
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1898 - Customer 898
+Thought: Customer gave a rating of 2.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1898 - Customer 898
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1898 - Customer 898
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1899 - Customer 899
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1900 - Customer 900
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1900 - Customer 900
+Thought: Customer gave a rating of 4.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1903 - Customer 903
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1903 - Customer 903
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1905 - Customer 905
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1906 - Customer 906
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1906 - Customer 906
+Thought: Customer gave a rating of 4.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1907 - Customer 907
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1908 - Customer 908
+Thought: Customer gave a rating of 5.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1910 - Customer 910
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1910 - Customer 910
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1910 - Customer 910
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1911 - Customer 911
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1911 - Customer 911
+Thought: Customer gave a rating of 5.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1912 - Customer 912
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1913 - Customer 913
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1914 - Customer 914
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1914 - Customer 914
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1915 - Customer 915
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1917 - Customer 917
+Thought: Customer gave a rating of 1.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1920 - Customer 920
+Thought: Customer gave a rating of 3.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1920 - Customer 920
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1920 - Customer 920
+Thought: Customer gave a rating of 5.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1921 - Customer 921
+Thought: Customer gave a rating of 4.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1923 - Customer 923
+Thought: Customer gave a rating of 5.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1924 - Customer 924
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1924 - Customer 924
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1929 - Customer 929
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1930 - Customer 930
+Thought: Customer gave a rating of 3.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1932 - Customer 932
+Thought: Customer gave a rating of 4.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1933 - Customer 933
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1935 - Customer 935
+Thought: Customer gave a rating of 3.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1935 - Customer 935
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1935 - Customer 935
+Thought: Customer gave a rating of 4.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1937 - Customer 937
+Thought: Customer gave a rating of 1.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1942 - Customer 942
+Thought: Customer gave a rating of 5.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1944 - Customer 944
+Thought: Customer gave a rating of 3.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1945 - Customer 945
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1946 - Customer 946
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1947 - Customer 947
+Thought: Customer gave a rating of 4.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1947 - Customer 947
+Thought: Customer gave a rating of 3.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1948 - Customer 948
+Thought: Customer gave a rating of 1.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1948 - Customer 948
+Thought: Customer gave a rating of 1.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1948 - Customer 948
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1949 - Customer 949
+Thought: Customer gave a rating of 1.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1949 - Customer 949
+Thought: Customer gave a rating of 1.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1950 - Customer 950
+Thought: Customer gave a rating of 5.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1950 - Customer 950
+Thought: Customer gave a rating of 1.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1952 - Customer 952
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1953 - Customer 953
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1953 - Customer 953
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1953 - Customer 953
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1953 - Customer 953
+Thought: Customer gave a rating of 2.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1955 - Customer 955
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1956 - Customer 956
+Thought: Customer gave a rating of 1.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1958 - Customer 958
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1959 - Customer 959
+Thought: Customer gave a rating of 2.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1961 - Customer 961
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1962 - Customer 962
+Thought: Customer gave a rating of 4.0 and said: 'Product was damaged on arrival.'
+
+Action: Analyze review for customer 1964 - Customer 964
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1966 - Customer 966
+Thought: Customer gave a rating of 5.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1967 - Customer 967
+Thought: Customer gave a rating of 4.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1968 - Customer 968
+Thought: Customer gave a rating of 5.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1970 - Customer 970
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1970 - Customer 970
+Thought: Customer gave a rating of 2.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1972 - Customer 972
+Thought: Customer gave a rating of 3.0 and said: 'Affordable and high quality.'
+
+Action: Analyze review for customer 1972 - Customer 972
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1972 - Customer 972
+Thought: Customer gave a rating of 1.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1976 - Customer 976
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1978 - Customer 978
+Thought: Customer gave a rating of 2.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1978 - Customer 978
+Thought: Customer gave a rating of 4.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1979 - Customer 979
+Thought: Customer gave a rating of 2.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1980 - Customer 980
+Thought: Customer gave a rating of 2.0 and said: 'Amazing customer support, will buy again.'
+
+Action: Analyze review for customer 1981 - Customer 981
+Thought: Customer gave a rating of 4.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1982 - Customer 982
+Thought: Customer gave a rating of 3.0 and said: 'Excellent service, highly recommended!'
+
+Action: Analyze review for customer 1982 - Customer 982
+Thought: Customer gave a rating of 1.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1983 - Customer 983
+Thought: Customer gave a rating of 5.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1983 - Customer 983
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1984 - Customer 984
+Thought: Customer gave a rating of 5.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1984 - Customer 984
+Thought: Customer gave a rating of 1.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1984 - Customer 984
+Thought: Customer gave a rating of 5.0 and said: 'Terrible experience, would not recommend.'
+
+Action: Analyze review for customer 1986 - Customer 986
+Thought: Customer gave a rating of 3.0 and said: 'Not satisfied with the quality.'
+
+Action: Analyze review for customer 1987 - Customer 987
+Thought: Customer gave a rating of 5.0 and said: 'Average, nothing special.'
+
+Action: Analyze review for customer 1988 - Customer 988
+Thought: Customer gave a rating of 2.0 and said: 'Disappointed, not as advertised.'
+
+Action: Analyze review for customer 1990 - Customer 990
+Thought: Customer gave a rating of 2.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 1993 - Customer 993
+Thought: Customer gave a rating of 3.0 and said: 'Fast shipping, but packaging was poor.'
+
+Action: Analyze review for customer 1993 - Customer 993
+Thought: Customer gave a rating of 1.0 and said: 'Loved it! Very happy with my purchase.'
+
+Action: Analyze review for customer 1995 - Customer 995
+Thought: Customer gave a rating of 5.0 and said: 'The item is not as described.'
+
+Action: Analyze review for customer 1996 - Customer 996
+Thought: Customer gave a rating of 2.0 and said: 'Very good experience!'
+
+Action: Analyze review for customer 1997 - Customer 997
+Thought: Customer gave a rating of 2.0 and said: 'Great product! Fast delivery.'
+
+Action: Analyze review for customer 1997 - Customer 997
+Thought: Customer gave a rating of 3.0 and said: 'Would buy again!'
+
+Action: Analyze review for customer 1998 - Customer 998
+Thought: Customer gave a rating of 4.0 and said: 'Customer service was rude.'
+
+Action: Analyze review for customer 2000 - Customer 1000
+Thought: Customer gave a rating of 2.0 and said: 'Average, nothing special.'

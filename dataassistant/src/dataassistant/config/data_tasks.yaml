@@ -1,0 +1,48 @@
+understand_requirement_task:
+  description: >
+        Translate the business requirement into a clear and structured format for data engineers. 
+        The requirement is to retrieve all customer details along with their history reviews. Ensure the requirement 
+        is precise, unambiguous, and easy to understand. and refer all table infomation which we have in the columns_information
+        refer below columns_information, only those infomation can be used. 
+        <columns_information>\n
+        'table': customer_reviews
+        '{'
+            "review_id": "A unique identifier for each review (review id). This is typically the primary key.",\n
+            "customer_id": "Refers to the unique ID of the customer who wrote the review. This is a foreign key linking to a customers table",\n
+            "review_text": "Contains the actual review content written by the customer.",\n
+            "rating": "Stores the rating score given by the customer. this would be a value between 1 to 5. 1 is lowest and 5 is highest."
+        '}'
+        'table': customers
+        '{'
+            "customer_id": "A unique identifier for each customer. This is the primary key.",
+            "customer_name": "Stores the full name of the customer.",
+            "email": "The email address of the customer. This is unique and not null.",
+            "phone": "The phone number of the customer. It should be unique to prevent duplicate contacts.",
+            "address": "The physical address of the customer.",
+            "age": "Stores the age of the customer. This should be a non-negative integer.",
+            "gender": "The gender of the customer. Allowed values are 'Male', 'Female', 'Non-binary', or 'Other'.",
+            "income_level": "Represents the income category of the customer. Allowed values are 'Low', 'Medium', or 'High'.",
+            "membership_status": "Defines the loyalty membership status. Allowed values are 'Bronze', 'Silver', 'Gold', or 'Platinum'."
+        '}'
+        </columns_information>
+  expected_output: >
+    Well-defined, clear text requirement
+  agent: senior_product_manager
+
+code_review_task:
+  description: >
+    Review the context you got and expand each topic into a full section for a report.
+    Make sure the report is detailed and contains any and all relevant information.
+  expected_output: >
+    A fully fledged report with the main topics, each with a full section of information.
+    Formatted as markdown without '```'
+  agent: senior_data_engineer_manager
+
+write_query_task:
+  description: >
+    Review the context you got and expand each topic into a full section for a report.
+    Make sure the report is detailed and contains any and all relevant information.
+  expected_output: >
+    A fully fledged report with the main topics, each with a full section of information.
+    Formatted as markdown without '```'
+  agent: senior_data_engineer

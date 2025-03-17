@@ -1,0 +1,1382 @@
+customer_id,customer_name,email,phone,address,age,gender,income_level,membership_status,review_id,review_text,rating
+1001,Customer 1,customer1@example.com,744-799-8927,"540 Random St, City 20, State CA",32,Male,Low,VIP,965,Loved it! Very happy with my purchase.,2
+1002,Customer 2,customer2@example.com,611-789-6410,"369 Random St, City 15, State CA",33,Female,High,Premium,,,
+1003,Customer 3,customer3@example.com,240-264-9090,"458 Random St, City 5, State FL",46,Non-Binary,High,VIP,822,"Excellent service, highly recommended!",3
+1004,Customer 4,customer4@example.com,189-963-2948,"22 Random St, City 11, State CA",68,Male,High,Premium,,,
+1005,Customer 5,customer5@example.com,748-178-6832,"585 Random St, City 1, State WA",55,Male,High,Premium,129,Product was damaged on arrival.,5
+1005,Customer 5,customer5@example.com,748-178-6832,"585 Random St, City 1, State WA",55,Male,High,Premium,352,Customer service was rude.,1
+1006,Customer 6,customer6@example.com,551-692-4416,"937 Random St, City 14, State WA",20,Male,Middle,VIP,34,Not satisfied with the quality.,3
+1006,Customer 6,customer6@example.com,551-692-4416,"937 Random St, City 14, State WA",20,Male,Middle,VIP,988,Not satisfied with the quality.,2
+1007,Customer 7,customer7@example.com,996-660-1777,"406 Random St, City 14, State NY",46,Non-Binary,High,Regular,92,Great product! Fast delivery.,4
+1008,Customer 8,customer8@example.com,654-700-4878,"895 Random St, City 18, State WA",26,Female,High,Regular,434,Product was damaged on arrival.,1
+1008,Customer 8,customer8@example.com,654-700-4878,"895 Random St, City 18, State WA",26,Female,High,Regular,567,"Average, nothing special.",4
+1008,Customer 8,customer8@example.com,654-700-4878,"895 Random St, City 18, State WA",26,Female,High,Regular,652,"Amazing customer support, will buy again.",5
+1009,Customer 9,customer9@example.com,682-838-8971,"275 Random St, City 9, State NY",43,Male,High,Premium,387,Loved it! Very happy with my purchase.,3
+1009,Customer 9,customer9@example.com,682-838-8971,"275 Random St, City 9, State NY",43,Male,High,Premium,834,Product was damaged on arrival.,2
+1010,Customer 10,customer10@example.com,557-623-5284,"45 Random St, City 3, State CA",41,Male,High,VIP,93,Not satisfied with the quality.,4
+1010,Customer 10,customer10@example.com,557-623-5284,"45 Random St, City 3, State CA",41,Male,High,VIP,206,Not satisfied with the quality.,3
+1010,Customer 10,customer10@example.com,557-623-5284,"45 Random St, City 3, State CA",41,Male,High,VIP,377,Customer service was rude.,3
+1011,Customer 11,customer11@example.com,981-856-6316,"932 Random St, City 9, State NY",50,Male,Low,VIP,61,Customer service was rude.,1
+1011,Customer 11,customer11@example.com,981-856-6316,"932 Random St, City 9, State NY",50,Male,Low,VIP,184,Customer service was rude.,1
+1012,Customer 12,customer12@example.com,961-168-8783,"353 Random St, City 19, State CA",38,Non-Binary,High,Premium,564,"Fast shipping, but packaging was poor.",1
+1012,Customer 12,customer12@example.com,961-168-8783,"353 Random St, City 19, State CA",38,Non-Binary,High,Premium,943,"Terrible experience, would not recommend.",3
+1013,Customer 13,customer13@example.com,588-883-2436,"75 Random St, City 3, State FL",42,Non-Binary,Middle,VIP,,,
+1014,Customer 14,customer14@example.com,163-550-3817,"452 Random St, City 10, State TX",36,Male,Low,Premium,,,
+1015,Customer 15,customer15@example.com,197-537-8777,"77 Random St, City 12, State WA",53,Male,Middle,Premium,263,Affordable and high quality.,3
+1015,Customer 15,customer15@example.com,197-537-8777,"77 Random St, City 12, State WA",53,Male,Middle,Premium,795,Great product! Fast delivery.,1
+1016,Customer 16,customer16@example.com,963-874-9925,"535 Random St, City 9, State CA",55,Male,Middle,Regular,351,Very good experience!,5
+1017,Customer 17,customer17@example.com,389-736-7742,"451 Random St, City 15, State FL",49,Male,Low,Regular,437,"Amazing customer support, will buy again.",1
+1018,Customer 18,customer18@example.com,896-484-1107,"673 Random St, City 2, State TX",28,Female,High,Premium,138,Affordable and high quality.,2
+1018,Customer 18,customer18@example.com,896-484-1107,"673 Random St, City 2, State TX",28,Female,High,Premium,316,Product was damaged on arrival.,4
+1018,Customer 18,customer18@example.com,896-484-1107,"673 Random St, City 2, State TX",28,Female,High,Premium,395,Product was damaged on arrival.,1
+1019,Customer 19,customer19@example.com,865-347-5409,"533 Random St, City 6, State WA",55,Non-Binary,Middle,VIP,,,
+1020,Customer 20,customer20@example.com,404-506-9713,"894 Random St, City 11, State WA",31,Non-Binary,High,Premium,,,
+1021,Customer 21,customer21@example.com,910-613-3223,"953 Random St, City 12, State CA",32,Male,High,Regular,,,
+1022,Customer 22,customer22@example.com,470-731-4285,"903 Random St, City 13, State WA",23,Non-Binary,High,Premium,42,"Fast shipping, but packaging was poor.",5
+1023,Customer 23,customer23@example.com,355-984-2283,"656 Random St, City 6, State TX",25,Male,Middle,Regular,,,
+1024,Customer 24,customer24@example.com,644-804-1524,"134 Random St, City 19, State NY",68,Male,Low,Regular,,,
+1025,Customer 25,customer25@example.com,852-418-5376,"463 Random St, City 12, State TX",35,Male,Low,Premium,88,"Disappointed, not as advertised.",2
+1025,Customer 25,customer25@example.com,852-418-5376,"463 Random St, City 12, State TX",35,Male,Low,Premium,205,Would buy again!,3
+1025,Customer 25,customer25@example.com,852-418-5376,"463 Random St, City 12, State TX",35,Male,Low,Premium,286,Not satisfied with the quality.,2
+1025,Customer 25,customer25@example.com,852-418-5376,"463 Random St, City 12, State TX",35,Male,Low,Premium,327,Would buy again!,2
+1025,Customer 25,customer25@example.com,852-418-5376,"463 Random St, City 12, State TX",35,Male,Low,Premium,672,"Terrible experience, would not recommend.",2
+1026,Customer 26,customer26@example.com,608-341-9076,"642 Random St, City 15, State CA",60,Male,Middle,Regular,595,"Average, nothing special.",1
+1027,Customer 27,customer27@example.com,827-515-4113,"544 Random St, City 20, State WA",64,Male,High,Premium,154,"Fast shipping, but packaging was poor.",4
+1027,Customer 27,customer27@example.com,827-515-4113,"544 Random St, City 20, State WA",64,Male,High,Premium,552,Would buy again!,3
+1028,Customer 28,customer28@example.com,890-183-5176,"759 Random St, City 10, State CA",44,Male,High,Regular,,,
+1029,Customer 29,customer29@example.com,695-268-2897,"351 Random St, City 3, State NY",28,Male,High,Regular,480,Would buy again!,4
+1029,Customer 29,customer29@example.com,695-268-2897,"351 Random St, City 3, State NY",28,Male,High,Regular,684,Very good experience!,1
+1030,Customer 30,customer30@example.com,986-148-2203,"357 Random St, City 7, State NY",37,Female,Middle,Regular,233,Product was damaged on arrival.,5
+1030,Customer 30,customer30@example.com,986-148-2203,"357 Random St, City 7, State NY",37,Female,Middle,Regular,947,"Amazing customer support, will buy again.",3
+1031,Customer 31,customer31@example.com,869-466-4493,"596 Random St, City 10, State CA",30,Non-Binary,High,Regular,557,Would buy again!,3
+1031,Customer 31,customer31@example.com,869-466-4493,"596 Random St, City 10, State CA",30,Non-Binary,High,Regular,937,"Fast shipping, but packaging was poor.",5
+1032,Customer 32,customer32@example.com,666-136-8182,"673 Random St, City 4, State FL",29,Male,Low,Premium,137,Would buy again!,3
+1032,Customer 32,customer32@example.com,666-136-8182,"673 Random St, City 4, State FL",29,Male,Low,Premium,584,Loved it! Very happy with my purchase.,4
+1033,Customer 33,customer33@example.com,521-887-6724,"22 Random St, City 5, State WA",34,Male,High,Premium,373,Very good experience!,3
+1033,Customer 33,customer33@example.com,521-887-6724,"22 Random St, City 5, State WA",34,Male,High,Premium,685,Customer service was rude.,4
+1034,Customer 34,customer34@example.com,179-503-1272,"922 Random St, City 4, State WA",20,Non-Binary,Low,VIP,,,
+1035,Customer 35,customer35@example.com,621-455-1285,"482 Random St, City 10, State CA",47,Male,High,Premium,,,
+1036,Customer 36,customer36@example.com,326-176-7767,"739 Random St, City 6, State CA",51,Female,Low,Premium,848,"Fast shipping, but packaging was poor.",1
+1037,Customer 37,customer37@example.com,741-575-1781,"239 Random St, City 10, State NY",44,Female,High,VIP,19,Customer service was rude.,3
+1038,Customer 38,customer38@example.com,668-632-3412,"880 Random St, City 12, State WA",60,Female,Low,Premium,778,Customer service was rude.,3
+1039,Customer 39,customer39@example.com,197-664-2416,"882 Random St, City 12, State FL",35,Female,Middle,Regular,887,"Excellent service, highly recommended!",1
+1040,Customer 40,customer40@example.com,331-312-2892,"960 Random St, City 6, State FL",48,Female,Low,Premium,,,
+1041,Customer 41,customer41@example.com,416-366-3495,"297 Random St, City 8, State TX",48,Non-Binary,Low,VIP,90,Product was damaged on arrival.,1
+1041,Customer 41,customer41@example.com,416-366-3495,"297 Random St, City 8, State TX",48,Non-Binary,Low,VIP,837,"Disappointed, not as advertised.",4
+1042,Customer 42,customer42@example.com,943-526-2082,"853 Random St, City 14, State CA",21,Female,High,Premium,865,"Amazing customer support, will buy again.",2
+1042,Customer 42,customer42@example.com,943-526-2082,"853 Random St, City 14, State CA",21,Female,High,Premium,915,Affordable and high quality.,2
+1043,Customer 43,customer43@example.com,657-609-6121,"831 Random St, City 20, State FL",33,Female,High,Premium,277,Loved it! Very happy with my purchase.,4
+1044,Customer 44,customer44@example.com,414-423-1567,"428 Random St, City 20, State CA",46,Male,Low,VIP,,,
+1045,Customer 45,customer45@example.com,734-602-8342,"489 Random St, City 19, State NY",57,Male,Low,Premium,824,Loved it! Very happy with my purchase.,2
+1045,Customer 45,customer45@example.com,734-602-8342,"489 Random St, City 19, State NY",57,Male,Low,Premium,825,"Disappointed, not as advertised.",5
+1046,Customer 46,customer46@example.com,499-334-4710,"961 Random St, City 6, State WA",68,Non-Binary,High,Premium,415,"Fast shipping, but packaging was poor.",4
+1047,Customer 47,customer47@example.com,922-391-5540,"210 Random St, City 3, State FL",62,Male,Low,Regular,472,Affordable and high quality.,2
+1048,Customer 48,customer48@example.com,521-915-6390,"783 Random St, City 4, State CA",21,Female,Low,Regular,679,Affordable and high quality.,5
+1048,Customer 48,customer48@example.com,521-915-6390,"783 Random St, City 4, State CA",21,Female,Low,Regular,761,The item is not as described.,5
+1048,Customer 48,customer48@example.com,521-915-6390,"783 Random St, City 4, State CA",21,Female,Low,Regular,953,Would buy again!,1
+1049,Customer 49,customer49@example.com,605-979-7669,"300 Random St, City 20, State NY",43,Male,High,VIP,597,"Excellent service, highly recommended!",3
+1049,Customer 49,customer49@example.com,605-979-7669,"300 Random St, City 20, State NY",43,Male,High,VIP,689,"Average, nothing special.",3
+1050,Customer 50,customer50@example.com,546-454-4573,"303 Random St, City 10, State WA",60,Female,Middle,VIP,130,"Average, nothing special.",1
+1051,Customer 51,customer51@example.com,839-382-6510,"840 Random St, City 11, State NY",30,Female,High,Premium,,,
+1052,Customer 52,customer52@example.com,552-106-7897,"4 Random St, City 12, State FL",62,Male,Low,Premium,149,"Amazing customer support, will buy again.",2
+1053,Customer 53,customer53@example.com,265-805-6839,"100 Random St, City 2, State CA",66,Female,Middle,VIP,245,Product was damaged on arrival.,1
+1053,Customer 53,customer53@example.com,265-805-6839,"100 Random St, City 2, State CA",66,Female,Middle,VIP,246,Very good experience!,1
+1053,Customer 53,customer53@example.com,265-805-6839,"100 Random St, City 2, State CA",66,Female,Middle,VIP,774,"Excellent service, highly recommended!",5
+1054,Customer 54,customer54@example.com,506-458-2652,"776 Random St, City 20, State WA",37,Non-Binary,Middle,Regular,515,"Average, nothing special.",2
+1054,Customer 54,customer54@example.com,506-458-2652,"776 Random St, City 20, State WA",37,Non-Binary,Middle,Regular,693,"Average, nothing special.",3
+1055,Customer 55,customer55@example.com,173-826-7263,"853 Random St, City 3, State NY",32,Male,Middle,Regular,53,Would buy again!,2
+1055,Customer 55,customer55@example.com,173-826-7263,"853 Random St, City 3, State NY",32,Male,Middle,Regular,783,Customer service was rude.,3
+1056,Customer 56,customer56@example.com,460-727-7376,"486 Random St, City 18, State NY",22,Male,High,Regular,772,Customer service was rude.,1
+1057,Customer 57,customer57@example.com,981-232-3709,"737 Random St, City 16, State NY",64,Female,Low,Premium,601,"Amazing customer support, will buy again.",4
+1057,Customer 57,customer57@example.com,981-232-3709,"737 Random St, City 16, State NY",64,Female,Low,Premium,935,Not satisfied with the quality.,1
+1057,Customer 57,customer57@example.com,981-232-3709,"737 Random St, City 16, State NY",64,Female,Low,Premium,971,Affordable and high quality.,5
+1058,Customer 58,customer58@example.com,797-559-3341,"543 Random St, City 12, State WA",62,Female,High,VIP,703,Product was damaged on arrival.,2
+1059,Customer 59,customer59@example.com,412-973-9743,"457 Random St, City 17, State WA",61,Female,Low,Premium,330,Very good experience!,1
+1060,Customer 60,customer60@example.com,180-684-4145,"788 Random St, City 14, State CA",46,Non-Binary,High,Premium,,,
+1061,Customer 61,customer61@example.com,495-322-5362,"496 Random St, City 13, State NY",46,Non-Binary,High,Regular,,,
+1062,Customer 62,customer62@example.com,758-650-9695,"662 Random St, City 20, State FL",46,Male,High,Premium,,,
+1063,Customer 63,customer63@example.com,298-376-7433,"716 Random St, City 17, State NY",62,Non-Binary,Low,Regular,180,Product was damaged on arrival.,1
+1064,Customer 64,customer64@example.com,898-996-3670,"173 Random St, City 10, State TX",50,Male,Middle,Regular,,,
+1065,Customer 65,customer65@example.com,278-784-2789,"564 Random St, City 6, State CA",67,Female,Middle,VIP,,,
+1066,Customer 66,customer66@example.com,719-776-9902,"633 Random St, City 18, State TX",43,Male,Middle,Regular,,,
+1067,Customer 67,customer67@example.com,318-754-9278,"972 Random St, City 6, State CA",18,Female,High,Regular,,,
+1068,Customer 68,customer68@example.com,843-875-3572,"441 Random St, City 16, State NY",67,Non-Binary,Middle,Regular,420,"Excellent service, highly recommended!",1
+1068,Customer 68,customer68@example.com,843-875-3572,"441 Random St, City 16, State NY",67,Non-Binary,Middle,Regular,835,Affordable and high quality.,3
+1069,Customer 69,customer69@example.com,843-359-5813,"546 Random St, City 17, State TX",36,Female,Low,Regular,,,
+1070,Customer 70,customer70@example.com,515-520-7548,"242 Random St, City 15, State CA",48,Male,Middle,Premium,,,
+1071,Customer 71,customer71@example.com,333-750-1987,"738 Random St, City 11, State NY",22,Male,High,VIP,978,"Terrible experience, would not recommend.",5
+1072,Customer 72,customer72@example.com,920-556-9640,"854 Random St, City 4, State NY",38,Male,Middle,VIP,,,
+1073,Customer 73,customer73@example.com,722-100-5978,"268 Random St, City 8, State NY",26,Non-Binary,Middle,VIP,,,
+1074,Customer 74,customer74@example.com,819-314-2945,"310 Random St, City 5, State CA",70,Non-Binary,Low,VIP,,,
+1075,Customer 75,customer75@example.com,728-271-1343,"906 Random St, City 15, State WA",45,Non-Binary,Middle,Premium,,,
+1076,Customer 76,customer76@example.com,738-247-4057,"163 Random St, City 19, State FL",56,Male,High,Regular,619,Loved it! Very happy with my purchase.,1
+1077,Customer 77,customer77@example.com,542-421-7492,"937 Random St, City 17, State NY",30,Male,Low,Premium,,,
+1078,Customer 78,customer78@example.com,738-494-5934,"370 Random St, City 20, State TX",27,Male,Middle,Premium,,,
+1079,Customer 79,customer79@example.com,666-741-7450,"328 Random St, City 17, State TX",18,Non-Binary,High,Premium,36,"Fast shipping, but packaging was poor.",1
+1079,Customer 79,customer79@example.com,666-741-7450,"328 Random St, City 17, State TX",18,Non-Binary,High,Premium,232,Great product! Fast delivery.,5
+1080,Customer 80,customer80@example.com,289-256-6971,"562 Random St, City 14, State FL",50,Female,Middle,VIP,2,Would buy again!,3
+1080,Customer 80,customer80@example.com,289-256-6971,"562 Random St, City 14, State FL",50,Female,Middle,VIP,350,"Fast shipping, but packaging was poor.",5
+1081,Customer 81,customer81@example.com,825-324-1707,"752 Random St, City 3, State WA",47,Non-Binary,Middle,Regular,,,
+1082,Customer 82,customer82@example.com,872-464-9783,"678 Random St, City 7, State FL",40,Non-Binary,High,Premium,,,
+1083,Customer 83,customer83@example.com,945-842-1309,"497 Random St, City 6, State TX",50,Non-Binary,Middle,Premium,225,Not satisfied with the quality.,4
+1084,Customer 84,customer84@example.com,399-652-8072,"875 Random St, City 16, State FL",59,Non-Binary,Low,VIP,,,
+1085,Customer 85,customer85@example.com,536-934-5531,"30 Random St, City 15, State WA",45,Non-Binary,Low,VIP,698,Loved it! Very happy with my purchase.,3
+1086,Customer 86,customer86@example.com,601-422-5189,"739 Random St, City 1, State TX",33,Male,High,Premium,,,
+1087,Customer 87,customer87@example.com,207-890-5258,"992 Random St, City 5, State WA",28,Female,High,Premium,,,
+1088,Customer 88,customer88@example.com,284-299-1370,"831 Random St, City 2, State CA",28,Non-Binary,Middle,VIP,811,Product was damaged on arrival.,3
+1089,Customer 89,customer89@example.com,312-691-2450,"947 Random St, City 17, State FL",44,Male,Middle,VIP,,,
+1090,Customer 90,customer90@example.com,773-146-4954,"826 Random St, City 20, State NY",69,Female,Low,Premium,,,
+1091,Customer 91,customer91@example.com,992-879-9712,"324 Random St, City 14, State TX",39,Non-Binary,High,VIP,1,"Amazing customer support, will buy again.",4
+1091,Customer 91,customer91@example.com,992-879-9712,"324 Random St, City 14, State TX",39,Non-Binary,High,VIP,356,"Fast shipping, but packaging was poor.",5
+1092,Customer 92,customer92@example.com,401-118-4611,"917 Random St, City 12, State CA",45,Male,High,Premium,,,
+1093,Customer 93,customer93@example.com,151-452-6940,"585 Random St, City 15, State CA",19,Female,Low,Regular,,,
+1094,Customer 94,customer94@example.com,761-831-1487,"59 Random St, City 17, State TX",30,Non-Binary,Low,Premium,798,Very good experience!,1
+1095,Customer 95,customer95@example.com,726-547-9134,"330 Random St, City 15, State TX",24,Male,Low,Premium,,,
+1096,Customer 96,customer96@example.com,348-910-3168,"699 Random St, City 12, State NY",40,Female,Low,VIP,,,
+1097,Customer 97,customer97@example.com,588-500-2205,"466 Random St, City 13, State WA",23,Male,High,VIP,110,Very good experience!,2
+1098,Customer 98,customer98@example.com,284-643-2836,"652 Random St, City 10, State TX",18,Non-Binary,High,VIP,7,Affordable and high quality.,2
+1098,Customer 98,customer98@example.com,284-643-2836,"652 Random St, City 10, State TX",18,Non-Binary,High,VIP,805,"Fast shipping, but packaging was poor.",5
+1099,Customer 99,customer99@example.com,226-583-3039,"821 Random St, City 14, State NY",69,Female,Middle,VIP,,,
+1100,Customer 100,customer100@example.com,708-708-4875,"720 Random St, City 7, State WA",47,Non-Binary,Low,Premium,,,
+1101,Customer 101,customer101@example.com,871-420-2167,"47 Random St, City 10, State TX",18,Female,Low,Premium,,,
+1102,Customer 102,customer102@example.com,566-163-2348,"799 Random St, City 3, State FL",26,Male,High,Regular,787,The item is not as described.,5
+1103,Customer 103,customer103@example.com,377-565-5780,"710 Random St, City 18, State TX",22,Male,High,Premium,533,Affordable and high quality.,3
+1104,Customer 104,customer104@example.com,993-772-4273,"14 Random St, City 6, State TX",60,Female,Middle,Regular,786,"Amazing customer support, will buy again.",1
+1105,Customer 105,customer105@example.com,727-722-1037,"16 Random St, City 8, State WA",21,Male,High,Premium,,,
+1106,Customer 106,customer106@example.com,111-526-6512,"223 Random St, City 10, State FL",63,Male,Low,VIP,223,"Amazing customer support, will buy again.",3
+1107,Customer 107,customer107@example.com,773-101-5044,"586 Random St, City 3, State NY",37,Female,Low,VIP,,,
+1108,Customer 108,customer108@example.com,672-484-9259,"606 Random St, City 9, State FL",67,Non-Binary,High,Regular,,,
+1109,Customer 109,customer109@example.com,882-459-3879,"775 Random St, City 17, State FL",57,Male,High,VIP,370,"Terrible experience, would not recommend.",5
+1110,Customer 110,customer110@example.com,173-714-3383,"574 Random St, City 6, State TX",45,Male,Middle,Premium,,,
+1111,Customer 111,customer111@example.com,383-813-8221,"230 Random St, City 16, State CA",47,Female,High,Regular,309,"Disappointed, not as advertised.",3
+1112,Customer 112,customer112@example.com,820-568-8620,"99 Random St, City 15, State TX",43,Male,High,Regular,388,Not satisfied with the quality.,5
+1113,Customer 113,customer113@example.com,779-865-6299,"929 Random St, City 8, State TX",54,Male,Low,VIP,,,
+1114,Customer 114,customer114@example.com,821-334-3102,"108 Random St, City 14, State FL",23,Female,High,Premium,,,
+1115,Customer 115,customer115@example.com,732-926-2491,"50 Random St, City 4, State CA",65,Female,Middle,Premium,471,Great product! Fast delivery.,3
+1116,Customer 116,customer116@example.com,732-352-8161,"366 Random St, City 9, State WA",33,Male,High,Premium,,,
+1117,Customer 117,customer117@example.com,939-132-2783,"852 Random St, City 12, State NY",67,Non-Binary,Low,VIP,929,Product was damaged on arrival.,2
+1118,Customer 118,customer118@example.com,201-714-7852,"852 Random St, City 13, State NY",62,Male,High,Regular,864,"Amazing customer support, will buy again.",2
+1119,Customer 119,customer119@example.com,465-678-1944,"180 Random St, City 13, State WA",30,Male,Middle,VIP,,,
+1120,Customer 120,customer120@example.com,815-608-8940,"801 Random St, City 4, State NY",47,Female,Middle,Premium,,,
+1121,Customer 121,customer121@example.com,653-329-9859,"423 Random St, City 2, State FL",39,Female,Middle,VIP,236,"Disappointed, not as advertised.",1
+1121,Customer 121,customer121@example.com,653-329-9859,"423 Random St, City 2, State FL",39,Female,Middle,VIP,852,"Amazing customer support, will buy again.",4
+1122,Customer 122,customer122@example.com,948-619-1285,"165 Random St, City 13, State CA",43,Non-Binary,Low,Regular,,,
+1123,Customer 123,customer123@example.com,916-285-5573,"679 Random St, City 11, State NY",29,Male,Low,VIP,,,
+1124,Customer 124,customer124@example.com,209-152-6478,"242 Random St, City 20, State NY",32,Non-Binary,Low,VIP,,,
+1125,Customer 125,customer125@example.com,835-723-9978,"15 Random St, City 15, State NY",19,Female,Middle,Premium,38,"Average, nothing special.",3
+1125,Customer 125,customer125@example.com,835-723-9978,"15 Random St, City 15, State NY",19,Female,Middle,Premium,265,Not satisfied with the quality.,1
+1125,Customer 125,customer125@example.com,835-723-9978,"15 Random St, City 15, State NY",19,Female,Middle,Premium,647,Not satisfied with the quality.,2
+1125,Customer 125,customer125@example.com,835-723-9978,"15 Random St, City 15, State NY",19,Female,Middle,Premium,808,"Terrible experience, would not recommend.",4
+1126,Customer 126,customer126@example.com,411-668-7162,"817 Random St, City 20, State TX",34,Female,High,Premium,,,
+1127,Customer 127,customer127@example.com,586-472-2581,"55 Random St, City 5, State NY",62,Female,Low,Premium,851,Would buy again!,5
+1127,Customer 127,customer127@example.com,586-472-2581,"55 Random St, City 5, State NY",62,Female,Low,Premium,951,"Terrible experience, would not recommend.",1
+1128,Customer 128,customer128@example.com,455-586-1138,"473 Random St, City 11, State WA",59,Male,Low,Premium,15,"Excellent service, highly recommended!",5
+1129,Customer 129,customer129@example.com,920-243-5713,"297 Random St, City 9, State CA",46,Female,Low,Regular,23,Product was damaged on arrival.,4
+1130,Customer 130,customer130@example.com,469-241-8487,"17 Random St, City 8, State TX",44,Female,Middle,VIP,247,The item is not as described.,5
+1130,Customer 130,customer130@example.com,469-241-8487,"17 Random St, City 8, State TX",44,Female,Middle,VIP,913,"Excellent service, highly recommended!",3
+1131,Customer 131,customer131@example.com,542-371-1707,"710 Random St, City 6, State CA",35,Male,Low,VIP,143,"Average, nothing special.",5
+1131,Customer 131,customer131@example.com,542-371-1707,"710 Random St, City 6, State CA",35,Male,Low,VIP,235,"Terrible experience, would not recommend.",2
+1131,Customer 131,customer131@example.com,542-371-1707,"710 Random St, City 6, State CA",35,Male,Low,VIP,476,"Excellent service, highly recommended!",1
+1131,Customer 131,customer131@example.com,542-371-1707,"710 Random St, City 6, State CA",35,Male,Low,VIP,707,"Average, nothing special.",2
+1132,Customer 132,customer132@example.com,905-893-3318,"75 Random St, City 11, State TX",50,Female,Middle,VIP,,,
+1133,Customer 133,customer133@example.com,789-160-1066,"746 Random St, City 3, State NY",59,Non-Binary,High,Premium,227,"Amazing customer support, will buy again.",2
+1133,Customer 133,customer133@example.com,789-160-1066,"746 Random St, City 3, State NY",59,Non-Binary,High,Premium,501,"Fast shipping, but packaging was poor.",5
+1133,Customer 133,customer133@example.com,789-160-1066,"746 Random St, City 3, State NY",59,Non-Binary,High,Premium,630,Not satisfied with the quality.,1
+1134,Customer 134,customer134@example.com,660-864-8281,"769 Random St, City 1, State WA",40,Non-Binary,High,VIP,163,Customer service was rude.,1
+1134,Customer 134,customer134@example.com,660-864-8281,"769 Random St, City 1, State WA",40,Non-Binary,High,VIP,668,Not satisfied with the quality.,5
+1135,Customer 135,customer135@example.com,430-273-2365,"348 Random St, City 16, State NY",29,Female,High,Premium,,,
+1136,Customer 136,customer136@example.com,177-342-7221,"232 Random St, City 20, State CA",69,Non-Binary,Low,Regular,,,
+1137,Customer 137,customer137@example.com,129-973-4909,"220 Random St, City 1, State CA",52,Non-Binary,Low,Premium,721,Not satisfied with the quality.,4
+1137,Customer 137,customer137@example.com,129-973-4909,"220 Random St, City 1, State CA",52,Non-Binary,Low,Premium,948,"Terrible experience, would not recommend.",1
+1138,Customer 138,customer138@example.com,646-970-7739,"194 Random St, City 7, State CA",59,Non-Binary,Middle,VIP,905,Great product! Fast delivery.,3
+1139,Customer 139,customer139@example.com,541-224-8163,"994 Random St, City 14, State FL",30,Male,Middle,VIP,,,
+1140,Customer 140,customer140@example.com,607-416-8087,"361 Random St, City 14, State FL",68,Non-Binary,Low,VIP,134,"Fast shipping, but packaging was poor.",2
+1140,Customer 140,customer140@example.com,607-416-8087,"361 Random St, City 14, State FL",68,Non-Binary,Low,VIP,191,Very good experience!,2
+1140,Customer 140,customer140@example.com,607-416-8087,"361 Random St, City 14, State FL",68,Non-Binary,Low,VIP,797,Product was damaged on arrival.,1
+1141,Customer 141,customer141@example.com,134-209-2603,"699 Random St, City 13, State NY",59,Non-Binary,Middle,Premium,,,
+1142,Customer 142,customer142@example.com,272-259-3637,"671 Random St, City 3, State TX",64,Non-Binary,High,VIP,,,
+1143,Customer 143,customer143@example.com,554-909-5958,"440 Random St, City 5, State TX",27,Female,Middle,VIP,203,"Disappointed, not as advertised.",3
+1144,Customer 144,customer144@example.com,137-985-4338,"445 Random St, City 6, State CA",69,Male,Middle,Regular,86,Not satisfied with the quality.,1
+1145,Customer 145,customer145@example.com,331-699-3827,"271 Random St, City 13, State CA",36,Non-Binary,High,VIP,294,"Terrible experience, would not recommend.",4
+1146,Customer 146,customer146@example.com,640-894-2236,"585 Random St, City 12, State CA",58,Female,Middle,VIP,490,Not satisfied with the quality.,4
+1147,Customer 147,customer147@example.com,566-502-4159,"573 Random St, City 14, State FL",32,Male,Middle,Premium,376,Product was damaged on arrival.,1
+1147,Customer 147,customer147@example.com,566-502-4159,"573 Random St, City 14, State FL",32,Male,Middle,Premium,401,Very good experience!,3
+1148,Customer 148,customer148@example.com,224-339-4546,"735 Random St, City 13, State NY",52,Female,Middle,Regular,27,"Terrible experience, would not recommend.",3
+1148,Customer 148,customer148@example.com,224-339-4546,"735 Random St, City 13, State NY",52,Female,Middle,Regular,40,Would buy again!,4
+1148,Customer 148,customer148@example.com,224-339-4546,"735 Random St, City 13, State NY",52,Female,Middle,Regular,857,Not satisfied with the quality.,4
+1149,Customer 149,customer149@example.com,590-635-3912,"387 Random St, City 11, State FL",47,Non-Binary,Low,Premium,,,
+1150,Customer 150,customer150@example.com,793-462-5118,"327 Random St, City 17, State WA",49,Male,Middle,Regular,109,Affordable and high quality.,3
+1150,Customer 150,customer150@example.com,793-462-5118,"327 Random St, City 17, State WA",49,Male,Middle,Regular,436,"Disappointed, not as advertised.",1
+1151,Customer 151,customer151@example.com,821-737-8759,"662 Random St, City 2, State WA",57,Non-Binary,Low,Premium,,,
+1152,Customer 152,customer152@example.com,377-188-4398,"497 Random St, City 10, State CA",21,Non-Binary,High,VIP,336,Loved it! Very happy with my purchase.,2
+1152,Customer 152,customer152@example.com,377-188-4398,"497 Random St, City 10, State CA",21,Non-Binary,High,VIP,551,"Fast shipping, but packaging was poor.",2
+1152,Customer 152,customer152@example.com,377-188-4398,"497 Random St, City 10, State CA",21,Non-Binary,High,VIP,615,"Excellent service, highly recommended!",4
+1153,Customer 153,customer153@example.com,325-711-5506,"632 Random St, City 4, State TX",34,Non-Binary,Middle,VIP,68,Customer service was rude.,5
+1154,Customer 154,customer154@example.com,486-114-1836,"616 Random St, City 3, State NY",50,Female,Middle,VIP,,,
+1155,Customer 155,customer155@example.com,668-521-7300,"80 Random St, City 7, State WA",60,Non-Binary,Middle,Regular,139,Product was damaged on arrival.,1
+1156,Customer 156,customer156@example.com,997-799-3348,"776 Random St, City 4, State FL",30,Male,Middle,VIP,362,"Average, nothing special.",4
+1157,Customer 157,customer157@example.com,487-609-4504,"818 Random St, City 19, State NY",24,Male,Low,Regular,833,Would buy again!,4
+1158,Customer 158,customer158@example.com,599-602-1206,"412 Random St, City 4, State FL",64,Female,Low,Regular,183,Not satisfied with the quality.,3
+1158,Customer 158,customer158@example.com,599-602-1206,"412 Random St, City 4, State FL",64,Female,Low,Regular,531,"Disappointed, not as advertised.",3
+1159,Customer 159,customer159@example.com,154-897-6697,"419 Random St, City 17, State CA",21,Female,High,VIP,315,"Excellent service, highly recommended!",2
+1160,Customer 160,customer160@example.com,878-415-9386,"711 Random St, City 10, State NY",65,Female,Middle,Premium,996,"Average, nothing special.",3
+1161,Customer 161,customer161@example.com,777-343-3180,"70 Random St, City 17, State CA",65,Female,Low,Regular,301,Customer service was rude.,4
+1161,Customer 161,customer161@example.com,777-343-3180,"70 Random St, City 17, State CA",65,Female,Low,Regular,425,Very good experience!,1
+1162,Customer 162,customer162@example.com,416-527-4280,"955 Random St, City 6, State WA",49,Non-Binary,Low,Premium,473,Loved it! Very happy with my purchase.,2
+1162,Customer 162,customer162@example.com,416-527-4280,"955 Random St, City 6, State WA",49,Non-Binary,Low,Premium,725,"Disappointed, not as advertised.",5
+1163,Customer 163,customer163@example.com,699-646-4893,"38 Random St, City 14, State TX",35,Female,Middle,Regular,,,
+1164,Customer 164,customer164@example.com,353-811-3199,"276 Random St, City 11, State CA",27,Male,Middle,Premium,,,
+1165,Customer 165,customer165@example.com,491-207-4995,"963 Random St, City 6, State FL",28,Non-Binary,High,Premium,821,"Terrible experience, would not recommend.",5
+1166,Customer 166,customer166@example.com,984-690-2488,"100 Random St, City 6, State TX",53,Non-Binary,Middle,Premium,832,Would buy again!,4
+1167,Customer 167,customer167@example.com,147-726-4672,"527 Random St, City 12, State WA",53,Non-Binary,Low,Premium,288,Loved it! Very happy with my purchase.,2
+1168,Customer 168,customer168@example.com,901-498-8072,"727 Random St, City 16, State NY",50,Male,Middle,Premium,657,The item is not as described.,1
+1169,Customer 169,customer169@example.com,694-618-1489,"246 Random St, City 17, State WA",33,Male,High,Premium,,,
+1170,Customer 170,customer170@example.com,570-841-1436,"945 Random St, City 16, State TX",48,Female,High,VIP,107,"Excellent service, highly recommended!",5
+1171,Customer 171,customer171@example.com,668-173-8485,"556 Random St, City 19, State CA",63,Male,High,VIP,468,Customer service was rude.,1
+1172,Customer 172,customer172@example.com,127-723-3966,"323 Random St, City 2, State TX",58,Male,High,Regular,,,
+1173,Customer 173,customer173@example.com,428-210-1677,"710 Random St, City 4, State NY",54,Male,High,Premium,79,"Disappointed, not as advertised.",1
+1173,Customer 173,customer173@example.com,428-210-1677,"710 Random St, City 4, State NY",54,Male,High,Premium,429,"Fast shipping, but packaging was poor.",5
+1174,Customer 174,customer174@example.com,205-159-2540,"167 Random St, City 8, State TX",51,Non-Binary,Low,Premium,270,Affordable and high quality.,1
+1174,Customer 174,customer174@example.com,205-159-2540,"167 Random St, City 8, State TX",51,Non-Binary,Low,Premium,349,Great product! Fast delivery.,3
+1174,Customer 174,customer174@example.com,205-159-2540,"167 Random St, City 8, State TX",51,Non-Binary,Low,Premium,950,"Excellent service, highly recommended!",4
+1175,Customer 175,customer175@example.com,721-867-2942,"95 Random St, City 15, State NY",34,Non-Binary,Low,Premium,,,
+1176,Customer 176,customer176@example.com,817-445-6370,"711 Random St, City 8, State WA",34,Non-Binary,High,Regular,231,Product was damaged on arrival.,1
+1176,Customer 176,customer176@example.com,817-445-6370,"711 Random St, City 8, State WA",34,Non-Binary,High,Regular,442,Very good experience!,1
+1177,Customer 177,customer177@example.com,632-867-5716,"692 Random St, City 16, State TX",66,Non-Binary,Middle,VIP,,,
+1178,Customer 178,customer178@example.com,136-248-8501,"621 Random St, City 19, State WA",54,Non-Binary,Low,Premium,148,Product was damaged on arrival.,2
+1178,Customer 178,customer178@example.com,136-248-8501,"621 Random St, City 19, State WA",54,Non-Binary,Low,Premium,252,"Average, nothing special.",4
+1178,Customer 178,customer178@example.com,136-248-8501,"621 Random St, City 19, State WA",54,Non-Binary,Low,Premium,555,"Disappointed, not as advertised.",5
+1179,Customer 179,customer179@example.com,809-298-7567,"799 Random St, City 11, State NY",50,Male,Low,Premium,858,Not satisfied with the quality.,2
+1180,Customer 180,customer180@example.com,319-605-6209,"887 Random St, City 18, State FL",63,Female,Low,Regular,363,The item is not as described.,4
+1180,Customer 180,customer180@example.com,319-605-6209,"887 Random St, City 18, State FL",63,Female,Low,Regular,443,Would buy again!,3
+1181,Customer 181,customer181@example.com,448-830-7579,"465 Random St, City 8, State WA",48,Male,Low,VIP,,,
+1182,Customer 182,customer182@example.com,608-502-3636,"735 Random St, City 9, State CA",60,Non-Binary,Middle,Regular,,,
+1183,Customer 183,customer183@example.com,464-885-6674,"448 Random St, City 9, State TX",22,Female,High,Premium,,,
+1184,Customer 184,customer184@example.com,339-275-4402,"9 Random St, City 20, State CA",56,Non-Binary,High,Regular,847,"Disappointed, not as advertised.",5
+1185,Customer 185,customer185@example.com,650-269-9063,"926 Random St, City 12, State FL",34,Male,High,Premium,80,"Amazing customer support, will buy again.",4
+1185,Customer 185,customer185@example.com,650-269-9063,"926 Random St, City 12, State FL",34,Male,High,Premium,164,Loved it! Very happy with my purchase.,1
+1185,Customer 185,customer185@example.com,650-269-9063,"926 Random St, City 12, State FL",34,Male,High,Premium,299,"Amazing customer support, will buy again.",2
+1185,Customer 185,customer185@example.com,650-269-9063,"926 Random St, City 12, State FL",34,Male,High,Premium,958,"Average, nothing special.",5
+1186,Customer 186,customer186@example.com,137-315-2440,"958 Random St, City 14, State FL",68,Male,Low,VIP,29,Customer service was rude.,4
+1187,Customer 187,customer187@example.com,686-622-4637,"164 Random St, City 3, State NY",38,Non-Binary,Middle,Premium,842,The item is not as described.,1
+1188,Customer 188,customer188@example.com,374-677-9821,"254 Random St, City 18, State TX",53,Female,Low,Regular,383,"Disappointed, not as advertised.",3
+1189,Customer 189,customer189@example.com,826-513-9325,"678 Random St, City 20, State WA",60,Male,High,Premium,386,Very good experience!,2
+1190,Customer 190,customer190@example.com,257-854-4612,"474 Random St, City 1, State WA",62,Female,Middle,VIP,697,"Disappointed, not as advertised.",2
+1191,Customer 191,customer191@example.com,224-862-8640,"798 Random St, City 17, State CA",57,Male,Middle,Premium,,,
+1192,Customer 192,customer192@example.com,566-643-2979,"839 Random St, City 5, State TX",45,Non-Binary,Low,VIP,,,
+1193,Customer 193,customer193@example.com,338-232-7559,"190 Random St, City 6, State WA",50,Female,Low,Regular,765,Would buy again!,3
+1194,Customer 194,customer194@example.com,494-801-7442,"4 Random St, City 10, State CA",65,Non-Binary,Low,VIP,,,
+1195,Customer 195,customer195@example.com,123-783-1628,"313 Random St, City 13, State WA",30,Female,Middle,Premium,69,Would buy again!,1
+1195,Customer 195,customer195@example.com,123-783-1628,"313 Random St, City 13, State WA",30,Female,Middle,Premium,691,Great product! Fast delivery.,5
+1196,Customer 196,customer196@example.com,126-792-4552,"713 Random St, City 11, State CA",53,Non-Binary,Middle,Premium,,,
+1197,Customer 197,customer197@example.com,629-312-8788,"984 Random St, City 11, State FL",45,Male,Low,Premium,492,"Terrible experience, would not recommend.",5
+1198,Customer 198,customer198@example.com,141-976-8798,"416 Random St, City 19, State TX",35,Male,Middle,Regular,,,
+1199,Customer 199,customer199@example.com,290-661-3799,"489 Random St, City 18, State WA",33,Non-Binary,High,Premium,503,"Amazing customer support, will buy again.",3
+1200,Customer 200,customer200@example.com,813-435-8825,"153 Random St, City 4, State WA",25,Female,Low,Premium,495,"Fast shipping, but packaging was poor.",4
+1201,Customer 201,customer201@example.com,796-916-5285,"960 Random St, City 17, State WA",38,Non-Binary,Low,VIP,8,The item is not as described.,5
+1201,Customer 201,customer201@example.com,796-916-5285,"960 Random St, City 17, State WA",38,Non-Binary,Low,VIP,641,The item is not as described.,3
+1202,Customer 202,customer202@example.com,772-342-8272,"755 Random St, City 16, State FL",32,Male,Middle,VIP,,,
+1203,Customer 203,customer203@example.com,576-100-3951,"411 Random St, City 5, State WA",45,Female,Middle,VIP,,,
+1204,Customer 204,customer204@example.com,943-468-5907,"966 Random St, City 19, State TX",59,Male,Low,Premium,,,
+1205,Customer 205,customer205@example.com,466-638-5140,"191 Random St, City 5, State CA",64,Non-Binary,High,Premium,645,Great product! Fast delivery.,4
+1206,Customer 206,customer206@example.com,585-230-6559,"532 Random St, City 7, State NY",21,Female,Low,Regular,,,
+1207,Customer 207,customer207@example.com,342-606-8389,"329 Random St, City 3, State FL",48,Male,Middle,VIP,200,Would buy again!,1
+1207,Customer 207,customer207@example.com,342-606-8389,"329 Random St, City 3, State FL",48,Male,Middle,VIP,367,"Terrible experience, would not recommend.",5
+1207,Customer 207,customer207@example.com,342-606-8389,"329 Random St, City 3, State FL",48,Male,Middle,VIP,727,"Terrible experience, would not recommend.",1
+1208,Customer 208,customer208@example.com,695-144-4357,"203 Random St, City 18, State FL",51,Female,High,Regular,,,
+1209,Customer 209,customer209@example.com,960-171-4982,"641 Random St, City 14, State TX",41,Female,Middle,Premium,906,"Amazing customer support, will buy again.",5
+1210,Customer 210,customer210@example.com,505-728-5909,"226 Random St, City 9, State CA",50,Female,Low,Premium,106,"Disappointed, not as advertised.",4
+1210,Customer 210,customer210@example.com,505-728-5909,"226 Random St, City 9, State CA",50,Female,Low,Premium,759,Affordable and high quality.,4
+1211,Customer 211,customer211@example.com,472-606-2416,"457 Random St, City 10, State FL",27,Female,High,Regular,528,"Fast shipping, but packaging was poor.",1
+1212,Customer 212,customer212@example.com,142-949-9701,"877 Random St, City 11, State NY",64,Non-Binary,Middle,VIP,96,"Disappointed, not as advertised.",3
+1213,Customer 213,customer213@example.com,732-934-7361,"806 Random St, City 3, State NY",59,Non-Binary,Middle,VIP,,,
+1214,Customer 214,customer214@example.com,411-229-6087,"76 Random St, City 5, State CA",33,Female,Middle,Regular,188,"Excellent service, highly recommended!",4
+1214,Customer 214,customer214@example.com,411-229-6087,"76 Random St, City 5, State CA",33,Female,Middle,Regular,747,Customer service was rude.,1
+1215,Customer 215,customer215@example.com,609-833-4473,"794 Random St, City 13, State TX",33,Female,Middle,Regular,,,
+1216,Customer 216,customer216@example.com,699-826-8858,"409 Random St, City 7, State FL",46,Male,High,VIP,614,"Excellent service, highly recommended!",4
+1216,Customer 216,customer216@example.com,699-826-8858,"409 Random St, City 7, State FL",46,Male,High,VIP,711,"Amazing customer support, will buy again.",1
+1217,Customer 217,customer217@example.com,332-154-9676,"535 Random St, City 17, State NY",24,Non-Binary,Middle,Regular,,,
+1218,Customer 218,customer218@example.com,964-679-9503,"393 Random St, City 8, State WA",18,Male,Low,Regular,660,Customer service was rude.,5
+1219,Customer 219,customer219@example.com,921-417-2067,"645 Random St, City 20, State WA",23,Male,High,VIP,844,Would buy again!,2
+1220,Customer 220,customer220@example.com,482-485-6079,"989 Random St, City 11, State NY",29,Male,Low,Regular,,,
+1221,Customer 221,customer221@example.com,421-353-2553,"485 Random St, City 5, State TX",37,Non-Binary,Low,VIP,158,Affordable and high quality.,5
+1221,Customer 221,customer221@example.com,421-353-2553,"485 Random St, City 5, State TX",37,Non-Binary,Low,VIP,213,"Excellent service, highly recommended!",2
+1221,Customer 221,customer221@example.com,421-353-2553,"485 Random St, City 5, State TX",37,Non-Binary,Low,VIP,909,"Disappointed, not as advertised.",1
+1222,Customer 222,customer222@example.com,168-669-8110,"884 Random St, City 3, State WA",43,Non-Binary,High,VIP,104,"Fast shipping, but packaging was poor.",3
+1222,Customer 222,customer222@example.com,168-669-8110,"884 Random St, City 3, State WA",43,Non-Binary,High,VIP,204,Very good experience!,3
+1222,Customer 222,customer222@example.com,168-669-8110,"884 Random St, City 3, State WA",43,Non-Binary,High,VIP,324,The item is not as described.,1
+1222,Customer 222,customer222@example.com,168-669-8110,"884 Random St, City 3, State WA",43,Non-Binary,High,VIP,575,Very good experience!,3
+1222,Customer 222,customer222@example.com,168-669-8110,"884 Random St, City 3, State WA",43,Non-Binary,High,VIP,926,"Amazing customer support, will buy again.",3
+1223,Customer 223,customer223@example.com,882-338-2562,"484 Random St, City 4, State TX",68,Male,Middle,Regular,,,
+1224,Customer 224,customer224@example.com,359-802-9156,"312 Random St, City 3, State NY",59,Male,Low,Regular,97,Loved it! Very happy with my purchase.,5
+1224,Customer 224,customer224@example.com,359-802-9156,"312 Random St, City 3, State NY",59,Male,Low,Regular,290,"Excellent service, highly recommended!",4
+1224,Customer 224,customer224@example.com,359-802-9156,"312 Random St, City 3, State NY",59,Male,Low,Regular,580,Would buy again!,3
+1225,Customer 225,customer225@example.com,402-787-2515,"211 Random St, City 1, State FL",57,Female,Middle,Regular,358,"Terrible experience, would not recommend.",2
+1225,Customer 225,customer225@example.com,402-787-2515,"211 Random St, City 1, State FL",57,Female,Middle,Regular,513,"Excellent service, highly recommended!",2
+1225,Customer 225,customer225@example.com,402-787-2515,"211 Random St, City 1, State FL",57,Female,Middle,Regular,930,Great product! Fast delivery.,5
+1226,Customer 226,customer226@example.com,628-513-9305,"248 Random St, City 5, State FL",49,Non-Binary,Low,Premium,705,Product was damaged on arrival.,1
+1227,Customer 227,customer227@example.com,517-944-7467,"589 Random St, City 14, State WA",60,Male,Low,Regular,586,Very good experience!,5
+1228,Customer 228,customer228@example.com,783-400-8181,"592 Random St, City 9, State WA",53,Female,High,Regular,961,Affordable and high quality.,4
+1229,Customer 229,customer229@example.com,960-274-9477,"235 Random St, City 12, State CA",68,Female,Middle,VIP,73,Very good experience!,1
+1230,Customer 230,customer230@example.com,269-992-6657,"449 Random St, City 3, State TX",46,Non-Binary,Middle,Premium,117,The item is not as described.,4
+1230,Customer 230,customer230@example.com,269-992-6657,"449 Random St, City 3, State TX",46,Non-Binary,Middle,Premium,791,"Disappointed, not as advertised.",5
+1230,Customer 230,customer230@example.com,269-992-6657,"449 Random St, City 3, State TX",46,Non-Binary,Middle,Premium,975,"Average, nothing special.",3
+1231,Customer 231,customer231@example.com,318-193-4306,"121 Random St, City 8, State TX",34,Non-Binary,High,VIP,,,
+1232,Customer 232,customer232@example.com,143-769-3939,"828 Random St, City 13, State FL",23,Female,Middle,VIP,404,"Excellent service, highly recommended!",3
+1232,Customer 232,customer232@example.com,143-769-3939,"828 Random St, City 13, State FL",23,Female,Middle,VIP,438,"Disappointed, not as advertised.",4
+1232,Customer 232,customer232@example.com,143-769-3939,"828 Random St, City 13, State FL",23,Female,Middle,VIP,509,Great product! Fast delivery.,2
+1233,Customer 233,customer233@example.com,583-470-7853,"827 Random St, City 5, State NY",69,Male,Low,VIP,120,Great product! Fast delivery.,4
+1233,Customer 233,customer233@example.com,583-470-7853,"827 Random St, City 5, State NY",69,Male,Low,VIP,644,"Excellent service, highly recommended!",3
+1234,Customer 234,customer234@example.com,456-363-8181,"388 Random St, City 3, State CA",34,Non-Binary,High,Premium,157,Customer service was rude.,4
+1235,Customer 235,customer235@example.com,318-205-9384,"878 Random St, City 12, State WA",50,Non-Binary,Middle,VIP,766,Great product! Fast delivery.,2
+1236,Customer 236,customer236@example.com,239-699-5385,"338 Random St, City 16, State WA",54,Female,Middle,Regular,,,
+1237,Customer 237,customer237@example.com,134-649-1472,"380 Random St, City 7, State NY",25,Male,Low,VIP,,,
+1238,Customer 238,customer238@example.com,770-707-4829,"846 Random St, City 19, State CA",38,Female,Low,Regular,565,Would buy again!,4
+1239,Customer 239,customer239@example.com,294-177-3399,"848 Random St, City 11, State WA",43,Male,Low,Regular,516,"Disappointed, not as advertised.",4
+1240,Customer 240,customer240@example.com,902-588-9634,"144 Random St, City 11, State TX",66,Non-Binary,High,Premium,,,
+1241,Customer 241,customer241@example.com,259-540-5636,"50 Random St, City 15, State CA",21,Male,Low,VIP,170,"Fast shipping, but packaging was poor.",1
+1241,Customer 241,customer241@example.com,259-540-5636,"50 Random St, City 15, State CA",21,Male,Low,VIP,412,"Fast shipping, but packaging was poor.",4
+1242,Customer 242,customer242@example.com,768-808-9233,"671 Random St, City 7, State TX",45,Female,High,Premium,118,"Average, nothing special.",4
+1243,Customer 243,customer243@example.com,654-788-8264,"872 Random St, City 17, State CA",53,Male,Low,VIP,81,"Excellent service, highly recommended!",3
+1243,Customer 243,customer243@example.com,654-788-8264,"872 Random St, City 17, State CA",53,Male,Low,VIP,532,"Fast shipping, but packaging was poor.",5
+1244,Customer 244,customer244@example.com,177-118-1118,"14 Random St, City 6, State FL",39,Non-Binary,Low,Premium,156,Product was damaged on arrival.,4
+1245,Customer 245,customer245@example.com,778-502-7233,"207 Random St, City 4, State TX",37,Female,Low,Regular,25,Customer service was rude.,1
+1245,Customer 245,customer245@example.com,778-502-7233,"207 Random St, City 4, State TX",37,Female,Low,Regular,530,Loved it! Very happy with my purchase.,5
+1245,Customer 245,customer245@example.com,778-502-7233,"207 Random St, City 4, State TX",37,Female,Low,Regular,818,Would buy again!,2
+1246,Customer 246,customer246@example.com,273-795-3286,"553 Random St, City 11, State NY",67,Male,Middle,Premium,67,Customer service was rude.,5
+1246,Customer 246,customer246@example.com,273-795-3286,"553 Random St, City 11, State NY",67,Male,Middle,Premium,70,Not satisfied with the quality.,2
+1247,Customer 247,customer247@example.com,372-602-5804,"626 Random St, City 14, State TX",37,Non-Binary,Low,Regular,554,Very good experience!,1
+1248,Customer 248,customer248@example.com,517-892-7491,"971 Random St, City 20, State FL",27,Male,Low,Premium,,,
+1249,Customer 249,customer249@example.com,305-716-4850,"570 Random St, City 15, State CA",55,Male,Low,Regular,486,Would buy again!,5
+1250,Customer 250,customer250@example.com,316-537-7471,"31 Random St, City 4, State FL",31,Female,Middle,Premium,348,Customer service was rude.,5
+1251,Customer 251,customer251@example.com,915-124-4703,"359 Random St, City 9, State FL",33,Non-Binary,High,VIP,,,
+1252,Customer 252,customer252@example.com,537-686-5709,"954 Random St, City 17, State NY",23,Female,High,VIP,66,"Amazing customer support, will buy again.",3
+1252,Customer 252,customer252@example.com,537-686-5709,"954 Random St, City 17, State NY",23,Female,High,VIP,611,Would buy again!,5
+1253,Customer 253,customer253@example.com,779-772-9142,"109 Random St, City 18, State CA",46,Non-Binary,Middle,Premium,628,Product was damaged on arrival.,4
+1253,Customer 253,customer253@example.com,779-772-9142,"109 Random St, City 18, State CA",46,Non-Binary,Middle,Premium,702,"Excellent service, highly recommended!",5
+1254,Customer 254,customer254@example.com,457-776-9703,"501 Random St, City 5, State TX",33,Male,Middle,Regular,167,Customer service was rude.,3
+1255,Customer 255,customer255@example.com,802-444-4724,"340 Random St, City 6, State NY",35,Female,Middle,VIP,,,
+1256,Customer 256,customer256@example.com,392-901-8289,"150 Random St, City 20, State TX",29,Male,Middle,Premium,560,"Excellent service, highly recommended!",3
+1257,Customer 257,customer257@example.com,822-838-4389,"761 Random St, City 1, State FL",57,Male,Low,VIP,,,
+1258,Customer 258,customer258@example.com,751-118-8623,"534 Random St, City 10, State FL",62,Male,Low,Premium,726,The item is not as described.,1
+1259,Customer 259,customer259@example.com,134-848-7898,"163 Random St, City 10, State WA",35,Female,High,VIP,314,Customer service was rude.,2
+1260,Customer 260,customer260@example.com,497-717-4773,"998 Random St, City 2, State WA",48,Non-Binary,High,VIP,214,"Amazing customer support, will buy again.",3
+1260,Customer 260,customer260@example.com,497-717-4773,"998 Random St, City 2, State WA",48,Non-Binary,High,VIP,407,"Fast shipping, but packaging was poor.",4
+1261,Customer 261,customer261@example.com,675-951-5556,"391 Random St, City 9, State NY",35,Male,Middle,Premium,171,"Terrible experience, would not recommend.",2
+1261,Customer 261,customer261@example.com,675-951-5556,"391 Random St, City 9, State NY",35,Male,Middle,Premium,485,Very good experience!,4
+1261,Customer 261,customer261@example.com,675-951-5556,"391 Random St, City 9, State NY",35,Male,Middle,Premium,860,Great product! Fast delivery.,3
+1262,Customer 262,customer262@example.com,777-468-6469,"822 Random St, City 1, State NY",49,Male,High,VIP,524,Product was damaged on arrival.,3
+1263,Customer 263,customer263@example.com,243-986-7124,"669 Random St, City 9, State CA",37,Non-Binary,Low,Regular,605,Very good experience!,1
+1263,Customer 263,customer263@example.com,243-986-7124,"669 Random St, City 9, State CA",37,Non-Binary,Low,Regular,876,Product was damaged on arrival.,5
+1264,Customer 264,customer264@example.com,133-934-6108,"585 Random St, City 20, State WA",55,Male,Middle,VIP,,,
+1265,Customer 265,customer265@example.com,632-815-2610,"563 Random St, City 19, State FL",58,Male,Middle,Regular,87,"Excellent service, highly recommended!",4
+1266,Customer 266,customer266@example.com,150-443-9899,"224 Random St, City 9, State WA",33,Male,Low,Premium,,,
+1267,Customer 267,customer267@example.com,909-909-7029,"20 Random St, City 17, State CA",44,Non-Binary,Low,Regular,422,Loved it! Very happy with my purchase.,4
+1268,Customer 268,customer268@example.com,849-804-7830,"233 Random St, City 16, State WA",18,Male,High,VIP,475,The item is not as described.,5
+1269,Customer 269,customer269@example.com,975-434-1794,"291 Random St, City 2, State NY",18,Female,High,VIP,,,
+1270,Customer 270,customer270@example.com,933-978-7113,"87 Random St, City 10, State FL",62,Non-Binary,Middle,Regular,,,
+1271,Customer 271,customer271@example.com,999-718-1427,"640 Random St, City 16, State FL",53,Non-Binary,Middle,Premium,566,"Disappointed, not as advertised.",2
+1272,Customer 272,customer272@example.com,620-744-6089,"169 Random St, City 17, State NY",23,Male,High,Premium,,,
+1273,Customer 273,customer273@example.com,914-700-1374,"498 Random St, City 8, State WA",24,Female,Low,Premium,433,"Fast shipping, but packaging was poor.",5
+1273,Customer 273,customer273@example.com,914-700-1374,"498 Random St, City 8, State WA",24,Female,Low,Premium,955,"Average, nothing special.",4
+1274,Customer 274,customer274@example.com,918-416-1412,"719 Random St, City 17, State WA",65,Non-Binary,Middle,VIP,544,Great product! Fast delivery.,1
+1274,Customer 274,customer274@example.com,918-416-1412,"719 Random St, City 17, State WA",65,Non-Binary,Middle,VIP,666,"Fast shipping, but packaging was poor.",3
+1275,Customer 275,customer275@example.com,278-849-7715,"488 Random St, City 10, State WA",62,Male,High,Regular,181,Not satisfied with the quality.,1
+1276,Customer 276,customer276@example.com,239-184-5852,"320 Random St, City 14, State FL",62,Male,High,Premium,84,Very good experience!,4
+1277,Customer 277,customer277@example.com,809-917-2526,"39 Random St, City 12, State TX",41,Male,Low,Premium,,,
+1278,Customer 278,customer278@example.com,872-214-2171,"455 Random St, City 7, State TX",64,Male,Middle,Regular,239,Not satisfied with the quality.,2
+1278,Customer 278,customer278@example.com,872-214-2171,"455 Random St, City 7, State TX",64,Male,Middle,Regular,413,Product was damaged on arrival.,1
+1278,Customer 278,customer278@example.com,872-214-2171,"455 Random St, City 7, State TX",64,Male,Middle,Regular,704,Would buy again!,4
+1278,Customer 278,customer278@example.com,872-214-2171,"455 Random St, City 7, State TX",64,Male,Middle,Regular,792,"Amazing customer support, will buy again.",4
+1279,Customer 279,customer279@example.com,743-526-7858,"891 Random St, City 3, State TX",26,Non-Binary,Middle,Premium,923,Very good experience!,5
+1280,Customer 280,customer280@example.com,338-649-7472,"657 Random St, City 10, State TX",70,Female,Low,Premium,439,Not satisfied with the quality.,1
+1281,Customer 281,customer281@example.com,737-928-9690,"532 Random St, City 5, State NY",65,Male,Middle,VIP,728,"Fast shipping, but packaging was poor.",5
+1282,Customer 282,customer282@example.com,983-666-2400,"31 Random St, City 14, State WA",66,Non-Binary,Middle,VIP,91,"Amazing customer support, will buy again.",5
+1282,Customer 282,customer282@example.com,983-666-2400,"31 Random St, City 14, State WA",66,Non-Binary,Middle,VIP,817,"Terrible experience, would not recommend.",1
+1283,Customer 283,customer283@example.com,341-350-6661,"836 Random St, City 17, State NY",43,Female,Middle,VIP,51,"Average, nothing special.",3
+1284,Customer 284,customer284@example.com,646-168-2126,"258 Random St, City 12, State WA",26,Non-Binary,Low,VIP,,,
+1285,Customer 285,customer285@example.com,195-387-8562,"979 Random St, City 15, State WA",34,Female,Low,Regular,945,"Excellent service, highly recommended!",4
+1286,Customer 286,customer286@example.com,117-606-6356,"406 Random St, City 19, State TX",32,Male,High,VIP,339,Product was damaged on arrival.,2
+1287,Customer 287,customer287@example.com,929-663-4577,"9 Random St, City 19, State WA",35,Male,Middle,Regular,,,
+1288,Customer 288,customer288@example.com,980-466-5399,"417 Random St, City 6, State FL",38,Non-Binary,Low,Regular,,,
+1289,Customer 289,customer289@example.com,601-843-8482,"738 Random St, City 8, State NY",52,Female,Middle,Regular,,,
+1290,Customer 290,customer290@example.com,661-803-4082,"530 Random St, City 19, State FL",33,Non-Binary,Middle,VIP,484,The item is not as described.,1
+1291,Customer 291,customer291@example.com,449-490-5886,"366 Random St, City 17, State WA",23,Male,Middle,VIP,549,"Terrible experience, would not recommend.",3
+1291,Customer 291,customer291@example.com,449-490-5886,"366 Random St, City 17, State WA",23,Male,Middle,VIP,715,Product was damaged on arrival.,2
+1291,Customer 291,customer291@example.com,449-490-5886,"366 Random St, City 17, State WA",23,Male,Middle,VIP,746,Loved it! Very happy with my purchase.,4
+1292,Customer 292,customer292@example.com,558-660-7701,"647 Random St, City 12, State TX",30,Male,High,Premium,,,
+1293,Customer 293,customer293@example.com,301-695-3319,"379 Random St, City 4, State NY",46,Male,High,VIP,963,"Terrible experience, would not recommend.",2
+1294,Customer 294,customer294@example.com,664-624-4741,"936 Random St, City 4, State WA",63,Non-Binary,High,Premium,369,"Disappointed, not as advertised.",3
+1294,Customer 294,customer294@example.com,664-624-4741,"936 Random St, City 4, State WA",63,Non-Binary,High,Premium,919,Great product! Fast delivery.,3
+1294,Customer 294,customer294@example.com,664-624-4741,"936 Random St, City 4, State WA",63,Non-Binary,High,Premium,927,Affordable and high quality.,2
+1294,Customer 294,customer294@example.com,664-624-4741,"936 Random St, City 4, State WA",63,Non-Binary,High,Premium,928,Not satisfied with the quality.,2
+1294,Customer 294,customer294@example.com,664-624-4741,"936 Random St, City 4, State WA",63,Non-Binary,High,Premium,946,"Terrible experience, would not recommend.",4
+1295,Customer 295,customer295@example.com,690-624-2070,"411 Random St, City 16, State FL",65,Non-Binary,Middle,Regular,208,Great product! Fast delivery.,1
+1296,Customer 296,customer296@example.com,556-690-3710,"74 Random St, City 3, State CA",67,Female,Middle,Premium,26,Very good experience!,3
+1297,Customer 297,customer297@example.com,396-282-6916,"546 Random St, City 17, State TX",68,Male,High,VIP,,,
+1298,Customer 298,customer298@example.com,523-970-4016,"511 Random St, City 15, State TX",43,Male,High,Regular,944,Affordable and high quality.,2
+1299,Customer 299,customer299@example.com,958-635-6081,"314 Random St, City 6, State WA",50,Non-Binary,Middle,VIP,127,Great product! Fast delivery.,2
+1299,Customer 299,customer299@example.com,958-635-6081,"314 Random St, City 6, State WA",50,Non-Binary,Middle,VIP,718,"Fast shipping, but packaging was poor.",2
+1299,Customer 299,customer299@example.com,958-635-6081,"314 Random St, City 6, State WA",50,Non-Binary,Middle,VIP,987,"Fast shipping, but packaging was poor.",2
+1300,Customer 300,customer300@example.com,978-488-3529,"68 Random St, City 17, State WA",24,Non-Binary,Middle,Premium,,,
+1301,Customer 301,customer301@example.com,182-184-7098,"31 Random St, City 5, State NY",69,Male,High,VIP,957,"Terrible experience, would not recommend.",2
+1301,Customer 301,customer301@example.com,182-184-7098,"31 Random St, City 5, State NY",69,Male,High,VIP,967,"Excellent service, highly recommended!",2
+1302,Customer 302,customer302@example.com,199-451-7480,"208 Random St, City 16, State TX",35,Male,Middle,Regular,202,"Amazing customer support, will buy again.",4
+1302,Customer 302,customer302@example.com,199-451-7480,"208 Random St, City 16, State TX",35,Male,Middle,Regular,505,Very good experience!,1
+1302,Customer 302,customer302@example.com,199-451-7480,"208 Random St, City 16, State TX",35,Male,Middle,Regular,891,"Average, nothing special.",1
+1303,Customer 303,customer303@example.com,645-431-2963,"821 Random St, City 18, State WA",41,Female,Middle,Premium,,,
+1304,Customer 304,customer304@example.com,309-563-4018,"816 Random St, City 8, State WA",41,Male,High,Regular,14,Would buy again!,2
+1304,Customer 304,customer304@example.com,309-563-4018,"816 Random St, City 8, State WA",41,Male,High,Regular,998,Would buy again!,3
+1305,Customer 305,customer305@example.com,699-446-6422,"544 Random St, City 13, State CA",24,Non-Binary,Low,Regular,633,Affordable and high quality.,1
+1306,Customer 306,customer306@example.com,331-756-5852,"948 Random St, City 1, State NY",53,Non-Binary,Middle,VIP,,,
+1307,Customer 307,customer307@example.com,763-588-5620,"402 Random St, City 3, State NY",37,Non-Binary,Low,VIP,,,
+1308,Customer 308,customer308@example.com,493-514-3039,"653 Random St, City 7, State NY",22,Male,Middle,Regular,661,Very good experience!,3
+1309,Customer 309,customer309@example.com,616-788-9275,"789 Random St, City 15, State CA",25,Non-Binary,Middle,Regular,13,"Excellent service, highly recommended!",1
+1309,Customer 309,customer309@example.com,616-788-9275,"789 Random St, City 15, State CA",25,Non-Binary,Middle,Regular,359,Product was damaged on arrival.,4
+1309,Customer 309,customer309@example.com,616-788-9275,"789 Random St, City 15, State CA",25,Non-Binary,Middle,Regular,938,Not satisfied with the quality.,4
+1310,Customer 310,customer310@example.com,972-660-6652,"75 Random St, City 20, State CA",69,Male,High,VIP,279,"Average, nothing special.",3
+1310,Customer 310,customer310@example.com,972-660-6652,"75 Random St, City 20, State CA",69,Male,High,VIP,924,Affordable and high quality.,5
+1311,Customer 311,customer311@example.com,565-556-6634,"792 Random St, City 13, State NY",51,Male,High,Regular,,,
+1312,Customer 312,customer312@example.com,758-709-7250,"807 Random St, City 7, State CA",18,Male,Middle,Premium,733,Great product! Fast delivery.,2
+1313,Customer 313,customer313@example.com,706-417-7151,"965 Random St, City 9, State FL",49,Non-Binary,High,Regular,831,Very good experience!,1
+1314,Customer 314,customer314@example.com,973-839-6588,"199 Random St, City 7, State CA",51,Female,Middle,Regular,268,"Average, nothing special.",3
+1315,Customer 315,customer315@example.com,594-669-2750,"582 Random St, City 15, State NY",36,Female,Middle,VIP,,,
+1316,Customer 316,customer316@example.com,656-187-4236,"486 Random St, City 11, State NY",67,Male,High,VIP,194,Not satisfied with the quality.,5
+1316,Customer 316,customer316@example.com,656-187-4236,"486 Random St, City 11, State NY",67,Male,High,VIP,392,"Average, nothing special.",4
+1316,Customer 316,customer316@example.com,656-187-4236,"486 Random St, City 11, State NY",67,Male,High,VIP,561,The item is not as described.,4
+1317,Customer 317,customer317@example.com,114-305-6827,"602 Random St, City 6, State CA",34,Male,Low,Regular,461,Great product! Fast delivery.,2
+1318,Customer 318,customer318@example.com,161-835-5394,"967 Random St, City 9, State NY",37,Female,High,Premium,,,
+1319,Customer 319,customer319@example.com,129-704-4644,"347 Random St, City 11, State CA",35,Male,High,Regular,640,Affordable and high quality.,2
+1319,Customer 319,customer319@example.com,129-704-4644,"347 Random St, City 11, State CA",35,Male,High,Regular,692,Loved it! Very happy with my purchase.,5
+1320,Customer 320,customer320@example.com,617-105-3354,"997 Random St, City 11, State FL",24,Non-Binary,Middle,Regular,452,Product was damaged on arrival.,4
+1320,Customer 320,customer320@example.com,617-105-3354,"997 Random St, City 11, State FL",24,Non-Binary,Middle,Regular,500,"Terrible experience, would not recommend.",3
+1320,Customer 320,customer320@example.com,617-105-3354,"997 Random St, City 11, State FL",24,Non-Binary,Middle,Regular,760,"Amazing customer support, will buy again.",1
+1321,Customer 321,customer321@example.com,710-265-1973,"904 Random St, City 15, State WA",61,Non-Binary,High,Premium,105,"Average, nothing special.",3
+1322,Customer 322,customer322@example.com,151-651-5159,"966 Random St, City 15, State TX",69,Female,Low,Regular,720,Would buy again!,1
+1322,Customer 322,customer322@example.com,151-651-5159,"966 Random St, City 15, State TX",69,Female,Low,Regular,763,"Fast shipping, but packaging was poor.",3
+1323,Customer 323,customer323@example.com,768-972-6391,"52 Random St, City 13, State NY",61,Non-Binary,High,Regular,,,
+1324,Customer 324,customer324@example.com,737-120-3478,"604 Random St, City 5, State FL",45,Male,High,Regular,,,
+1325,Customer 325,customer325@example.com,344-139-6996,"115 Random St, City 3, State CA",55,Female,High,Premium,,,
+1326,Customer 326,customer326@example.com,328-332-7739,"98 Random St, City 8, State NY",63,Male,Low,Premium,159,"Average, nothing special.",1
+1327,Customer 327,customer327@example.com,708-348-2006,"387 Random St, City 18, State NY",33,Non-Binary,High,VIP,,,
+1328,Customer 328,customer328@example.com,524-935-4308,"10 Random St, City 1, State NY",37,Female,High,Premium,31,"Amazing customer support, will buy again.",1
+1328,Customer 328,customer328@example.com,524-935-4308,"10 Random St, City 1, State NY",37,Female,High,Premium,453,"Disappointed, not as advertised.",3
+1329,Customer 329,customer329@example.com,854-565-3431,"27 Random St, City 10, State CA",63,Female,High,Premium,458,"Disappointed, not as advertised.",2
+1329,Customer 329,customer329@example.com,854-565-3431,"27 Random St, City 10, State CA",63,Female,High,Premium,981,Product was damaged on arrival.,4
+1330,Customer 330,customer330@example.com,371-889-7316,"487 Random St, City 1, State WA",36,Male,Middle,Premium,,,
+1331,Customer 331,customer331@example.com,412-493-3016,"500 Random St, City 5, State TX",49,Female,Low,VIP,,,
+1332,Customer 332,customer332@example.com,734-806-7218,"483 Random St, City 3, State WA",68,Non-Binary,Low,Premium,667,Great product! Fast delivery.,3
+1332,Customer 332,customer332@example.com,734-806-7218,"483 Random St, City 3, State WA",68,Non-Binary,Low,Premium,872,"Disappointed, not as advertised.",3
+1333,Customer 333,customer333@example.com,480-330-5310,"81 Random St, City 2, State CA",50,Non-Binary,High,Premium,709,Would buy again!,3
+1334,Customer 334,customer334@example.com,963-802-9909,"690 Random St, City 10, State TX",21,Female,Middle,Premium,855,"Disappointed, not as advertised.",5
+1335,Customer 335,customer335@example.com,306-924-4393,"248 Random St, City 5, State CA",69,Male,Low,Premium,201,Loved it! Very happy with my purchase.,4
+1335,Customer 335,customer335@example.com,306-924-4393,"248 Random St, City 5, State CA",69,Male,Low,Premium,397,"Average, nothing special.",5
+1335,Customer 335,customer335@example.com,306-924-4393,"248 Random St, City 5, State CA",69,Male,Low,Premium,457,"Fast shipping, but packaging was poor.",5
+1336,Customer 336,customer336@example.com,756-710-9736,"251 Random St, City 20, State FL",29,Female,High,Premium,785,Affordable and high quality.,4
+1337,Customer 337,customer337@example.com,472-942-7385,"996 Random St, City 19, State TX",40,Female,High,Premium,481,Customer service was rude.,3
+1338,Customer 338,customer338@example.com,184-605-7306,"914 Random St, City 10, State WA",24,Non-Binary,Low,Regular,326,Loved it! Very happy with my purchase.,2
+1339,Customer 339,customer339@example.com,928-488-4632,"771 Random St, City 17, State NY",47,Male,Middle,Premium,262,"Terrible experience, would not recommend.",4
+1340,Customer 340,customer340@example.com,305-646-8347,"805 Random St, City 9, State FL",54,Male,Low,Premium,931,"Amazing customer support, will buy again.",1
+1341,Customer 341,customer341@example.com,525-593-8121,"769 Random St, City 5, State TX",69,Non-Binary,Middle,Regular,854,Customer service was rude.,1
+1341,Customer 341,customer341@example.com,525-593-8121,"769 Random St, City 5, State TX",69,Non-Binary,Middle,Regular,956,The item is not as described.,2
+1342,Customer 342,customer342@example.com,823-519-6299,"55 Random St, City 18, State NY",23,Male,Middle,Regular,770,"Amazing customer support, will buy again.",4
+1342,Customer 342,customer342@example.com,823-519-6299,"55 Random St, City 18, State NY",23,Male,Middle,Regular,806,Great product! Fast delivery.,5
+1343,Customer 343,customer343@example.com,221-349-6677,"367 Random St, City 14, State CA",33,Female,High,Regular,556,"Disappointed, not as advertised.",3
+1344,Customer 344,customer344@example.com,746-358-2848,"555 Random St, City 5, State FL",30,Female,Low,VIP,,,
+1345,Customer 345,customer345@example.com,693-581-3354,"982 Random St, City 11, State CA",34,Male,Middle,Regular,62,Customer service was rude.,3
+1346,Customer 346,customer346@example.com,972-166-4225,"749 Random St, City 13, State TX",21,Female,Low,Regular,,,
+1347,Customer 347,customer347@example.com,314-326-9856,"75 Random St, City 18, State WA",46,Non-Binary,Middle,Regular,,,
+1348,Customer 348,customer348@example.com,908-942-8088,"501 Random St, City 14, State TX",62,Non-Binary,Low,Premium,,,
+1349,Customer 349,customer349@example.com,336-236-3982,"837 Random St, City 13, State FL",62,Non-Binary,Middle,VIP,322,"Amazing customer support, will buy again.",5
+1350,Customer 350,customer350@example.com,386-933-5096,"436 Random St, City 11, State FL",20,Non-Binary,High,VIP,,,
+1351,Customer 351,customer351@example.com,708-600-3481,"67 Random St, City 4, State TX",24,Male,Middle,Regular,310,Product was damaged on arrival.,3
+1352,Customer 352,customer352@example.com,236-435-9723,"781 Random St, City 9, State TX",37,Female,Low,Regular,,,
+1353,Customer 353,customer353@example.com,164-452-8527,"50 Random St, City 11, State CA",55,Male,Low,VIP,883,Affordable and high quality.,3
+1354,Customer 354,customer354@example.com,715-583-3718,"439 Random St, City 19, State NY",21,Non-Binary,Low,Regular,870,"Terrible experience, would not recommend.",5
+1355,Customer 355,customer355@example.com,998-464-3617,"60 Random St, City 4, State TX",55,Non-Binary,Middle,Regular,714,"Excellent service, highly recommended!",1
+1356,Customer 356,customer356@example.com,598-204-2713,"403 Random St, City 13, State TX",36,Male,Low,Premium,,,
+1357,Customer 357,customer357@example.com,888-561-4564,"372 Random St, City 2, State TX",21,Female,Middle,Regular,334,"Terrible experience, would not recommend.",5
+1358,Customer 358,customer358@example.com,708-722-4368,"909 Random St, City 13, State WA",23,Male,Middle,Premium,959,"Terrible experience, would not recommend.",1
+1359,Customer 359,customer359@example.com,147-282-8187,"840 Random St, City 10, State NY",62,Non-Binary,Middle,Regular,,,
+1360,Customer 360,customer360@example.com,791-236-2643,"69 Random St, City 7, State TX",30,Male,High,Regular,775,Affordable and high quality.,2
+1361,Customer 361,customer361@example.com,154-620-8831,"579 Random St, City 1, State WA",44,Non-Binary,High,Regular,,,
+1362,Customer 362,customer362@example.com,841-711-2410,"732 Random St, City 14, State TX",32,Female,High,Premium,466,Loved it! Very happy with my purchase.,5
+1363,Customer 363,customer363@example.com,988-304-3395,"544 Random St, City 16, State TX",36,Male,Middle,Premium,385,Would buy again!,3
+1364,Customer 364,customer364@example.com,701-296-8839,"866 Random St, City 16, State CA",43,Non-Binary,Middle,Regular,,,
+1365,Customer 365,customer365@example.com,300-406-6688,"957 Random St, City 6, State TX",61,Non-Binary,High,VIP,121,"Excellent service, highly recommended!",3
+1365,Customer 365,customer365@example.com,300-406-6688,"957 Random St, City 6, State TX",61,Non-Binary,High,VIP,305,Not satisfied with the quality.,5
+1366,Customer 366,customer366@example.com,480-231-4566,"613 Random St, City 3, State FL",40,Non-Binary,High,Premium,,,
+1367,Customer 367,customer367@example.com,763-450-6124,"579 Random St, City 18, State WA",18,Male,High,Premium,,,
+1368,Customer 368,customer368@example.com,913-137-6377,"986 Random St, City 13, State TX",25,Non-Binary,Low,VIP,972,Would buy again!,1
+1369,Customer 369,customer369@example.com,368-870-6468,"884 Random St, City 20, State NY",61,Non-Binary,Middle,VIP,,,
+1370,Customer 370,customer370@example.com,234-162-3741,"919 Random St, City 4, State TX",51,Non-Binary,High,Regular,,,
+1371,Customer 371,customer371@example.com,761-278-2425,"41 Random St, City 2, State TX",66,Male,Middle,Premium,399,Loved it! Very happy with my purchase.,4
+1372,Customer 372,customer372@example.com,292-624-8966,"350 Random St, City 8, State FL",68,Male,High,VIP,,,
+1373,Customer 373,customer373@example.com,358-308-3059,"713 Random St, City 19, State NY",59,Male,Low,VIP,278,Would buy again!,2
+1374,Customer 374,customer374@example.com,792-964-2297,"40 Random St, City 8, State CA",26,Non-Binary,Middle,Regular,,,
+1375,Customer 375,customer375@example.com,665-473-8433,"408 Random St, City 13, State FL",55,Male,Low,VIP,,,
+1376,Customer 376,customer376@example.com,983-473-5935,"356 Random St, City 7, State NY",58,Non-Binary,Middle,Regular,,,
+1377,Customer 377,customer377@example.com,158-950-4379,"205 Random St, City 5, State NY",34,Male,Low,Premium,,,
+1378,Customer 378,customer378@example.com,913-190-6736,"143 Random St, City 16, State WA",68,Non-Binary,Middle,Regular,281,Very good experience!,5
+1378,Customer 378,customer378@example.com,913-190-6736,"143 Random St, City 16, State WA",68,Non-Binary,Middle,Regular,499,The item is not as described.,2
+1378,Customer 378,customer378@example.com,913-190-6736,"143 Random St, City 16, State WA",68,Non-Binary,Middle,Regular,670,Customer service was rude.,5
+1379,Customer 379,customer379@example.com,492-861-6084,"649 Random St, City 8, State CA",49,Non-Binary,High,Premium,132,Customer service was rude.,4
+1380,Customer 380,customer380@example.com,642-382-5850,"470 Random St, City 6, State WA",29,Female,High,Regular,115,Very good experience!,2
+1381,Customer 381,customer381@example.com,538-629-8876,"311 Random St, City 10, State TX",18,Male,Middle,Premium,,,
+1382,Customer 382,customer382@example.com,851-241-2626,"310 Random St, City 1, State FL",52,Male,Low,Regular,706,"Terrible experience, would not recommend.",3
+1383,Customer 383,customer383@example.com,883-791-9672,"179 Random St, City 8, State CA",28,Female,Middle,VIP,,,
+1384,Customer 384,customer384@example.com,949-321-8849,"682 Random St, City 7, State CA",64,Female,High,VIP,,,
+1385,Customer 385,customer385@example.com,783-581-8193,"104 Random St, City 2, State NY",68,Non-Binary,High,Regular,414,Would buy again!,3
+1385,Customer 385,customer385@example.com,783-581-8193,"104 Random St, City 2, State NY",68,Non-Binary,High,Regular,722,"Fast shipping, but packaging was poor.",2
+1386,Customer 386,customer386@example.com,226-921-6625,"792 Random St, City 12, State WA",44,Female,High,Regular,636,Loved it! Very happy with my purchase.,4
+1387,Customer 387,customer387@example.com,316-851-8693,"415 Random St, City 15, State TX",24,Male,Low,VIP,,,
+1388,Customer 388,customer388@example.com,361-780-1530,"950 Random St, City 19, State NY",40,Female,High,VIP,,,
+1389,Customer 389,customer389@example.com,307-218-6008,"231 Random St, City 8, State FL",60,Male,Middle,Premium,,,
+1390,Customer 390,customer390@example.com,747-709-2647,"263 Random St, City 17, State TX",19,Male,Middle,Premium,,,
+1391,Customer 391,customer391@example.com,990-418-2186,"27 Random St, City 16, State WA",39,Non-Binary,High,VIP,71,Not satisfied with the quality.,1
+1392,Customer 392,customer392@example.com,369-112-1912,"155 Random St, City 16, State CA",32,Female,High,VIP,258,Product was damaged on arrival.,3
+1393,Customer 393,customer393@example.com,437-541-9861,"805 Random St, City 5, State WA",51,Male,Middle,Premium,128,Customer service was rude.,4
+1393,Customer 393,customer393@example.com,437-541-9861,"805 Random St, City 5, State WA",51,Male,Middle,Premium,546,Affordable and high quality.,2
+1393,Customer 393,customer393@example.com,437-541-9861,"805 Random St, City 5, State WA",51,Male,Middle,Premium,970,Product was damaged on arrival.,5
+1394,Customer 394,customer394@example.com,543-561-7128,"846 Random St, City 18, State TX",69,Non-Binary,Low,Premium,559,"Excellent service, highly recommended!",1
+1395,Customer 395,customer395@example.com,734-977-4193,"440 Random St, City 12, State NY",32,Non-Binary,Middle,Premium,126,Loved it! Very happy with my purchase.,2
+1396,Customer 396,customer396@example.com,371-727-1424,"935 Random St, City 9, State WA",65,Male,Low,Premium,922,"Fast shipping, but packaging was poor.",1
+1397,Customer 397,customer397@example.com,658-634-9000,"30 Random St, City 16, State TX",44,Non-Binary,Low,VIP,512,Would buy again!,2
+1397,Customer 397,customer397@example.com,658-634-9000,"30 Random St, City 16, State TX",44,Non-Binary,Low,VIP,866,Affordable and high quality.,1
+1398,Customer 398,customer398@example.com,946-506-4610,"168 Random St, City 13, State FL",21,Male,Middle,VIP,22,"Amazing customer support, will buy again.",4
+1399,Customer 399,customer399@example.com,501-979-4683,"233 Random St, City 14, State TX",52,Female,Low,Premium,,,
+1400,Customer 400,customer400@example.com,624-987-1905,"841 Random St, City 16, State FL",56,Female,Low,Regular,497,The item is not as described.,5
+1400,Customer 400,customer400@example.com,624-987-1905,"841 Random St, City 16, State FL",56,Female,Low,Regular,982,Would buy again!,1
+1401,Customer 401,customer401@example.com,393-273-7627,"291 Random St, City 19, State NY",36,Female,Low,Regular,,,
+1402,Customer 402,customer402@example.com,633-512-1946,"230 Random St, City 15, State CA",20,Female,High,Premium,296,"Average, nothing special.",1
+1403,Customer 403,customer403@example.com,367-351-6078,"128 Random St, City 8, State NY",69,Female,Middle,Premium,276,Customer service was rude.,4
+1404,Customer 404,customer404@example.com,832-425-8004,"653 Random St, City 12, State FL",55,Male,High,Premium,489,"Disappointed, not as advertised.",4
+1405,Customer 405,customer405@example.com,539-437-9402,"516 Random St, City 14, State WA",42,Female,Low,VIP,146,Not satisfied with the quality.,3
+1406,Customer 406,customer406@example.com,376-393-6559,"340 Random St, City 14, State NY",19,Non-Binary,Low,Regular,,,
+1407,Customer 407,customer407@example.com,591-187-2892,"362 Random St, City 12, State CA",34,Male,Low,Regular,10,"Amazing customer support, will buy again.",1
+1408,Customer 408,customer408@example.com,952-524-2976,"788 Random St, City 16, State NY",61,Female,Low,Regular,,,
+1409,Customer 409,customer409@example.com,650-552-9721,"92 Random St, City 20, State TX",29,Non-Binary,High,Regular,676,Great product! Fast delivery.,3
+1410,Customer 410,customer410@example.com,788-460-2268,"923 Random St, City 8, State TX",20,Female,Middle,Premium,304,Very good experience!,4
+1410,Customer 410,customer410@example.com,788-460-2268,"923 Random St, City 8, State TX",20,Female,Middle,Premium,405,"Average, nothing special.",3
+1411,Customer 411,customer411@example.com,280-176-5822,"19 Random St, City 16, State WA",45,Male,Low,VIP,494,Very good experience!,3
+1412,Customer 412,customer412@example.com,701-141-7433,"653 Random St, City 19, State FL",57,Female,Middle,Premium,338,"Fast shipping, but packaging was poor.",4
+1412,Customer 412,customer412@example.com,701-141-7433,"653 Random St, City 19, State FL",57,Female,Middle,Premium,464,"Fast shipping, but packaging was poor.",4
+1413,Customer 413,customer413@example.com,421-673-1290,"512 Random St, City 3, State CA",19,Female,Low,Premium,,,
+1414,Customer 414,customer414@example.com,241-113-1337,"769 Random St, City 7, State FL",50,Male,Middle,Regular,,,
+1415,Customer 415,customer415@example.com,582-338-9415,"496 Random St, City 8, State FL",45,Female,Middle,Premium,877,Affordable and high quality.,3
+1416,Customer 416,customer416@example.com,329-720-7516,"465 Random St, City 16, State WA",27,Male,High,Regular,,,
+1417,Customer 417,customer417@example.com,469-302-6603,"954 Random St, City 7, State CA",51,Male,Low,Regular,295,Loved it! Very happy with my purchase.,2
+1418,Customer 418,customer418@example.com,142-991-6393,"572 Random St, City 20, State WA",54,Male,High,Premium,,,
+1419,Customer 419,customer419@example.com,618-490-6689,"337 Random St, City 4, State FL",39,Female,High,VIP,145,Would buy again!,2
+1419,Customer 419,customer419@example.com,618-490-6689,"337 Random St, City 4, State FL",39,Female,High,VIP,298,Great product! Fast delivery.,4
+1419,Customer 419,customer419@example.com,618-490-6689,"337 Random St, City 4, State FL",39,Female,High,VIP,933,Not satisfied with the quality.,1
+1420,Customer 420,customer420@example.com,216-971-5707,"846 Random St, City 7, State WA",28,Female,High,Premium,411,"Amazing customer support, will buy again.",4
+1420,Customer 420,customer420@example.com,216-971-5707,"846 Random St, City 7, State WA",28,Female,High,Premium,889,"Fast shipping, but packaging was poor.",4
+1421,Customer 421,customer421@example.com,250-431-7353,"128 Random St, City 1, State FL",51,Female,High,VIP,243,Not satisfied with the quality.,5
+1421,Customer 421,customer421@example.com,250-431-7353,"128 Random St, City 1, State FL",51,Female,High,VIP,292,The item is not as described.,4
+1421,Customer 421,customer421@example.com,250-431-7353,"128 Random St, City 1, State FL",51,Female,High,VIP,841,Not satisfied with the quality.,2
+1422,Customer 422,customer422@example.com,364-413-5509,"356 Random St, City 17, State TX",60,Male,High,Premium,328,"Amazing customer support, will buy again.",5
+1423,Customer 423,customer423@example.com,998-780-9556,"269 Random St, City 7, State TX",19,Male,High,Premium,317,Affordable and high quality.,4
+1424,Customer 424,customer424@example.com,450-315-9491,"939 Random St, City 9, State TX",60,Female,Low,VIP,332,Product was damaged on arrival.,1
+1425,Customer 425,customer425@example.com,482-535-6442,"438 Random St, City 7, State FL",47,Male,High,Regular,607,The item is not as described.,2
+1425,Customer 425,customer425@example.com,482-535-6442,"438 Random St, City 7, State FL",47,Male,High,Regular,863,"Amazing customer support, will buy again.",4
+1426,Customer 426,customer426@example.com,876-178-1529,"430 Random St, City 7, State FL",23,Female,High,VIP,114,Not satisfied with the quality.,1
+1426,Customer 426,customer426@example.com,876-178-1529,"430 Random St, City 7, State FL",23,Female,High,VIP,347,The item is not as described.,5
+1426,Customer 426,customer426@example.com,876-178-1529,"430 Random St, City 7, State FL",23,Female,High,VIP,984,Affordable and high quality.,4
+1427,Customer 427,customer427@example.com,196-305-3019,"37 Random St, City 18, State NY",63,Non-Binary,Low,Regular,271,Affordable and high quality.,1
+1427,Customer 427,customer427@example.com,196-305-3019,"37 Random St, City 18, State NY",63,Non-Binary,Low,Regular,724,Product was damaged on arrival.,4
+1428,Customer 428,customer428@example.com,366-769-3182,"759 Random St, City 7, State TX",30,Male,Middle,VIP,45,"Fast shipping, but packaging was poor.",4
+1429,Customer 429,customer429@example.com,399-832-4124,"879 Random St, City 10, State FL",50,Female,Middle,Regular,613,Very good experience!,2
+1429,Customer 429,customer429@example.com,399-832-4124,"879 Random St, City 10, State FL",50,Female,Middle,Regular,907,Loved it! Very happy with my purchase.,4
+1430,Customer 430,customer430@example.com,789-246-3446,"891 Random St, City 14, State TX",70,Male,Middle,VIP,215,Customer service was rude.,5
+1430,Customer 430,customer430@example.com,789-246-3446,"891 Random St, City 14, State TX",70,Male,Middle,VIP,750,Affordable and high quality.,4
+1430,Customer 430,customer430@example.com,789-246-3446,"891 Random St, City 14, State TX",70,Male,Middle,VIP,868,The item is not as described.,1
+1431,Customer 431,customer431@example.com,336-492-8063,"802 Random St, City 6, State FL",58,Female,High,Premium,631,Very good experience!,5
+1431,Customer 431,customer431@example.com,336-492-8063,"802 Random St, City 6, State FL",58,Female,High,Premium,983,Great product! Fast delivery.,2
+1432,Customer 432,customer432@example.com,332-121-3498,"939 Random St, City 8, State TX",23,Non-Binary,Low,Premium,142,Customer service was rude.,3
+1432,Customer 432,customer432@example.com,332-121-3498,"939 Random St, City 8, State TX",23,Non-Binary,Low,Premium,228,"Terrible experience, would not recommend.",3
+1433,Customer 433,customer433@example.com,643-608-7339,"933 Random St, City 14, State NY",43,Male,Low,Premium,678,"Fast shipping, but packaging was poor.",2
+1434,Customer 434,customer434@example.com,565-383-1824,"648 Random St, City 3, State FL",59,Male,Low,VIP,,,
+1435,Customer 435,customer435@example.com,574-730-2780,"975 Random St, City 19, State FL",36,Male,High,VIP,396,Loved it! Very happy with my purchase.,5
+1436,Customer 436,customer436@example.com,170-338-6015,"370 Random St, City 14, State WA",61,Non-Binary,High,VIP,,,
+1437,Customer 437,customer437@example.com,120-509-9845,"398 Random St, City 18, State CA",19,Non-Binary,Low,VIP,,,
+1438,Customer 438,customer438@example.com,761-913-5272,"594 Random St, City 14, State TX",39,Non-Binary,Low,Regular,713,"Fast shipping, but packaging was poor.",1
+1438,Customer 438,customer438@example.com,761-913-5272,"594 Random St, City 14, State TX",39,Non-Binary,Low,Regular,796,"Disappointed, not as advertised.",5
+1439,Customer 439,customer439@example.com,637-243-6026,"666 Random St, City 3, State NY",60,Male,High,Premium,510,Loved it! Very happy with my purchase.,3
+1439,Customer 439,customer439@example.com,637-243-6026,"666 Random St, City 3, State NY",60,Male,High,Premium,518,Would buy again!,1
+1439,Customer 439,customer439@example.com,637-243-6026,"666 Random St, City 3, State NY",60,Male,High,Premium,871,"Average, nothing special.",4
+1440,Customer 440,customer440@example.com,201-955-7950,"36 Random St, City 13, State FL",51,Female,Low,VIP,,,
+1441,Customer 441,customer441@example.com,547-517-2607,"540 Random St, City 5, State FL",54,Male,High,Premium,,,
+1442,Customer 442,customer442@example.com,586-671-3568,"192 Random St, City 3, State WA",46,Female,Low,Premium,,,
+1443,Customer 443,customer443@example.com,214-317-4048,"192 Random St, City 20, State TX",28,Non-Binary,Low,Regular,,,
+1444,Customer 444,customer444@example.com,303-366-9256,"633 Random St, City 19, State FL",27,Female,High,VIP,355,Great product! Fast delivery.,4
+1444,Customer 444,customer444@example.com,303-366-9256,"633 Random St, City 19, State FL",27,Female,High,VIP,624,Very good experience!,5
+1444,Customer 444,customer444@example.com,303-366-9256,"633 Random St, City 19, State FL",27,Female,High,VIP,716,Loved it! Very happy with my purchase.,2
+1444,Customer 444,customer444@example.com,303-366-9256,"633 Random St, City 19, State FL",27,Female,High,VIP,828,"Fast shipping, but packaging was poor.",3
+1445,Customer 445,customer445@example.com,754-474-6192,"430 Random St, City 2, State WA",38,Male,Low,VIP,838,Loved it! Very happy with my purchase.,2
+1446,Customer 446,customer446@example.com,646-263-4798,"570 Random St, City 1, State WA",43,Non-Binary,Middle,Premium,,,
+1447,Customer 447,customer447@example.com,110-573-1174,"714 Random St, City 4, State FL",36,Non-Binary,Low,VIP,827,Affordable and high quality.,4
+1448,Customer 448,customer448@example.com,121-687-6225,"539 Random St, City 20, State NY",38,Non-Binary,High,Regular,,,
+1449,Customer 449,customer449@example.com,130-437-2195,"572 Random St, City 3, State CA",22,Male,Middle,Regular,261,"Disappointed, not as advertised.",1
+1450,Customer 450,customer450@example.com,475-611-2718,"282 Random St, City 17, State CA",56,Non-Binary,Low,Regular,78,"Amazing customer support, will buy again.",4
+1450,Customer 450,customer450@example.com,475-611-2718,"282 Random St, City 17, State CA",56,Non-Binary,Low,Regular,151,"Terrible experience, would not recommend.",1
+1450,Customer 450,customer450@example.com,475-611-2718,"282 Random St, City 17, State CA",56,Non-Binary,Low,Regular,884,Customer service was rude.,1
+1450,Customer 450,customer450@example.com,475-611-2718,"282 Random St, City 17, State CA",56,Non-Binary,Low,Regular,976,Affordable and high quality.,3
+1451,Customer 451,customer451@example.com,487-709-4625,"43 Random St, City 11, State FL",51,Non-Binary,Middle,VIP,427,Not satisfied with the quality.,1
+1451,Customer 451,customer451@example.com,487-709-4625,"43 Random St, City 11, State FL",51,Non-Binary,Middle,VIP,793,"Fast shipping, but packaging was poor.",1
+1451,Customer 451,customer451@example.com,487-709-4625,"43 Random St, City 11, State FL",51,Non-Binary,Middle,VIP,885,Very good experience!,5
+1452,Customer 452,customer452@example.com,989-575-7642,"502 Random St, City 16, State FL",60,Non-Binary,High,Premium,749,Great product! Fast delivery.,2
+1453,Customer 453,customer453@example.com,768-292-3714,"668 Random St, City 16, State TX",23,Female,Middle,VIP,,,
+1454,Customer 454,customer454@example.com,430-850-1348,"830 Random St, City 5, State WA",50,Non-Binary,Middle,Regular,,,
+1455,Customer 455,customer455@example.com,202-802-8986,"465 Random St, City 5, State TX",59,Female,Low,Premium,,,
+1456,Customer 456,customer456@example.com,299-374-6712,"691 Random St, City 18, State WA",27,Non-Binary,Low,Regular,582,"Average, nothing special.",5
+1457,Customer 457,customer457@example.com,746-113-5709,"500 Random St, City 15, State TX",51,Female,Low,VIP,302,Affordable and high quality.,4
+1457,Customer 457,customer457@example.com,746-113-5709,"500 Random St, City 15, State TX",51,Female,Low,VIP,754,The item is not as described.,3
+1457,Customer 457,customer457@example.com,746-113-5709,"500 Random St, City 15, State TX",51,Female,Low,VIP,799,"Terrible experience, would not recommend.",4
+1458,Customer 458,customer458@example.com,329-222-4618,"234 Random St, City 14, State FL",69,Non-Binary,Middle,Regular,33,Product was damaged on arrival.,1
+1458,Customer 458,customer458@example.com,329-222-4618,"234 Random St, City 14, State FL",69,Non-Binary,Middle,Regular,389,Affordable and high quality.,2
+1459,Customer 459,customer459@example.com,832-574-4223,"647 Random St, City 11, State TX",43,Female,Low,Premium,936,"Fast shipping, but packaging was poor.",2
+1460,Customer 460,customer460@example.com,164-295-9031,"854 Random St, City 3, State FL",21,Non-Binary,Low,Regular,756,Would buy again!,5
+1461,Customer 461,customer461@example.com,481-111-8436,"63 Random St, City 16, State FL",68,Female,Low,Regular,140,Very good experience!,1
+1462,Customer 462,customer462@example.com,151-471-8516,"100 Random St, City 15, State CA",63,Male,Low,Premium,610,Customer service was rude.,2
+1462,Customer 462,customer462@example.com,151-471-8516,"100 Random St, City 15, State CA",63,Male,Low,Premium,904,Loved it! Very happy with my purchase.,1
+1463,Customer 463,customer463@example.com,509-347-2666,"887 Random St, City 9, State CA",42,Female,Middle,Premium,,,
+1464,Customer 464,customer464@example.com,472-764-7804,"878 Random St, City 17, State FL",39,Male,Middle,Regular,942,"Terrible experience, would not recommend.",1
+1465,Customer 465,customer465@example.com,307-996-2616,"113 Random St, City 9, State TX",27,Female,High,Regular,,,
+1466,Customer 466,customer466@example.com,101-693-9131,"500 Random St, City 2, State CA",33,Male,High,VIP,,,
+1467,Customer 467,customer467@example.com,541-390-4748,"63 Random St, City 3, State NY",51,Non-Binary,Low,Regular,37,Great product! Fast delivery.,3
+1468,Customer 468,customer468@example.com,120-472-4025,"978 Random St, City 18, State CA",36,Male,Low,Regular,,,
+1469,Customer 469,customer469@example.com,189-769-4726,"40 Random St, City 11, State NY",34,Non-Binary,Low,Regular,,,
+1470,Customer 470,customer470@example.com,644-350-1402,"970 Random St, City 10, State FL",23,Male,High,Premium,609,Customer service was rude.,3
+1471,Customer 471,customer471@example.com,758-854-3977,"938 Random St, City 17, State WA",27,Female,High,Premium,361,Would buy again!,3
+1471,Customer 471,customer471@example.com,758-854-3977,"938 Random St, City 17, State WA",27,Female,High,Premium,444,Great product! Fast delivery.,3
+1472,Customer 472,customer472@example.com,395-693-1324,"569 Random St, City 1, State FL",25,Male,Low,Premium,74,Affordable and high quality.,1
+1472,Customer 472,customer472@example.com,395-693-1324,"569 Random St, City 1, State FL",25,Male,Low,Premium,172,Affordable and high quality.,4
+1473,Customer 473,customer473@example.com,861-557-7442,"216 Random St, City 8, State NY",52,Non-Binary,Middle,Regular,4,"Fast shipping, but packaging was poor.",2
+1473,Customer 473,customer473@example.com,861-557-7442,"216 Random St, City 8, State NY",52,Non-Binary,Middle,Regular,272,Would buy again!,2
+1474,Customer 474,customer474@example.com,967-434-9899,"207 Random St, City 13, State TX",70,Male,Middle,VIP,820,Customer service was rude.,2
+1475,Customer 475,customer475@example.com,851-808-6110,"650 Random St, City 9, State CA",42,Female,Low,Regular,,,
+1476,Customer 476,customer476@example.com,666-105-8138,"557 Random St, City 3, State FL",27,Male,Low,VIP,,,
+1477,Customer 477,customer477@example.com,670-514-2776,"78 Random St, City 15, State CA",49,Female,Low,VIP,95,Would buy again!,1
+1477,Customer 477,customer477@example.com,670-514-2776,"78 Random St, City 15, State CA",49,Female,Low,VIP,98,"Terrible experience, would not recommend.",3
+1477,Customer 477,customer477@example.com,670-514-2776,"78 Random St, City 15, State CA",49,Female,Low,VIP,521,Would buy again!,4
+1478,Customer 478,customer478@example.com,673-756-4511,"790 Random St, City 7, State TX",40,Female,Low,VIP,,,
+1479,Customer 479,customer479@example.com,883-848-2736,"10 Random St, City 16, State WA",30,Non-Binary,High,Regular,,,
+1480,Customer 480,customer480@example.com,301-691-4348,"664 Random St, City 13, State NY",40,Non-Binary,Low,Premium,,,
+1481,Customer 481,customer481@example.com,922-944-2839,"395 Random St, City 18, State FL",59,Female,Low,Regular,856,"Terrible experience, would not recommend.",1
+1482,Customer 482,customer482@example.com,684-912-3813,"448 Random St, City 9, State TX",41,Female,High,Regular,248,Would buy again!,2
+1482,Customer 482,customer482@example.com,684-912-3813,"448 Random St, City 9, State TX",41,Female,High,Regular,675,Customer service was rude.,2
+1482,Customer 482,customer482@example.com,684-912-3813,"448 Random St, City 9, State TX",41,Female,High,Regular,767,Great product! Fast delivery.,4
+1483,Customer 483,customer483@example.com,563-254-4419,"22 Random St, City 16, State NY",54,Male,Low,Premium,498,The item is not as described.,3
+1484,Customer 484,customer484@example.com,367-573-1459,"256 Random St, City 1, State FL",18,Non-Binary,Middle,Regular,,,
+1485,Customer 485,customer485@example.com,627-630-9863,"945 Random St, City 12, State TX",26,Female,High,Premium,447,"Terrible experience, would not recommend.",2
+1486,Customer 486,customer486@example.com,294-258-1221,"484 Random St, City 2, State NY",29,Female,High,Premium,921,The item is not as described.,3
+1487,Customer 487,customer487@example.com,392-904-3340,"245 Random St, City 17, State NY",58,Non-Binary,High,Premium,9,Not satisfied with the quality.,3
+1487,Customer 487,customer487@example.com,392-904-3340,"245 Random St, City 17, State NY",58,Non-Binary,High,Premium,224,"Fast shipping, but packaging was poor.",5
+1488,Customer 488,customer488@example.com,201-976-1321,"28 Random St, City 17, State WA",29,Male,High,Premium,,,
+1489,Customer 489,customer489@example.com,302-375-5514,"279 Random St, City 18, State NY",31,Male,Low,Regular,,,
+1490,Customer 490,customer490@example.com,842-661-6117,"631 Random St, City 19, State TX",56,Female,Middle,Regular,449,"Average, nothing special.",4
+1491,Customer 491,customer491@example.com,967-590-8904,"222 Random St, City 19, State CA",68,Female,Middle,Regular,456,Would buy again!,3
+1492,Customer 492,customer492@example.com,124-527-8728,"252 Random St, City 13, State CA",47,Female,High,Regular,,,
+1493,Customer 493,customer493@example.com,825-559-1997,"953 Random St, City 9, State WA",61,Male,High,Regular,788,Not satisfied with the quality.,5
+1494,Customer 494,customer494@example.com,701-586-2585,"144 Random St, City 17, State TX",22,Female,High,Regular,,,
+1495,Customer 495,customer495@example.com,489-920-5059,"130 Random St, City 15, State TX",62,Female,Middle,Regular,,,
+1496,Customer 496,customer496@example.com,613-325-2750,"610 Random St, City 20, State FL",51,Male,Low,Regular,,,
+1497,Customer 497,customer497@example.com,270-890-2387,"681 Random St, City 5, State NY",29,Male,Middle,Regular,283,"Amazing customer support, will buy again.",1
+1497,Customer 497,customer497@example.com,270-890-2387,"681 Random St, City 5, State NY",29,Male,Middle,Regular,534,"Excellent service, highly recommended!",2
+1497,Customer 497,customer497@example.com,270-890-2387,"681 Random St, City 5, State NY",29,Male,Middle,Regular,861,"Disappointed, not as advertised.",5
+1497,Customer 497,customer497@example.com,270-890-2387,"681 Random St, City 5, State NY",29,Male,Middle,Regular,949,"Terrible experience, would not recommend.",3
+1498,Customer 498,customer498@example.com,542-246-7679,"482 Random St, City 6, State TX",60,Male,High,VIP,,,
+1499,Customer 499,customer499@example.com,215-343-2962,"348 Random St, City 10, State WA",52,Female,Middle,VIP,,,
+1500,Customer 500,customer500@example.com,635-271-5252,"513 Random St, City 1, State FL",25,Male,Low,Regular,312,Affordable and high quality.,1
+1501,Customer 501,customer501@example.com,351-747-6330,"742 Random St, City 6, State FL",20,Female,Low,Premium,,,
+1502,Customer 502,customer502@example.com,356-203-8191,"27 Random St, City 2, State WA",18,Female,Middle,Premium,264,The item is not as described.,1
+1502,Customer 502,customer502@example.com,356-203-8191,"27 Random St, City 2, State WA",18,Female,Middle,Premium,814,Great product! Fast delivery.,1
+1502,Customer 502,customer502@example.com,356-203-8191,"27 Random St, City 2, State WA",18,Female,Middle,Premium,875,Great product! Fast delivery.,1
+1503,Customer 503,customer503@example.com,980-684-5397,"903 Random St, City 8, State WA",44,Female,Middle,VIP,527,"Excellent service, highly recommended!",3
+1503,Customer 503,customer503@example.com,980-684-5397,"903 Random St, City 8, State WA",44,Female,Middle,VIP,648,"Disappointed, not as advertised.",5
+1504,Customer 504,customer504@example.com,425-912-8158,"911 Random St, City 11, State NY",46,Non-Binary,High,VIP,,,
+1505,Customer 505,customer505@example.com,287-292-7084,"618 Random St, City 6, State TX",32,Female,Low,Regular,,,
+1506,Customer 506,customer506@example.com,588-404-6818,"191 Random St, City 19, State FL",37,Male,Low,Regular,,,
+1507,Customer 507,customer507@example.com,933-641-4203,"490 Random St, City 7, State TX",25,Male,High,Premium,,,
+1508,Customer 508,customer508@example.com,644-515-2198,"557 Random St, City 1, State FL",46,Male,Low,Premium,234,Would buy again!,5
+1508,Customer 508,customer508@example.com,644-515-2198,"557 Random St, City 1, State FL",46,Male,Low,Premium,804,Customer service was rude.,1
+1509,Customer 509,customer509@example.com,405-851-7409,"277 Random St, City 3, State TX",67,Non-Binary,Middle,VIP,,,
+1510,Customer 510,customer510@example.com,808-105-2647,"55 Random St, City 5, State NY",64,Non-Binary,Low,Regular,,,
+1511,Customer 511,customer511@example.com,360-229-5598,"520 Random St, City 2, State CA",25,Female,Low,VIP,459,The item is not as described.,2
+1511,Customer 511,customer511@example.com,360-229-5598,"520 Random St, City 2, State CA",25,Female,Low,VIP,758,"Average, nothing special.",5
+1512,Customer 512,customer512@example.com,551-527-6872,"144 Random St, City 5, State FL",25,Female,High,Premium,538,Loved it! Very happy with my purchase.,2
+1512,Customer 512,customer512@example.com,551-527-6872,"144 Random St, City 5, State FL",25,Female,High,Premium,671,Product was damaged on arrival.,4
+1512,Customer 512,customer512@example.com,551-527-6872,"144 Random St, City 5, State FL",25,Female,High,Premium,862,Would buy again!,2
+1512,Customer 512,customer512@example.com,551-527-6872,"144 Random St, City 5, State FL",25,Female,High,Premium,880,Customer service was rude.,5
+1512,Customer 512,customer512@example.com,551-527-6872,"144 Random St, City 5, State FL",25,Female,High,Premium,995,"Average, nothing special.",1
+1513,Customer 513,customer513@example.com,319-247-3545,"984 Random St, City 18, State WA",25,Male,Middle,VIP,64,Loved it! Very happy with my purchase.,2
+1514,Customer 514,customer514@example.com,683-838-2664,"239 Random St, City 19, State NY",22,Male,Middle,Regular,742,"Amazing customer support, will buy again.",4
+1514,Customer 514,customer514@example.com,683-838-2664,"239 Random St, City 19, State NY",22,Male,Middle,Regular,812,Product was damaged on arrival.,1
+1515,Customer 515,customer515@example.com,234-902-2364,"869 Random St, City 14, State WA",25,Female,High,VIP,751,Would buy again!,1
+1516,Customer 516,customer516@example.com,469-706-5067,"690 Random St, City 2, State NY",32,Non-Binary,High,Premium,94,Great product! Fast delivery.,3
+1517,Customer 517,customer517@example.com,674-809-8080,"987 Random St, City 11, State TX",27,Female,Middle,VIP,,,
+1518,Customer 518,customer518@example.com,178-517-6520,"538 Random St, City 18, State TX",37,Non-Binary,Low,VIP,892,"Excellent service, highly recommended!",3
+1519,Customer 519,customer519@example.com,868-393-6144,"51 Random St, City 3, State CA",42,Female,High,Regular,,,
+1520,Customer 520,customer520@example.com,557-502-9641,"848 Random St, City 7, State NY",43,Female,Middle,VIP,,,
+1521,Customer 521,customer521@example.com,161-253-9400,"293 Random St, City 18, State TX",41,Female,High,VIP,18,Customer service was rude.,5
+1522,Customer 522,customer522@example.com,474-297-4197,"826 Random St, City 4, State WA",37,Non-Binary,Low,Regular,,,
+1523,Customer 523,customer523@example.com,322-619-6759,"190 Random St, City 19, State CA",26,Female,Middle,Premium,,,
+1524,Customer 524,customer524@example.com,431-823-4091,"237 Random St, City 15, State FL",49,Male,Middle,Regular,76,Not satisfied with the quality.,2
+1524,Customer 524,customer524@example.com,431-823-4091,"237 Random St, City 15, State FL",49,Male,Middle,Regular,465,"Amazing customer support, will buy again.",1
+1525,Customer 525,customer525@example.com,568-627-6305,"990 Random St, City 8, State FL",56,Non-Binary,Middle,Regular,878,"Disappointed, not as advertised.",2
+1526,Customer 526,customer526@example.com,690-927-2726,"455 Random St, City 12, State TX",44,Non-Binary,Middle,VIP,,,
+1527,Customer 527,customer527@example.com,120-267-3104,"348 Random St, City 3, State CA",68,Non-Binary,Low,Regular,293,Great product! Fast delivery.,3
+1528,Customer 528,customer528@example.com,847-126-3921,"767 Random St, City 1, State TX",64,Male,Low,Regular,101,"Average, nothing special.",1
+1529,Customer 529,customer529@example.com,816-628-6195,"922 Random St, City 5, State TX",28,Male,Low,VIP,502,The item is not as described.,3
+1530,Customer 530,customer530@example.com,345-106-3201,"355 Random St, City 15, State TX",18,Non-Binary,Middle,Premium,366,Affordable and high quality.,4
+1531,Customer 531,customer531@example.com,821-699-9664,"150 Random St, City 12, State WA",30,Female,Low,VIP,186,Customer service was rude.,3
+1532,Customer 532,customer532@example.com,342-841-8495,"662 Random St, City 10, State NY",29,Female,Low,VIP,525,Great product! Fast delivery.,2
+1532,Customer 532,customer532@example.com,342-841-8495,"662 Random St, City 10, State NY",29,Female,Low,VIP,591,Loved it! Very happy with my purchase.,4
+1533,Customer 533,customer533@example.com,804-340-4655,"958 Random St, City 18, State FL",60,Male,Middle,VIP,393,Not satisfied with the quality.,2
+1533,Customer 533,customer533@example.com,804-340-4655,"958 Random St, City 18, State FL",60,Male,Middle,VIP,840,Very good experience!,3
+1534,Customer 534,customer534@example.com,630-972-3181,"700 Random St, City 20, State TX",36,Female,High,Regular,588,Product was damaged on arrival.,3
+1535,Customer 535,customer535@example.com,291-501-6427,"864 Random St, City 3, State TX",44,Male,Middle,Regular,653,Customer service was rude.,3
+1536,Customer 536,customer536@example.com,334-350-3773,"976 Random St, City 13, State CA",26,Male,Middle,Premium,506,"Excellent service, highly recommended!",5
+1537,Customer 537,customer537@example.com,108-885-2503,"818 Random St, City 1, State NY",23,Male,Low,Premium,,,
+1538,Customer 538,customer538@example.com,782-597-3429,"314 Random St, City 12, State WA",19,Non-Binary,High,VIP,,,
+1539,Customer 539,customer539@example.com,546-568-9894,"278 Random St, City 8, State TX",37,Female,Middle,VIP,632,"Average, nothing special.",1
+1540,Customer 540,customer540@example.com,944-753-7104,"999 Random St, City 20, State NY",48,Female,High,VIP,655,Very good experience!,4
+1541,Customer 541,customer541@example.com,620-310-9928,"352 Random St, City 7, State WA",21,Female,Middle,Regular,,,
+1542,Customer 542,customer542@example.com,224-909-2280,"606 Random St, City 9, State FL",23,Male,Low,Regular,216,"Excellent service, highly recommended!",3
+1542,Customer 542,customer542@example.com,224-909-2280,"606 Random St, City 9, State FL",23,Male,Low,Regular,656,"Excellent service, highly recommended!",5
+1543,Customer 543,customer543@example.com,224-886-8539,"632 Random St, City 20, State FL",21,Non-Binary,Low,Premium,916,Loved it! Very happy with my purchase.,5
+1544,Customer 544,customer544@example.com,668-544-3288,"275 Random St, City 2, State CA",34,Non-Binary,Low,VIP,873,Affordable and high quality.,2
+1545,Customer 545,customer545@example.com,367-961-8961,"335 Random St, City 2, State NY",68,Female,Low,Premium,365,Loved it! Very happy with my purchase.,1
+1546,Customer 546,customer546@example.com,116-283-5512,"933 Random St, City 18, State CA",50,Female,Low,VIP,,,
+1547,Customer 547,customer547@example.com,993-255-8919,"634 Random St, City 13, State CA",37,Non-Binary,Middle,VIP,21,Product was damaged on arrival.,5
+1548,Customer 548,customer548@example.com,629-408-1160,"833 Random St, City 2, State NY",44,Non-Binary,High,VIP,379,Very good experience!,3
+1548,Customer 548,customer548@example.com,629-408-1160,"833 Random St, City 2, State NY",44,Non-Binary,High,VIP,755,Not satisfied with the quality.,2
+1548,Customer 548,customer548@example.com,629-408-1160,"833 Random St, City 2, State NY",44,Non-Binary,High,VIP,980,Affordable and high quality.,4
+1549,Customer 549,customer549@example.com,709-608-5086,"395 Random St, City 20, State NY",24,Female,High,VIP,,,
+1550,Customer 550,customer550@example.com,878-762-5588,"431 Random St, City 16, State FL",68,Non-Binary,Middle,Premium,,,
+1551,Customer 551,customer551@example.com,542-669-9757,"361 Random St, City 1, State FL",38,Male,Low,Regular,,,
+1552,Customer 552,customer552@example.com,602-160-7522,"676 Random St, City 16, State WA",69,Female,Middle,VIP,193,Great product! Fast delivery.,4
+1552,Customer 552,customer552@example.com,602-160-7522,"676 Random St, City 16, State WA",69,Female,Middle,VIP,238,"Amazing customer support, will buy again.",2
+1552,Customer 552,customer552@example.com,602-160-7522,"676 Random St, City 16, State WA",69,Female,Middle,VIP,568,Very good experience!,2
+1552,Customer 552,customer552@example.com,602-160-7522,"676 Random St, City 16, State WA",69,Female,Middle,VIP,826,"Fast shipping, but packaging was poor.",5
+1553,Customer 553,customer553@example.com,455-997-2579,"5 Random St, City 1, State NY",21,Male,Low,VIP,,,
+1554,Customer 554,customer554@example.com,794-137-7245,"809 Random St, City 16, State FL",59,Male,Middle,VIP,50,The item is not as described.,4
+1555,Customer 555,customer555@example.com,736-481-1867,"421 Random St, City 12, State WA",45,Non-Binary,Low,Regular,,,
+1556,Customer 556,customer556@example.com,946-498-4342,"607 Random St, City 2, State TX",62,Male,High,VIP,,,
+1557,Customer 557,customer557@example.com,249-592-6884,"754 Random St, City 18, State TX",69,Non-Binary,High,VIP,,,
+1558,Customer 558,customer558@example.com,836-945-7768,"78 Random St, City 18, State WA",47,Male,Low,VIP,836,Product was damaged on arrival.,3
+1559,Customer 559,customer559@example.com,470-348-9620,"354 Random St, City 6, State NY",23,Male,Low,Premium,669,"Excellent service, highly recommended!",5
+1559,Customer 559,customer559@example.com,470-348-9620,"354 Random St, City 6, State NY",23,Male,Low,Premium,910,"Average, nothing special.",4
+1560,Customer 560,customer560@example.com,453-409-7626,"297 Random St, City 6, State NY",28,Male,High,Premium,,,
+1561,Customer 561,customer561@example.com,750-111-5315,"308 Random St, City 8, State WA",42,Female,Middle,VIP,696,"Excellent service, highly recommended!",2
+1561,Customer 561,customer561@example.com,750-111-5315,"308 Random St, City 8, State WA",42,Female,Middle,VIP,901,"Average, nothing special.",1
+1562,Customer 562,customer562@example.com,459-175-9480,"490 Random St, City 9, State TX",69,Male,High,Regular,122,Customer service was rude.,4
+1563,Customer 563,customer563@example.com,176-963-4047,"613 Random St, City 4, State CA",27,Non-Binary,High,Regular,249,Loved it! Very happy with my purchase.,5
+1563,Customer 563,customer563@example.com,176-963-4047,"613 Random St, City 4, State CA",27,Non-Binary,High,Regular,423,Loved it! Very happy with my purchase.,3
+1564,Customer 564,customer564@example.com,887-162-2912,"148 Random St, City 7, State FL",46,Non-Binary,High,VIP,960,Not satisfied with the quality.,4
+1565,Customer 565,customer565@example.com,587-653-6143,"462 Random St, City 5, State FL",49,Female,High,Premium,20,Loved it! Very happy with my purchase.,4
+1565,Customer 565,customer565@example.com,587-653-6143,"462 Random St, City 5, State FL",49,Female,High,Premium,136,"Average, nothing special.",3
+1565,Customer 565,customer565@example.com,587-653-6143,"462 Random St, City 5, State FL",49,Female,High,Premium,764,The item is not as described.,3
+1566,Customer 566,customer566@example.com,767-195-3177,"253 Random St, City 3, State WA",22,Female,Middle,Premium,573,Not satisfied with the quality.,1
+1567,Customer 567,customer567@example.com,655-769-1558,"668 Random St, City 11, State CA",49,Female,Low,Regular,342,"Fast shipping, but packaging was poor.",2
+1567,Customer 567,customer567@example.com,655-769-1558,"668 Random St, City 11, State CA",49,Female,Low,Regular,344,"Amazing customer support, will buy again.",2
+1568,Customer 568,customer568@example.com,861-180-6809,"955 Random St, City 18, State CA",22,Non-Binary,Middle,Regular,815,Affordable and high quality.,3
+1569,Customer 569,customer569@example.com,300-157-1033,"287 Random St, City 16, State NY",59,Female,Low,VIP,,,
+1570,Customer 570,customer570@example.com,350-313-7751,"516 Random St, City 6, State TX",59,Male,Low,VIP,686,"Disappointed, not as advertised.",1
+1571,Customer 571,customer571@example.com,100-185-7584,"342 Random St, City 19, State TX",66,Female,High,VIP,198,"Excellent service, highly recommended!",2
+1571,Customer 571,customer571@example.com,100-185-7584,"342 Random St, City 19, State TX",66,Female,High,VIP,430,"Amazing customer support, will buy again.",3
+1572,Customer 572,customer572@example.com,690-371-5537,"227 Random St, City 9, State FL",64,Female,High,Regular,,,
+1573,Customer 573,customer573@example.com,793-472-7410,"399 Random St, City 14, State FL",20,Non-Binary,Middle,VIP,816,Very good experience!,2
+1573,Customer 573,customer573@example.com,793-472-7410,"399 Random St, City 14, State FL",20,Non-Binary,Middle,VIP,893,Loved it! Very happy with my purchase.,3
+1574,Customer 574,customer574@example.com,480-218-4551,"639 Random St, City 1, State TX",63,Female,Middle,Regular,,,
+1575,Customer 575,customer575@example.com,197-636-6543,"367 Random St, City 10, State CA",43,Female,Middle,Premium,,,
+1576,Customer 576,customer576@example.com,512-860-2570,"443 Random St, City 15, State NY",64,Male,High,Premium,,,
+1577,Customer 577,customer577@example.com,701-564-6411,"485 Random St, City 16, State WA",46,Male,High,Premium,986,Great product! Fast delivery.,2
+1578,Customer 578,customer578@example.com,175-295-2331,"963 Random St, City 2, State WA",26,Male,High,Regular,962,"Fast shipping, but packaging was poor.",5
+1579,Customer 579,customer579@example.com,657-925-5262,"328 Random St, City 20, State CA",27,Non-Binary,High,VIP,879,The item is not as described.,3
+1580,Customer 580,customer580@example.com,436-560-1380,"845 Random St, City 16, State NY",49,Male,Middle,VIP,,,
+1581,Customer 581,customer581@example.com,829-766-9665,"518 Random St, City 8, State NY",67,Male,Middle,VIP,89,"Disappointed, not as advertised.",2
+1581,Customer 581,customer581@example.com,829-766-9665,"518 Random St, City 8, State NY",67,Male,Middle,VIP,507,Would buy again!,2
+1582,Customer 582,customer582@example.com,934-428-2582,"555 Random St, City 20, State FL",28,Non-Binary,High,Premium,,,
+1583,Customer 583,customer583@example.com,988-598-1608,"668 Random St, City 6, State CA",48,Male,High,Premium,133,Product was damaged on arrival.,2
+1584,Customer 584,customer584@example.com,649-944-6315,"653 Random St, City 10, State NY",38,Male,Middle,Premium,634,"Disappointed, not as advertised.",2
+1585,Customer 585,customer585@example.com,905-637-1704,"331 Random St, City 4, State CA",35,Male,Middle,VIP,285,"Amazing customer support, will buy again.",3
+1585,Customer 585,customer585@example.com,905-637-1704,"331 Random St, City 4, State CA",35,Male,Middle,VIP,491,The item is not as described.,1
+1586,Customer 586,customer586@example.com,616-645-4240,"982 Random St, City 18, State FL",42,Male,High,Premium,,,
+1587,Customer 587,customer587@example.com,125-529-5995,"96 Random St, City 14, State CA",31,Non-Binary,Low,VIP,752,Customer service was rude.,5
+1588,Customer 588,customer588@example.com,220-382-4951,"955 Random St, City 8, State WA",48,Non-Binary,Middle,VIP,124,"Fast shipping, but packaging was poor.",2
+1589,Customer 589,customer589@example.com,993-148-9209,"393 Random St, City 18, State FL",40,Non-Binary,Low,VIP,,,
+1590,Customer 590,customer590@example.com,112-213-4856,"257 Random St, City 4, State FL",36,Male,Low,VIP,,,
+1591,Customer 591,customer591@example.com,151-801-6704,"655 Random St, City 20, State FL",45,Female,High,VIP,,,
+1592,Customer 592,customer592@example.com,579-576-8779,"123 Random St, City 6, State FL",39,Male,Middle,Regular,,,
+1593,Customer 593,customer593@example.com,770-930-8234,"985 Random St, City 7, State CA",63,Female,Middle,Regular,,,
+1594,Customer 594,customer594@example.com,432-566-9332,"9 Random St, City 9, State TX",36,Non-Binary,High,Regular,997,"Amazing customer support, will buy again.",4
+1595,Customer 595,customer595@example.com,297-806-7254,"983 Random St, City 17, State FL",28,Male,High,Regular,,,
+1596,Customer 596,customer596@example.com,337-239-2243,"515 Random St, City 8, State CA",25,Non-Binary,High,Premium,,,
+1597,Customer 597,customer597@example.com,551-564-6906,"553 Random St, City 16, State CA",66,Male,Low,Regular,,,
+1598,Customer 598,customer598@example.com,324-260-4916,"515 Random St, City 6, State WA",56,Non-Binary,Middle,VIP,,,
+1599,Customer 599,customer599@example.com,165-640-9656,"885 Random St, City 9, State WA",49,Female,Middle,VIP,210,Great product! Fast delivery.,5
+1599,Customer 599,customer599@example.com,165-640-9656,"885 Random St, City 9, State WA",49,Female,Middle,VIP,571,The item is not as described.,1
+1600,Customer 600,customer600@example.com,261-976-7007,"851 Random St, City 15, State CA",70,Male,Middle,VIP,113,Affordable and high quality.,2
+1601,Customer 601,customer601@example.com,297-322-2573,"20 Random St, City 4, State CA",63,Non-Binary,Low,Regular,,,
+1602,Customer 602,customer602@example.com,911-544-9461,"886 Random St, City 20, State WA",35,Female,Low,Premium,487,Very good experience!,4
+1603,Customer 603,customer603@example.com,435-347-3843,"479 Random St, City 5, State WA",47,Non-Binary,High,Regular,39,Affordable and high quality.,5
+1603,Customer 603,customer603@example.com,435-347-3843,"479 Random St, City 5, State WA",47,Non-Binary,High,Regular,590,"Amazing customer support, will buy again.",2
+1604,Customer 604,customer604@example.com,194-121-6995,"947 Random St, City 11, State FL",52,Male,High,VIP,,,
+1605,Customer 605,customer605@example.com,690-309-1577,"521 Random St, City 2, State TX",60,Female,High,Premium,30,Customer service was rude.,4
+1605,Customer 605,customer605@example.com,690-309-1577,"521 Random St, City 2, State TX",60,Female,High,Premium,54,Loved it! Very happy with my purchase.,5
+1606,Customer 606,customer606@example.com,672-101-4909,"120 Random St, City 2, State WA",66,Female,Middle,Regular,,,
+1607,Customer 607,customer607@example.com,466-773-7170,"820 Random St, City 11, State CA",40,Non-Binary,Low,Regular,280,Loved it! Very happy with my purchase.,4
+1607,Customer 607,customer607@example.com,466-773-7170,"820 Random St, City 11, State CA",40,Non-Binary,Low,Regular,320,"Disappointed, not as advertised.",1
+1607,Customer 607,customer607@example.com,466-773-7170,"820 Random St, City 11, State CA",40,Non-Binary,Low,Regular,719,Not satisfied with the quality.,3
+1608,Customer 608,customer608@example.com,369-447-2996,"248 Random St, City 18, State CA",45,Female,Middle,VIP,,,
+1609,Customer 609,customer609@example.com,141-216-6002,"133 Random St, City 8, State NY",67,Female,Middle,Regular,674,Customer service was rude.,3
+1610,Customer 610,customer610@example.com,382-977-2134,"521 Random St, City 16, State NY",63,Non-Binary,Low,VIP,,,
+1611,Customer 611,customer611@example.com,168-937-6052,"794 Random St, City 7, State TX",44,Female,Middle,VIP,,,
+1612,Customer 612,customer612@example.com,572-949-2199,"826 Random St, City 4, State WA",54,Female,Low,Regular,,,
+1613,Customer 613,customer613@example.com,385-460-9921,"57 Random St, City 13, State TX",38,Male,Low,Regular,545,Customer service was rude.,1
+1613,Customer 613,customer613@example.com,385-460-9921,"57 Random St, City 13, State TX",38,Male,Low,Regular,687,"Average, nothing special.",1
+1613,Customer 613,customer613@example.com,385-460-9921,"57 Random St, City 13, State TX",38,Male,Low,Regular,952,"Amazing customer support, will buy again.",5
+1614,Customer 614,customer614@example.com,483-676-4437,"794 Random St, City 6, State WA",54,Non-Binary,Low,Regular,925,Product was damaged on arrival.,1
+1615,Customer 615,customer615@example.com,182-871-4394,"236 Random St, City 12, State TX",47,Male,Middle,Regular,830,Would buy again!,2
+1616,Customer 616,customer616@example.com,775-655-7876,"16 Random St, City 16, State CA",62,Male,Middle,VIP,839,"Amazing customer support, will buy again.",2
+1617,Customer 617,customer617@example.com,151-439-4837,"26 Random St, City 14, State FL",33,Non-Binary,Middle,Regular,,,
+1618,Customer 618,customer618@example.com,776-274-7712,"121 Random St, City 15, State TX",41,Non-Binary,Low,Regular,700,Great product! Fast delivery.,2
+1619,Customer 619,customer619@example.com,215-799-6681,"40 Random St, City 11, State CA",61,Female,Middle,VIP,650,"Average, nothing special.",2
+1620,Customer 620,customer620@example.com,374-353-9465,"669 Random St, City 19, State WA",32,Male,Low,Regular,,,
+1621,Customer 621,customer621@example.com,434-925-6699,"996 Random St, City 16, State FL",65,Male,Middle,VIP,469,Very good experience!,4
+1621,Customer 621,customer621@example.com,434-925-6699,"996 Random St, City 16, State FL",65,Male,Middle,VIP,813,Customer service was rude.,2
+1622,Customer 622,customer622@example.com,199-714-1918,"641 Random St, City 7, State WA",52,Female,Low,Regular,558,Customer service was rude.,4
+1622,Customer 622,customer622@example.com,199-714-1918,"641 Random St, City 7, State WA",52,Female,Low,Regular,781,Product was damaged on arrival.,5
+1622,Customer 622,customer622@example.com,199-714-1918,"641 Random St, City 7, State WA",52,Female,Low,Regular,895,Affordable and high quality.,5
+1623,Customer 623,customer623@example.com,893-838-1740,"229 Random St, City 6, State TX",55,Male,High,VIP,35,Loved it! Very happy with my purchase.,3
+1624,Customer 624,customer624@example.com,885-690-5933,"655 Random St, City 12, State FL",70,Non-Binary,Low,VIP,,,
+1625,Customer 625,customer625@example.com,597-436-4778,"721 Random St, City 7, State TX",58,Male,Middle,VIP,152,Affordable and high quality.,1
+1626,Customer 626,customer626@example.com,638-346-5269,"413 Random St, City 15, State TX",58,Non-Binary,Low,Regular,,,
+1627,Customer 627,customer627@example.com,856-327-3953,"217 Random St, City 12, State NY",28,Non-Binary,Low,Premium,357,Product was damaged on arrival.,5
+1628,Customer 628,customer628@example.com,411-684-4043,"425 Random St, City 8, State WA",48,Male,High,VIP,,,
+1629,Customer 629,customer629@example.com,110-342-4679,"36 Random St, City 19, State CA",44,Non-Binary,Middle,VIP,602,Affordable and high quality.,4
+1630,Customer 630,customer630@example.com,773-731-3068,"973 Random St, City 18, State NY",37,Male,High,Premium,417,"Excellent service, highly recommended!",4
+1631,Customer 631,customer631@example.com,772-875-6133,"207 Random St, City 4, State WA",24,Female,Low,Regular,599,"Excellent service, highly recommended!",5
+1632,Customer 632,customer632@example.com,856-281-9496,"916 Random St, City 14, State CA",62,Male,Middle,Regular,979,"Excellent service, highly recommended!",3
+1633,Customer 633,customer633@example.com,536-870-8670,"43 Random St, City 16, State NY",51,Non-Binary,High,Regular,643,Affordable and high quality.,4
+1634,Customer 634,customer634@example.com,361-528-4172,"405 Random St, City 1, State CA",58,Female,Middle,VIP,,,
+1635,Customer 635,customer635@example.com,693-495-7739,"305 Random St, City 8, State FL",66,Non-Binary,Low,Premium,153,"Excellent service, highly recommended!",4
+1636,Customer 636,customer636@example.com,687-467-1059,"465 Random St, City 20, State FL",56,Non-Binary,High,Premium,673,Loved it! Very happy with my purchase.,3
+1637,Customer 637,customer637@example.com,856-437-7746,"925 Random St, City 9, State FL",46,Non-Binary,Low,VIP,266,"Excellent service, highly recommended!",3
+1637,Customer 637,customer637@example.com,856-437-7746,"925 Random St, City 9, State FL",46,Non-Binary,Low,VIP,562,Product was damaged on arrival.,4
+1638,Customer 638,customer638@example.com,719-959-9497,"151 Random St, City 1, State TX",54,Female,High,Premium,627,Not satisfied with the quality.,5
+1639,Customer 639,customer639@example.com,507-642-2718,"6 Random St, City 4, State NY",22,Non-Binary,Middle,Premium,,,
+1640,Customer 640,customer640@example.com,260-666-8666,"569 Random St, City 20, State FL",49,Non-Binary,High,VIP,303,"Disappointed, not as advertised.",4
+1641,Customer 641,customer641@example.com,449-703-6731,"617 Random St, City 1, State TX",31,Non-Binary,Middle,VIP,,,
+1642,Customer 642,customer642@example.com,145-566-8048,"672 Random St, City 1, State TX",54,Female,High,Regular,,,
+1643,Customer 643,customer643@example.com,953-819-3168,"270 Random St, City 15, State WA",41,Male,Low,VIP,853,"Terrible experience, would not recommend.",3
+1644,Customer 644,customer644@example.com,917-765-8906,"417 Random St, City 13, State NY",59,Female,Middle,VIP,940,Customer service was rude.,1
+1645,Customer 645,customer645@example.com,979-420-9889,"329 Random St, City 14, State TX",27,Female,Middle,Regular,776,Would buy again!,2
+1645,Customer 645,customer645@example.com,979-420-9889,"329 Random St, City 14, State TX",27,Female,Middle,Regular,964,"Fast shipping, but packaging was poor.",4
+1646,Customer 646,customer646@example.com,353-724-1719,"116 Random St, City 4, State WA",50,Male,High,Regular,,,
+1647,Customer 647,customer647@example.com,308-833-7896,"215 Random St, City 13, State FL",19,Non-Binary,Middle,Premium,723,Great product! Fast delivery.,3
+1648,Customer 648,customer648@example.com,292-275-8221,"730 Random St, City 14, State CA",47,Non-Binary,High,Regular,382,"Amazing customer support, will buy again.",4
+1649,Customer 649,customer649@example.com,408-177-3816,"875 Random St, City 2, State TX",62,Male,Middle,Regular,,,
+1650,Customer 650,customer650@example.com,781-594-8274,"651 Random St, City 13, State FL",35,Female,Middle,Premium,,,
+1651,Customer 651,customer651@example.com,676-886-8485,"791 Random St, City 19, State TX",28,Female,Middle,Regular,220,Customer service was rude.,4
+1652,Customer 652,customer652@example.com,473-461-1366,"503 Random St, City 12, State FL",39,Male,Low,Regular,,,
+1653,Customer 653,customer653@example.com,668-577-8485,"939 Random St, City 9, State TX",44,Male,Middle,VIP,141,"Excellent service, highly recommended!",2
+1654,Customer 654,customer654@example.com,626-187-7834,"773 Random St, City 6, State WA",23,Non-Binary,High,Regular,,,
+1655,Customer 655,customer655@example.com,373-189-8286,"458 Random St, City 3, State FL",48,Non-Binary,High,Regular,,,
+1656,Customer 656,customer656@example.com,456-102-5660,"841 Random St, City 8, State WA",20,Non-Binary,Middle,VIP,829,Affordable and high quality.,5
+1657,Customer 657,customer657@example.com,569-489-3178,"826 Random St, City 10, State TX",35,Non-Binary,Low,Premium,784,Not satisfied with the quality.,1
+1658,Customer 658,customer658@example.com,312-326-9925,"377 Random St, City 7, State WA",31,Male,Middle,VIP,398,"Amazing customer support, will buy again.",1
+1659,Customer 659,customer659@example.com,227-436-5945,"594 Random St, City 15, State WA",19,Female,Low,Premium,119,Customer service was rude.,1
+1659,Customer 659,customer659@example.com,227-436-5945,"594 Random St, City 15, State WA",19,Female,Low,Premium,736,"Excellent service, highly recommended!",1
+1660,Customer 660,customer660@example.com,728-389-5863,"631 Random St, City 4, State NY",49,Female,Low,Regular,240,The item is not as described.,3
+1660,Customer 660,customer660@example.com,728-389-5863,"631 Random St, City 4, State NY",49,Female,Low,Regular,547,Product was damaged on arrival.,5
+1661,Customer 661,customer661@example.com,449-923-6622,"936 Random St, City 12, State NY",65,Non-Binary,Middle,VIP,,,
+1662,Customer 662,customer662@example.com,964-465-7719,"52 Random St, City 20, State TX",36,Female,Middle,Regular,,,
+1663,Customer 663,customer663@example.com,371-832-5189,"85 Random St, City 3, State NY",42,Male,Low,VIP,710,Product was damaged on arrival.,2
+1664,Customer 664,customer664@example.com,476-177-9223,"134 Random St, City 16, State TX",23,Male,Low,Premium,,,
+1665,Customer 665,customer665@example.com,378-556-6202,"89 Random St, City 9, State NY",45,Non-Binary,Middle,VIP,,,
+1666,Customer 666,customer666@example.com,770-541-8375,"813 Random St, City 15, State FL",62,Non-Binary,High,VIP,166,Great product! Fast delivery.,1
+1667,Customer 667,customer667@example.com,848-915-3003,"289 Random St, City 3, State CA",55,Male,Middle,VIP,,,
+1668,Customer 668,customer668@example.com,775-458-7710,"516 Random St, City 8, State NY",53,Male,Low,Regular,,,
+1669,Customer 669,customer669@example.com,191-520-5403,"807 Random St, City 17, State FL",38,Male,Middle,Regular,939,Would buy again!,3
+1670,Customer 670,customer670@example.com,395-266-1144,"355 Random St, City 11, State WA",70,Non-Binary,High,Premium,,,
+1671,Customer 671,customer671@example.com,938-125-8153,"866 Random St, City 17, State CA",44,Male,Middle,Regular,226,Would buy again!,4
+1671,Customer 671,customer671@example.com,938-125-8153,"866 Random St, City 17, State CA",44,Male,Middle,Regular,985,"Amazing customer support, will buy again.",1
+1672,Customer 672,customer672@example.com,829-399-2729,"562 Random St, City 2, State TX",60,Non-Binary,Middle,Regular,,,
+1673,Customer 673,customer673@example.com,988-134-9530,"697 Random St, City 9, State TX",44,Male,Middle,VIP,182,"Terrible experience, would not recommend.",3
+1673,Customer 673,customer673@example.com,988-134-9530,"697 Random St, City 9, State TX",44,Male,Middle,VIP,467,"Terrible experience, would not recommend.",3
+1673,Customer 673,customer673@example.com,988-134-9530,"697 Random St, City 9, State TX",44,Male,Middle,VIP,604,"Excellent service, highly recommended!",1
+1674,Customer 674,customer674@example.com,324-597-9929,"181 Random St, City 2, State CA",60,Male,High,Regular,,,
+1675,Customer 675,customer675@example.com,556-418-5084,"160 Random St, City 3, State FL",31,Male,Middle,Regular,738,"Excellent service, highly recommended!",1
+1676,Customer 676,customer676@example.com,459-845-4548,"475 Random St, City 17, State TX",67,Non-Binary,Middle,VIP,,,
+1677,Customer 677,customer677@example.com,507-119-5753,"955 Random St, City 4, State TX",53,Female,Low,VIP,6,"Disappointed, not as advertised.",1
+1677,Customer 677,customer677@example.com,507-119-5753,"955 Random St, City 4, State TX",53,Female,Low,VIP,431,"Excellent service, highly recommended!",2
+1677,Customer 677,customer677@example.com,507-119-5753,"955 Random St, City 4, State TX",53,Female,Low,VIP,843,"Terrible experience, would not recommend.",4
+1678,Customer 678,customer678@example.com,675-165-2284,"270 Random St, City 11, State TX",67,Female,Middle,Premium,319,"Amazing customer support, will buy again.",2
+1678,Customer 678,customer678@example.com,675-165-2284,"270 Random St, City 11, State TX",67,Female,Middle,Premium,899,"Fast shipping, but packaging was poor.",4
+1679,Customer 679,customer679@example.com,774-920-9162,"964 Random St, City 17, State CA",55,Female,Low,VIP,,,
+1680,Customer 680,customer680@example.com,250-592-3090,"773 Random St, City 19, State NY",49,Male,Middle,Premium,,,
+1681,Customer 681,customer681@example.com,393-288-1551,"160 Random St, City 4, State WA",62,Female,Middle,Regular,374,The item is not as described.,5
+1682,Customer 682,customer682@example.com,986-637-6719,"439 Random St, City 8, State NY",61,Non-Binary,Low,Regular,161,"Amazing customer support, will buy again.",2
+1682,Customer 682,customer682@example.com,986-637-6719,"439 Random St, City 8, State NY",61,Non-Binary,Low,Regular,732,"Terrible experience, would not recommend.",5
+1683,Customer 683,customer683@example.com,357-683-7620,"335 Random St, City 17, State WA",43,Female,High,VIP,108,"Disappointed, not as advertised.",3
+1683,Customer 683,customer683@example.com,357-683-7620,"335 Random St, City 17, State WA",43,Female,High,VIP,470,"Fast shipping, but packaging was poor.",5
+1684,Customer 684,customer684@example.com,737-431-7499,"483 Random St, City 10, State CA",53,Male,High,VIP,,,
+1685,Customer 685,customer685@example.com,255-242-3589,"225 Random St, City 4, State FL",52,Non-Binary,Low,Premium,662,Product was damaged on arrival.,5
+1686,Customer 686,customer686@example.com,572-158-6369,"556 Random St, City 19, State WA",52,Female,High,Premium,589,Very good experience!,2
+1686,Customer 686,customer686@example.com,572-158-6369,"556 Random St, City 19, State WA",52,Female,High,Premium,894,Product was damaged on arrival.,2
+1686,Customer 686,customer686@example.com,572-158-6369,"556 Random St, City 19, State WA",52,Female,High,Premium,932,Customer service was rude.,5
+1687,Customer 687,customer687@example.com,555-264-9734,"349 Random St, City 4, State TX",59,Non-Binary,Low,Premium,665,"Disappointed, not as advertised.",1
+1687,Customer 687,customer687@example.com,555-264-9734,"349 Random St, City 4, State TX",59,Non-Binary,Low,Premium,850,"Excellent service, highly recommended!",1
+1688,Customer 688,customer688@example.com,625-633-8834,"945 Random St, City 11, State WA",43,Female,Low,Regular,335,Loved it! Very happy with my purchase.,2
+1689,Customer 689,customer689@example.com,315-639-9144,"981 Random St, City 8, State NY",49,Male,Middle,VIP,,,
+1690,Customer 690,customer690@example.com,706-151-5597,"415 Random St, City 2, State WA",68,Male,High,Regular,345,"Excellent service, highly recommended!",1
+1691,Customer 691,customer691@example.com,683-402-7667,"374 Random St, City 8, State CA",33,Female,High,VIP,,,
+1692,Customer 692,customer692@example.com,267-704-7593,"630 Random St, City 8, State TX",64,Female,Low,Regular,,,
+1693,Customer 693,customer693@example.com,424-738-4597,"911 Random St, City 9, State FL",22,Female,High,Premium,48,"Excellent service, highly recommended!",4
+1694,Customer 694,customer694@example.com,910-337-8294,"343 Random St, City 9, State WA",63,Female,High,Premium,,,
+1695,Customer 695,customer695@example.com,870-584-9871,"680 Random St, City 12, State NY",32,Male,Low,Regular,209,"Fast shipping, but packaging was poor.",2
+1695,Customer 695,customer695@example.com,870-584-9871,"680 Random St, City 12, State NY",32,Male,Low,Regular,553,"Excellent service, highly recommended!",2
+1695,Customer 695,customer695@example.com,870-584-9871,"680 Random St, City 12, State NY",32,Male,Low,Regular,869,"Amazing customer support, will buy again.",2
+1696,Customer 696,customer696@example.com,211-909-9529,"748 Random St, City 18, State WA",38,Non-Binary,High,Regular,380,"Amazing customer support, will buy again.",2
+1697,Customer 697,customer697@example.com,802-669-6875,"569 Random St, City 20, State CA",58,Female,Low,Regular,144,"Amazing customer support, will buy again.",1
+1697,Customer 697,customer697@example.com,802-669-6875,"569 Random St, City 20, State CA",58,Female,Low,Regular,969,Loved it! Very happy with my purchase.,4
+1698,Customer 698,customer698@example.com,255-151-7979,"141 Random St, City 4, State WA",38,Male,Low,Regular,596,"Disappointed, not as advertised.",4
+1698,Customer 698,customer698@example.com,255-151-7979,"141 Random St, City 4, State WA",38,Male,Low,Regular,603,Affordable and high quality.,3
+1699,Customer 699,customer699@example.com,743-515-9482,"873 Random St, City 2, State NY",50,Non-Binary,High,VIP,,,
+1700,Customer 700,customer700@example.com,353-276-1576,"941 Random St, City 20, State CA",30,Male,Low,Regular,600,Would buy again!,4
+1701,Customer 701,customer701@example.com,196-213-3966,"742 Random St, City 9, State TX",21,Male,High,Regular,,,
+1702,Customer 702,customer702@example.com,606-634-9959,"402 Random St, City 19, State CA",47,Male,Low,Regular,49,Very good experience!,3
+1702,Customer 702,customer702@example.com,606-634-9959,"402 Random St, City 19, State CA",47,Male,Low,Regular,56,Great product! Fast delivery.,1
+1702,Customer 702,customer702@example.com,606-634-9959,"402 Random St, City 19, State CA",47,Male,Low,Regular,639,Loved it! Very happy with my purchase.,1
+1702,Customer 702,customer702@example.com,606-634-9959,"402 Random St, City 19, State CA",47,Male,Low,Regular,900,Customer service was rude.,4
+1703,Customer 703,customer703@example.com,745-614-4909,"336 Random St, City 14, State NY",68,Female,Middle,Premium,147,Product was damaged on arrival.,3
+1703,Customer 703,customer703@example.com,745-614-4909,"336 Random St, City 14, State NY",68,Female,Middle,Premium,520,Great product! Fast delivery.,3
+1704,Customer 704,customer704@example.com,202-874-3757,"110 Random St, City 3, State CA",39,Non-Binary,High,Regular,329,"Average, nothing special.",2
+1704,Customer 704,customer704@example.com,202-874-3757,"110 Random St, City 3, State CA",39,Non-Binary,High,Regular,409,"Amazing customer support, will buy again.",1
+1704,Customer 704,customer704@example.com,202-874-3757,"110 Random St, City 3, State CA",39,Non-Binary,High,Regular,482,"Average, nothing special.",5
+1704,Customer 704,customer704@example.com,202-874-3757,"110 Random St, City 3, State CA",39,Non-Binary,High,Regular,966,The item is not as described.,5
+1705,Customer 705,customer705@example.com,174-477-2144,"74 Random St, City 20, State TX",62,Non-Binary,Middle,VIP,41,Would buy again!,5
+1705,Customer 705,customer705@example.com,174-477-2144,"74 Random St, City 20, State TX",62,Non-Binary,Middle,VIP,343,"Amazing customer support, will buy again.",5
+1706,Customer 706,customer706@example.com,724-701-3277,"360 Random St, City 13, State CA",34,Female,High,Premium,440,Very good experience!,2
+1707,Customer 707,customer707@example.com,312-408-5252,"472 Random St, City 1, State FL",45,Male,Low,Regular,,,
+1708,Customer 708,customer708@example.com,885-618-9701,"381 Random St, City 19, State CA",38,Female,Middle,Regular,,,
+1709,Customer 709,customer709@example.com,858-616-8096,"157 Random St, City 11, State FL",48,Female,Middle,Premium,593,"Average, nothing special.",2
+1710,Customer 710,customer710@example.com,248-807-5108,"19 Random St, City 4, State TX",39,Non-Binary,Low,Regular,543,Would buy again!,3
+1711,Customer 711,customer711@example.com,223-741-3337,"646 Random St, City 13, State WA",53,Male,High,Premium,654,Product was damaged on arrival.,1
+1711,Customer 711,customer711@example.com,223-741-3337,"646 Random St, City 13, State WA",53,Male,High,Premium,694,Loved it! Very happy with my purchase.,4
+1712,Customer 712,customer712@example.com,634-303-9750,"985 Random St, City 3, State NY",20,Female,High,Premium,187,Customer service was rude.,5
+1713,Customer 713,customer713@example.com,790-677-1451,"346 Random St, City 2, State WA",43,Male,Middle,VIP,,,
+1714,Customer 714,customer714@example.com,243-193-8021,"705 Random St, City 5, State TX",38,Female,Low,Premium,251,The item is not as described.,3
+1715,Customer 715,customer715@example.com,710-320-1095,"618 Random St, City 10, State WA",18,Male,Middle,Premium,,,
+1716,Customer 716,customer716@example.com,747-117-7568,"735 Random St, City 14, State FL",52,Male,Low,VIP,83,Not satisfied with the quality.,3
+1716,Customer 716,customer716@example.com,747-117-7568,"735 Random St, City 14, State FL",52,Male,Low,VIP,637,Not satisfied with the quality.,4
+1716,Customer 716,customer716@example.com,747-117-7568,"735 Random St, City 14, State FL",52,Male,Low,VIP,735,"Excellent service, highly recommended!",3
+1716,Customer 716,customer716@example.com,747-117-7568,"735 Random St, City 14, State FL",52,Male,Low,VIP,782,Product was damaged on arrival.,5
+1717,Customer 717,customer717@example.com,590-261-8403,"941 Random St, City 2, State CA",50,Non-Binary,High,Regular,77,Great product! Fast delivery.,5
+1717,Customer 717,customer717@example.com,590-261-8403,"941 Random St, City 2, State CA",50,Non-Binary,High,Regular,882,Not satisfied with the quality.,4
+1718,Customer 718,customer718@example.com,522-229-8776,"148 Random St, City 16, State NY",66,Male,High,Premium,912,Not satisfied with the quality.,3
+1719,Customer 719,customer719@example.com,377-609-6363,"35 Random St, City 14, State NY",55,Non-Binary,Middle,Premium,,,
+1720,Customer 720,customer720@example.com,355-254-3591,"789 Random St, City 12, State NY",27,Female,Low,Premium,,,
+1721,Customer 721,customer721@example.com,727-115-9352,"974 Random St, City 16, State TX",61,Female,Middle,Premium,579,"Fast shipping, but packaging was poor.",2
+1722,Customer 722,customer722@example.com,551-669-5726,"933 Random St, City 9, State CA",40,Male,Low,Premium,,,
+1723,Customer 723,customer723@example.com,288-837-4857,"385 Random St, City 10, State FL",55,Non-Binary,Low,Premium,165,"Average, nothing special.",2
+1724,Customer 724,customer724@example.com,831-213-3031,"827 Random St, City 15, State WA",62,Male,High,VIP,519,"Terrible experience, would not recommend.",5
+1724,Customer 724,customer724@example.com,831-213-3031,"827 Random St, City 15, State WA",62,Male,High,VIP,658,"Disappointed, not as advertised.",3
+1725,Customer 725,customer725@example.com,884-818-8704,"471 Random St, City 17, State FL",70,Non-Binary,High,Premium,59,"Excellent service, highly recommended!",3
+1725,Customer 725,customer725@example.com,884-818-8704,"471 Random St, City 17, State FL",70,Non-Binary,High,Premium,479,"Disappointed, not as advertised.",5
+1726,Customer 726,customer726@example.com,582-268-9919,"754 Random St, City 16, State CA",35,Female,Low,Premium,578,Loved it! Very happy with my purchase.,4
+1727,Customer 727,customer727@example.com,416-403-8472,"132 Random St, City 11, State NY",59,Female,Middle,VIP,,,
+1728,Customer 728,customer728@example.com,105-381-4758,"88 Random St, City 6, State WA",31,Female,High,VIP,354,"Average, nothing special.",3
+1728,Customer 728,customer728@example.com,105-381-4758,"88 Random St, City 6, State WA",31,Female,High,VIP,371,"Average, nothing special.",1
+1728,Customer 728,customer728@example.com,105-381-4758,"88 Random St, City 6, State WA",31,Female,High,VIP,372,"Average, nothing special.",4
+1728,Customer 728,customer728@example.com,105-381-4758,"88 Random St, City 6, State WA",31,Female,High,VIP,450,Product was damaged on arrival.,2
+1728,Customer 728,customer728@example.com,105-381-4758,"88 Random St, City 6, State WA",31,Female,High,VIP,777,The item is not as described.,5
+1729,Customer 729,customer729@example.com,549-272-3567,"977 Random St, City 1, State TX",52,Non-Binary,Low,Premium,75,"Excellent service, highly recommended!",2
+1730,Customer 730,customer730@example.com,251-841-1504,"793 Random St, City 15, State WA",57,Female,Low,VIP,169,Customer service was rude.,5
+1731,Customer 731,customer731@example.com,308-313-3459,"104 Random St, City 17, State NY",37,Non-Binary,Low,VIP,849,Not satisfied with the quality.,3
+1732,Customer 732,customer732@example.com,141-991-9645,"979 Random St, City 11, State WA",67,Male,Middle,VIP,,,
+1733,Customer 733,customer733@example.com,970-917-3117,"924 Random St, City 15, State WA",52,Non-Binary,Low,VIP,572,Very good experience!,5
+1733,Customer 733,customer733@example.com,970-917-3117,"924 Random St, City 15, State WA",52,Non-Binary,Low,VIP,701,Very good experience!,5
+1734,Customer 734,customer734@example.com,647-915-3759,"149 Random St, City 1, State CA",66,Male,High,Regular,743,Great product! Fast delivery.,5
+1735,Customer 735,customer735@example.com,902-361-1658,"607 Random St, City 20, State TX",57,Non-Binary,High,Premium,540,"Average, nothing special.",2
+1735,Customer 735,customer735@example.com,902-361-1658,"607 Random St, City 20, State TX",57,Non-Binary,High,Premium,576,"Average, nothing special.",3
+1736,Customer 736,customer736@example.com,959-965-3318,"752 Random St, City 18, State NY",50,Female,Middle,Regular,,,
+1737,Customer 737,customer737@example.com,779-284-9743,"257 Random St, City 8, State TX",66,Male,Middle,VIP,237,"Fast shipping, but packaging was poor.",2
+1737,Customer 737,customer737@example.com,779-284-9743,"257 Random St, City 8, State TX",66,Male,Middle,VIP,421,"Terrible experience, would not recommend.",4
+1738,Customer 738,customer738@example.com,131-404-9977,"427 Random St, City 13, State TX",43,Female,Middle,Regular,,,
+1739,Customer 739,customer739@example.com,582-287-8166,"264 Random St, City 3, State TX",66,Non-Binary,High,VIP,659,"Disappointed, not as advertised.",2
+1740,Customer 740,customer740@example.com,477-524-4744,"903 Random St, City 11, State NY",56,Non-Binary,Low,VIP,731,"Disappointed, not as advertised.",5
+1741,Customer 741,customer741@example.com,944-587-3467,"242 Random St, City 2, State NY",24,Female,Low,Premium,,,
+1742,Customer 742,customer742@example.com,204-212-4549,"856 Random St, City 5, State WA",30,Male,High,Regular,,,
+1743,Customer 743,customer743@example.com,541-492-7963,"325 Random St, City 5, State FL",19,Non-Binary,High,Premium,,,
+1744,Customer 744,customer744@example.com,821-722-6250,"879 Random St, City 8, State FL",38,Male,Low,VIP,,,
+1745,Customer 745,customer745@example.com,898-798-2103,"901 Random St, City 16, State NY",43,Non-Binary,High,Regular,741,"Amazing customer support, will buy again.",4
+1746,Customer 746,customer746@example.com,164-528-9543,"143 Random St, City 20, State WA",48,Female,Low,Premium,,,
+1747,Customer 747,customer747@example.com,202-270-8278,"819 Random St, City 18, State CA",53,Female,Middle,Regular,384,"Average, nothing special.",3
+1748,Customer 748,customer748@example.com,828-720-3132,"378 Random St, City 3, State WA",33,Non-Binary,Middle,VIP,52,The item is not as described.,3
+1748,Customer 748,customer748@example.com,828-720-3132,"378 Random St, City 3, State WA",33,Non-Binary,Middle,VIP,809,"Amazing customer support, will buy again.",2
+1748,Customer 748,customer748@example.com,828-720-3132,"378 Random St, City 3, State WA",33,Non-Binary,Middle,VIP,896,"Disappointed, not as advertised.",3
+1749,Customer 749,customer749@example.com,734-951-9442,"686 Random St, City 4, State WA",47,Male,Middle,Regular,807,Not satisfied with the quality.,2
+1749,Customer 749,customer749@example.com,734-951-9442,"686 Random St, City 4, State WA",47,Male,Middle,Regular,917,Product was damaged on arrival.,1
+1750,Customer 750,customer750@example.com,539-973-3012,"186 Random St, City 1, State TX",22,Male,High,Regular,207,"Fast shipping, but packaging was poor.",1
+1751,Customer 751,customer751@example.com,502-822-2067,"297 Random St, City 14, State CA",36,Male,Low,VIP,65,Customer service was rude.,3
+1751,Customer 751,customer751@example.com,502-822-2067,"297 Random St, City 14, State CA",36,Male,Low,VIP,189,"Average, nothing special.",3
+1751,Customer 751,customer751@example.com,502-822-2067,"297 Random St, City 14, State CA",36,Male,Low,VIP,403,Very good experience!,4
+1752,Customer 752,customer752@example.com,429-246-1219,"146 Random St, City 10, State CA",30,Male,High,Premium,85,"Terrible experience, would not recommend.",5
+1753,Customer 753,customer753@example.com,166-809-6795,"716 Random St, City 1, State TX",43,Male,Low,Premium,185,"Amazing customer support, will buy again.",5
+1753,Customer 753,customer753@example.com,166-809-6795,"716 Random St, City 1, State TX",43,Male,Low,Premium,445,Loved it! Very happy with my purchase.,3
+1754,Customer 754,customer754@example.com,570-561-9450,"21 Random St, City 17, State WA",38,Male,Middle,Regular,28,Loved it! Very happy with my purchase.,1
+1754,Customer 754,customer754@example.com,570-561-9450,"21 Random St, City 17, State WA",38,Male,Middle,Regular,43,Customer service was rude.,1
+1755,Customer 755,customer755@example.com,350-199-4201,"563 Random St, City 12, State FL",21,Non-Binary,Middle,Regular,,,
+1756,Customer 756,customer756@example.com,663-598-7069,"238 Random St, City 6, State WA",39,Male,Middle,VIP,,,
+1757,Customer 757,customer757@example.com,751-296-8858,"692 Random St, City 15, State NY",69,Female,Low,Regular,222,Product was damaged on arrival.,5
+1758,Customer 758,customer758@example.com,352-129-5812,"890 Random St, City 2, State CA",33,Male,High,VIP,,,
+1759,Customer 759,customer759@example.com,788-522-5063,"620 Random St, City 12, State NY",18,Male,Middle,VIP,432,Very good experience!,3
+1760,Customer 760,customer760@example.com,438-210-7520,"390 Random St, City 8, State TX",39,Female,Low,Regular,391,"Average, nothing special.",3
+1760,Customer 760,customer760@example.com,438-210-7520,"390 Random St, City 8, State TX",39,Female,Low,Regular,574,Very good experience!,4
+1760,Customer 760,customer760@example.com,438-210-7520,"390 Random St, City 8, State TX",39,Female,Low,Regular,583,"Fast shipping, but packaging was poor.",5
+1761,Customer 761,customer761@example.com,348-434-6424,"307 Random St, City 4, State TX",51,Female,High,Regular,,,
+1762,Customer 762,customer762@example.com,379-953-9996,"661 Random St, City 9, State FL",51,Male,Middle,VIP,116,Affordable and high quality.,2
+1762,Customer 762,customer762@example.com,379-953-9996,"661 Random St, City 9, State FL",51,Male,Middle,VIP,282,Would buy again!,2
+1763,Customer 763,customer763@example.com,904-343-8413,"862 Random St, City 10, State FL",26,Male,Middle,VIP,,,
+1764,Customer 764,customer764@example.com,711-831-3386,"480 Random St, City 13, State FL",66,Non-Binary,High,VIP,46,Product was damaged on arrival.,5
+1764,Customer 764,customer764@example.com,711-831-3386,"480 Random St, City 13, State FL",66,Non-Binary,High,VIP,253,"Fast shipping, but packaging was poor.",3
+1765,Customer 765,customer765@example.com,580-584-2451,"110 Random St, City 20, State NY",43,Female,High,VIP,898,"Terrible experience, would not recommend.",2
+1766,Customer 766,customer766@example.com,263-179-1502,"64 Random St, City 13, State TX",38,Male,High,VIP,,,
+1767,Customer 767,customer767@example.com,615-832-2970,"748 Random St, City 12, State TX",22,Male,Low,Regular,,,
+1768,Customer 768,customer768@example.com,608-164-9898,"729 Random St, City 19, State NY",63,Non-Binary,Low,VIP,,,
+1769,Customer 769,customer769@example.com,677-820-5298,"159 Random St, City 9, State WA",64,Non-Binary,High,Premium,,,
+1770,Customer 770,customer770@example.com,839-899-5421,"339 Random St, City 7, State WA",55,Male,High,Regular,,,
+1771,Customer 771,customer771@example.com,670-759-5888,"693 Random St, City 9, State FL",39,Male,High,Premium,,,
+1772,Customer 772,customer772@example.com,584-143-8697,"201 Random St, City 19, State WA",18,Non-Binary,High,VIP,131,"Fast shipping, but packaging was poor.",2
+1772,Customer 772,customer772@example.com,584-143-8697,"201 Random St, City 19, State WA",18,Non-Binary,High,VIP,535,"Amazing customer support, will buy again.",5
+1773,Customer 773,customer773@example.com,219-312-2444,"757 Random St, City 11, State FL",49,Female,High,VIP,,,
+1774,Customer 774,customer774@example.com,628-659-9002,"303 Random St, City 16, State TX",34,Female,Middle,Regular,196,Would buy again!,1
+1774,Customer 774,customer774@example.com,628-659-9002,"303 Random St, City 16, State TX",34,Female,Middle,Regular,529,"Fast shipping, but packaging was poor.",4
+1775,Customer 775,customer775@example.com,352-549-4048,"27 Random St, City 19, State CA",53,Non-Binary,High,Premium,974,Very good experience!,3
+1776,Customer 776,customer776@example.com,860-749-8274,"647 Random St, City 19, State TX",46,Non-Binary,Middle,VIP,,,
+1777,Customer 777,customer777@example.com,423-761-4575,"604 Random St, City 2, State CA",29,Female,Middle,VIP,635,"Excellent service, highly recommended!",1
+1778,Customer 778,customer778@example.com,942-134-1277,"531 Random St, City 17, State TX",59,Male,Middle,VIP,,,
+1779,Customer 779,customer779@example.com,124-660-6046,"508 Random St, City 9, State TX",27,Non-Binary,Low,VIP,3,"Amazing customer support, will buy again.",4
+1779,Customer 779,customer779@example.com,124-660-6046,"508 Random St, City 9, State TX",27,Non-Binary,Low,VIP,410,"Terrible experience, would not recommend.",5
+1779,Customer 779,customer779@example.com,124-660-6046,"508 Random St, City 9, State TX",27,Non-Binary,Low,VIP,463,The item is not as described.,5
+1780,Customer 780,customer780@example.com,540-675-6193,"652 Random St, City 14, State CA",33,Non-Binary,Low,Regular,,,
+1781,Customer 781,customer781@example.com,885-736-6368,"374 Random St, City 15, State NY",23,Female,Low,Premium,311,Great product! Fast delivery.,4
+1781,Customer 781,customer781@example.com,885-736-6368,"374 Random St, City 15, State NY",23,Female,Low,Premium,478,Would buy again!,2
+1782,Customer 782,customer782@example.com,952-602-9304,"917 Random St, City 12, State TX",33,Non-Binary,Low,Premium,483,Would buy again!,2
+1782,Customer 782,customer782@example.com,952-602-9304,"917 Random St, City 12, State TX",33,Non-Binary,Low,Premium,522,"Average, nothing special.",2
+1782,Customer 782,customer782@example.com,952-602-9304,"917 Random St, City 12, State TX",33,Non-Binary,Low,Premium,730,Loved it! Very happy with my purchase.,2
+1783,Customer 783,customer783@example.com,248-367-6709,"824 Random St, City 12, State WA",21,Non-Binary,Middle,Premium,790,"Fast shipping, but packaging was poor.",2
+1784,Customer 784,customer784@example.com,629-874-5018,"969 Random St, City 14, State WA",37,Non-Binary,Middle,Premium,451,Great product! Fast delivery.,1
+1784,Customer 784,customer784@example.com,629-874-5018,"969 Random St, City 14, State WA",37,Non-Binary,Middle,Premium,517,"Amazing customer support, will buy again.",4
+1784,Customer 784,customer784@example.com,629-874-5018,"969 Random St, City 14, State WA",37,Non-Binary,Middle,Premium,902,"Excellent service, highly recommended!",5
+1785,Customer 785,customer785@example.com,607-129-4173,"892 Random St, City 8, State CA",27,Non-Binary,High,Regular,455,Would buy again!,5
+1786,Customer 786,customer786@example.com,970-479-1897,"556 Random St, City 1, State TX",45,Female,Middle,Regular,,,
+1787,Customer 787,customer787@example.com,658-677-6816,"18 Random St, City 8, State TX",70,Male,Low,Regular,217,"Excellent service, highly recommended!",3
+1787,Customer 787,customer787@example.com,658-677-6816,"18 Random St, City 8, State TX",70,Male,Low,Regular,462,Product was damaged on arrival.,4
+1788,Customer 788,customer788@example.com,491-700-9965,"478 Random St, City 17, State TX",53,Male,High,Premium,,,
+1789,Customer 789,customer789@example.com,588-715-3365,"534 Random St, City 16, State NY",69,Female,High,VIP,,,
+1790,Customer 790,customer790@example.com,797-578-9106,"599 Random St, City 12, State WA",66,Male,High,Premium,199,The item is not as described.,4
+1791,Customer 791,customer791@example.com,259-161-4058,"200 Random St, City 12, State NY",49,Non-Binary,Middle,Premium,178,Not satisfied with the quality.,3
+1792,Customer 792,customer792@example.com,913-988-9041,"198 Random St, City 14, State WA",70,Non-Binary,High,Premium,58,Customer service was rude.,3
+1792,Customer 792,customer792@example.com,913-988-9041,"198 Random St, City 14, State WA",70,Non-Binary,High,Premium,651,Loved it! Very happy with my purchase.,4
+1793,Customer 793,customer793@example.com,406-237-2897,"889 Random St, City 5, State CA",53,Male,Low,VIP,375,Great product! Fast delivery.,3
+1794,Customer 794,customer794@example.com,179-402-2896,"970 Random St, City 15, State TX",50,Non-Binary,Middle,Premium,768,"Disappointed, not as advertised.",1
+1794,Customer 794,customer794@example.com,179-402-2896,"970 Random St, City 15, State TX",50,Non-Binary,Middle,Premium,780,Not satisfied with the quality.,3
+1794,Customer 794,customer794@example.com,179-402-2896,"970 Random St, City 15, State TX",50,Non-Binary,Middle,Premium,801,Very good experience!,2
+1795,Customer 795,customer795@example.com,565-842-8497,"455 Random St, City 1, State NY",31,Non-Binary,Low,Regular,581,Great product! Fast delivery.,1
+1795,Customer 795,customer795@example.com,565-842-8497,"455 Random St, City 1, State NY",31,Non-Binary,Low,Regular,608,"Amazing customer support, will buy again.",3
+1796,Customer 796,customer796@example.com,689-630-3786,"849 Random St, City 3, State FL",57,Female,Middle,Premium,,,
+1797,Customer 797,customer797@example.com,496-227-7251,"520 Random St, City 7, State WA",38,Non-Binary,High,Premium,,,
+1798,Customer 798,customer798@example.com,215-752-7510,"876 Random St, City 7, State FL",54,Female,Middle,Premium,514,Not satisfied with the quality.,3
+1798,Customer 798,customer798@example.com,215-752-7510,"876 Random St, City 7, State FL",54,Female,Middle,Premium,992,Very good experience!,4
+1799,Customer 799,customer799@example.com,324-222-2837,"670 Random St, City 6, State TX",60,Non-Binary,Low,VIP,,,
+1800,Customer 800,customer800@example.com,131-202-3464,"138 Random St, City 14, State FL",63,Non-Binary,Low,Regular,112,Not satisfied with the quality.,1
+1800,Customer 800,customer800@example.com,131-202-3464,"138 Random St, City 14, State FL",63,Non-Binary,Low,Regular,550,"Average, nothing special.",2
+1800,Customer 800,customer800@example.com,131-202-3464,"138 Random St, City 14, State FL",63,Non-Binary,Low,Regular,903,Very good experience!,5
+1801,Customer 801,customer801@example.com,802-116-3516,"430 Random St, City 8, State WA",70,Male,High,Regular,,,
+1802,Customer 802,customer802@example.com,771-749-5965,"347 Random St, City 2, State TX",60,Non-Binary,Middle,VIP,,,
+1803,Customer 803,customer803@example.com,691-488-5139,"531 Random St, City 9, State WA",25,Non-Binary,High,Premium,570,Great product! Fast delivery.,3
+1804,Customer 804,customer804@example.com,818-218-6279,"216 Random St, City 9, State CA",65,Female,Middle,VIP,160,Affordable and high quality.,4
+1805,Customer 805,customer805@example.com,781-491-4937,"284 Random St, City 3, State FL",28,Male,High,Regular,257,Great product! Fast delivery.,1
+1806,Customer 806,customer806@example.com,478-274-8175,"626 Random St, City 15, State NY",28,Male,Low,VIP,454,"Terrible experience, would not recommend.",5
+1806,Customer 806,customer806@example.com,478-274-8175,"626 Random St, City 15, State NY",28,Male,Low,VIP,717,"Disappointed, not as advertised.",3
+1807,Customer 807,customer807@example.com,796-280-1981,"444 Random St, City 10, State FL",56,Female,High,Premium,100,Product was damaged on arrival.,4
+1808,Customer 808,customer808@example.com,804-215-2779,"53 Random St, City 3, State NY",53,Male,High,Regular,,,
+1809,Customer 809,customer809@example.com,349-669-5622,"48 Random St, City 7, State WA",56,Non-Binary,Low,Regular,,,
+1810,Customer 810,customer810@example.com,120-278-5553,"350 Random St, City 5, State TX",30,Male,Middle,Premium,,,
+1811,Customer 811,customer811@example.com,766-483-7464,"304 Random St, City 19, State CA",54,Female,High,Premium,539,Very good experience!,5
+1811,Customer 811,customer811@example.com,766-483-7464,"304 Random St, City 19, State CA",54,Female,High,Premium,594,Not satisfied with the quality.,5
+1812,Customer 812,customer812@example.com,223-965-7489,"536 Random St, City 13, State NY",45,Male,High,Premium,,,
+1813,Customer 813,customer813@example.com,465-327-9503,"20 Random St, City 20, State WA",52,Male,Middle,VIP,569,Great product! Fast delivery.,5
+1813,Customer 813,customer813@example.com,465-327-9503,"20 Random St, City 20, State WA",52,Male,Middle,VIP,779,The item is not as described.,2
+1814,Customer 814,customer814@example.com,161-423-6764,"763 Random St, City 8, State CA",27,Female,Middle,Regular,934,The item is not as described.,1
+1815,Customer 815,customer815@example.com,245-970-2590,"655 Random St, City 10, State NY",45,Non-Binary,Middle,VIP,,,
+1816,Customer 816,customer816@example.com,526-479-4749,"551 Random St, City 14, State NY",41,Male,Low,VIP,,,
+1817,Customer 817,customer817@example.com,180-412-3253,"327 Random St, City 14, State CA",53,Non-Binary,Middle,VIP,548,"Amazing customer support, will buy again.",3
+1817,Customer 817,customer817@example.com,180-412-3253,"327 Random St, City 14, State CA",53,Non-Binary,Middle,VIP,664,Would buy again!,1
+1817,Customer 817,customer817@example.com,180-412-3253,"327 Random St, City 14, State CA",53,Non-Binary,Middle,VIP,699,Customer service was rude.,2
+1818,Customer 818,customer818@example.com,330-502-2043,"672 Random St, City 1, State NY",45,Non-Binary,High,Regular,12,"Excellent service, highly recommended!",1
+1818,Customer 818,customer818@example.com,330-502-2043,"672 Random St, City 1, State NY",45,Non-Binary,High,Regular,331,Customer service was rude.,3
+1819,Customer 819,customer819@example.com,724-745-1526,"561 Random St, City 2, State CA",30,Non-Binary,Low,Premium,493,"Average, nothing special.",2
+1820,Customer 820,customer820@example.com,922-520-4754,"517 Random St, City 17, State WA",18,Non-Binary,Low,Regular,219,"Terrible experience, would not recommend.",5
+1820,Customer 820,customer820@example.com,922-520-4754,"517 Random St, City 17, State WA",18,Non-Binary,Low,Regular,244,Affordable and high quality.,5
+1820,Customer 820,customer820@example.com,922-520-4754,"517 Random St, City 17, State WA",18,Non-Binary,Low,Regular,886,Would buy again!,2
+1820,Customer 820,customer820@example.com,922-520-4754,"517 Random St, City 17, State WA",18,Non-Binary,Low,Regular,973,"Fast shipping, but packaging was poor.",1
+1821,Customer 821,customer821@example.com,379-594-1937,"922 Random St, City 6, State FL",31,Female,Middle,Regular,307,"Amazing customer support, will buy again.",2
+1821,Customer 821,customer821@example.com,379-594-1937,"922 Random St, City 6, State FL",31,Female,Middle,Regular,629,The item is not as described.,1
+1822,Customer 822,customer822@example.com,713-383-6613,"314 Random St, City 9, State CA",70,Male,Middle,Premium,,,
+1823,Customer 823,customer823@example.com,543-308-1102,"801 Random St, City 13, State CA",55,Female,Low,Premium,626,Affordable and high quality.,2
+1824,Customer 824,customer824@example.com,422-853-6075,"514 Random St, City 15, State FL",36,Female,Middle,Regular,150,"Terrible experience, would not recommend.",5
+1825,Customer 825,customer825@example.com,734-210-8755,"480 Random St, City 1, State FL",42,Male,Middle,Regular,313,Great product! Fast delivery.,4
+1825,Customer 825,customer825@example.com,734-210-8755,"480 Random St, City 1, State FL",42,Male,Middle,Regular,789,"Fast shipping, but packaging was poor.",4
+1826,Customer 826,customer826@example.com,666-683-4287,"71 Random St, City 10, State FL",48,Female,High,Regular,275,"Amazing customer support, will buy again.",1
+1826,Customer 826,customer826@example.com,666-683-4287,"71 Random St, City 10, State FL",48,Female,High,Regular,625,Customer service was rude.,4
+1827,Customer 827,customer827@example.com,714-271-8204,"545 Random St, City 14, State TX",67,Female,Middle,Premium,230,"Amazing customer support, will buy again.",4
+1827,Customer 827,customer827@example.com,714-271-8204,"545 Random St, City 14, State TX",67,Female,Middle,Premium,695,Not satisfied with the quality.,3
+1827,Customer 827,customer827@example.com,714-271-8204,"545 Random St, City 14, State TX",67,Female,Middle,Premium,890,Would buy again!,2
+1828,Customer 828,customer828@example.com,441-317-8926,"485 Random St, City 18, State CA",40,Male,Low,VIP,229,Not satisfied with the quality.,2
+1829,Customer 829,customer829@example.com,930-934-5352,"73 Random St, City 18, State CA",24,Male,Low,Premium,353,Very good experience!,5
+1829,Customer 829,customer829@example.com,930-934-5352,"73 Random St, City 18, State CA",24,Male,Low,Premium,504,Would buy again!,1
+1830,Customer 830,customer830@example.com,716-920-8125,"360 Random St, City 14, State TX",37,Non-Binary,Middle,Regular,337,"Disappointed, not as advertised.",1
+1830,Customer 830,customer830@example.com,716-920-8125,"360 Random St, City 14, State TX",37,Non-Binary,Middle,Regular,993,Product was damaged on arrival.,1
+1831,Customer 831,customer831@example.com,927-980-7971,"660 Random St, City 12, State TX",61,Female,Low,Premium,,,
+1832,Customer 832,customer832@example.com,531-367-7657,"311 Random St, City 10, State TX",56,Male,Low,VIP,,,
+1833,Customer 833,customer833@example.com,965-960-8033,"897 Random St, City 1, State FL",50,Female,Middle,Regular,,,
+1834,Customer 834,customer834@example.com,435-138-7832,"373 Random St, City 18, State WA",21,Female,High,Regular,381,Affordable and high quality.,5
+1835,Customer 835,customer835@example.com,265-428-6978,"526 Random St, City 17, State WA",54,Non-Binary,Middle,Premium,,,
+1836,Customer 836,customer836@example.com,929-173-5455,"776 Random St, City 13, State NY",58,Male,Low,Premium,212,Not satisfied with the quality.,4
+1836,Customer 836,customer836@example.com,929-173-5455,"776 Random St, City 13, State NY",58,Male,Low,Premium,999,Loved it! Very happy with my purchase.,1
+1837,Customer 837,customer837@example.com,265-333-4658,"464 Random St, City 13, State TX",65,Female,High,Premium,259,Affordable and high quality.,2
+1837,Customer 837,customer837@example.com,265-333-4658,"464 Random St, City 13, State TX",65,Female,High,Premium,496,"Amazing customer support, will buy again.",5
+1837,Customer 837,customer837@example.com,265-333-4658,"464 Random St, City 13, State TX",65,Female,High,Premium,819,"Average, nothing special.",3
+1838,Customer 838,customer838@example.com,176-622-9234,"670 Random St, City 19, State FL",44,Male,Low,VIP,,,
+1839,Customer 839,customer839@example.com,819-612-6889,"169 Random St, City 16, State TX",35,Male,High,Premium,306,"Fast shipping, but packaging was poor.",2
+1840,Customer 840,customer840@example.com,574-324-6096,"808 Random St, City 19, State WA",68,Non-Binary,High,Regular,400,Loved it! Very happy with my purchase.,5
+1840,Customer 840,customer840@example.com,574-324-6096,"808 Random St, City 19, State WA",68,Non-Binary,High,Regular,621,Product was damaged on arrival.,1
+1841,Customer 841,customer841@example.com,450-836-7712,"702 Random St, City 20, State NY",37,Female,Middle,VIP,622,Very good experience!,4
+1841,Customer 841,customer841@example.com,450-836-7712,"702 Random St, City 20, State NY",37,Female,Middle,VIP,681,"Fast shipping, but packaging was poor.",5
+1841,Customer 841,customer841@example.com,450-836-7712,"702 Random St, City 20, State NY",37,Female,Middle,VIP,989,"Average, nothing special.",2
+1842,Customer 842,customer842@example.com,684-252-4521,"34 Random St, City 8, State CA",31,Female,Middle,VIP,284,"Terrible experience, would not recommend.",5
+1843,Customer 843,customer843@example.com,880-861-3078,"650 Random St, City 1, State NY",61,Non-Binary,High,Regular,,,
+1844,Customer 844,customer844@example.com,192-322-6578,"837 Random St, City 16, State NY",35,Non-Binary,High,VIP,753,"Average, nothing special.",3
+1845,Customer 845,customer845@example.com,653-358-4724,"212 Random St, City 2, State NY",43,Non-Binary,Middle,Premium,,,
+1846,Customer 846,customer846@example.com,329-820-8369,"176 Random St, City 7, State FL",38,Female,High,Regular,,,
+1847,Customer 847,customer847@example.com,993-894-9122,"253 Random St, City 13, State NY",56,Male,Middle,VIP,,,
+1848,Customer 848,customer848@example.com,574-815-4052,"210 Random St, City 18, State TX",43,Female,Low,Regular,592,Would buy again!,2
+1848,Customer 848,customer848@example.com,574-815-4052,"210 Random St, City 18, State TX",43,Female,Low,Regular,845,"Amazing customer support, will buy again.",1
+1849,Customer 849,customer849@example.com,315-722-7380,"107 Random St, City 18, State TX",62,Male,Middle,VIP,,,
+1850,Customer 850,customer850@example.com,713-743-2782,"924 Random St, City 9, State FL",64,Non-Binary,High,Regular,,,
+1851,Customer 851,customer851@example.com,662-732-8431,"567 Random St, City 19, State CA",62,Non-Binary,Low,Regular,,,
+1852,Customer 852,customer852@example.com,272-479-8470,"572 Random St, City 9, State CA",66,Female,High,VIP,32,Customer service was rude.,1
+1852,Customer 852,customer852@example.com,272-479-8470,"572 Random St, City 9, State CA",66,Female,High,VIP,99,Loved it! Very happy with my purchase.,5
+1853,Customer 853,customer853@example.com,606-740-7908,"678 Random St, City 2, State FL",50,Male,Low,Regular,,,
+1854,Customer 854,customer854@example.com,509-927-3549,"835 Random St, City 10, State NY",21,Male,Middle,Premium,,,
+1855,Customer 855,customer855@example.com,551-746-5536,"786 Random St, City 17, State NY",52,Non-Binary,Low,Premium,508,Not satisfied with the quality.,5
+1856,Customer 856,customer856@example.com,934-194-6385,"696 Random St, City 19, State CA",39,Non-Binary,High,Premium,617,The item is not as described.,3
+1857,Customer 857,customer857@example.com,533-549-2322,"497 Random St, City 13, State NY",60,Male,Low,VIP,,,
+1858,Customer 858,customer858@example.com,978-166-2991,"851 Random St, City 16, State NY",52,Female,Low,VIP,24,"Disappointed, not as advertised.",2
+1858,Customer 858,customer858@example.com,978-166-2991,"851 Random St, City 16, State NY",52,Female,Low,VIP,620,"Excellent service, highly recommended!",1
+1859,Customer 859,customer859@example.com,971-968-7897,"744 Random St, City 8, State WA",21,Non-Binary,Low,VIP,800,"Excellent service, highly recommended!",2
+1860,Customer 860,customer860@example.com,229-992-5272,"123 Random St, City 12, State FL",43,Male,High,VIP,135,Would buy again!,3
+1860,Customer 860,customer860@example.com,229-992-5272,"123 Random St, City 12, State FL",43,Male,High,VIP,712,Would buy again!,2
+1861,Customer 861,customer861@example.com,211-170-1460,"705 Random St, City 17, State NY",52,Female,High,Regular,,,
+1862,Customer 862,customer862@example.com,515-426-3112,"584 Random St, City 6, State CA",18,Male,Middle,VIP,,,
+1863,Customer 863,customer863@example.com,242-694-8005,"449 Random St, City 4, State CA",66,Female,Low,VIP,406,"Average, nothing special.",4
+1864,Customer 864,customer864@example.com,377-169-5569,"523 Random St, City 19, State CA",38,Male,Low,Regular,,,
+1865,Customer 865,customer865@example.com,553-232-8022,"118 Random St, City 18, State NY",31,Female,Low,VIP,125,Customer service was rude.,3
+1866,Customer 866,customer866@example.com,565-259-4336,"965 Random St, City 7, State NY",45,Female,Middle,VIP,256,"Terrible experience, would not recommend.",3
+1866,Customer 866,customer866@example.com,565-259-4336,"965 Random St, City 7, State NY",45,Female,Middle,VIP,323,"Amazing customer support, will buy again.",2
+1867,Customer 867,customer867@example.com,395-371-7171,"228 Random St, City 6, State CA",60,Male,High,VIP,968,Affordable and high quality.,5
+1868,Customer 868,customer868@example.com,780-110-1127,"840 Random St, City 14, State CA",60,Female,Low,VIP,176,Great product! Fast delivery.,1
+1869,Customer 869,customer869@example.com,664-789-4212,"581 Random St, City 19, State NY",21,Male,High,VIP,260,Product was damaged on arrival.,1
+1869,Customer 869,customer869@example.com,664-789-4212,"581 Random St, City 19, State NY",21,Male,High,VIP,690,The item is not as described.,5
+1870,Customer 870,customer870@example.com,701-304-6229,"550 Random St, City 19, State NY",30,Female,Middle,Regular,291,"Disappointed, not as advertised.",4
+1871,Customer 871,customer871@example.com,312-993-2735,"42 Random St, City 14, State TX",48,Male,High,VIP,44,Would buy again!,2
+1871,Customer 871,customer871@example.com,312-993-2735,"42 Random St, City 14, State TX",48,Male,High,VIP,221,"Amazing customer support, will buy again.",3
+1871,Customer 871,customer871@example.com,312-993-2735,"42 Random St, City 14, State TX",48,Male,High,VIP,426,Product was damaged on arrival.,4
+1871,Customer 871,customer871@example.com,312-993-2735,"42 Random St, City 14, State TX",48,Male,High,VIP,649,Loved it! Very happy with my purchase.,1
+1872,Customer 872,customer872@example.com,364-719-9673,"704 Random St, City 4, State CA",34,Non-Binary,Low,Regular,,,
+1873,Customer 873,customer873@example.com,635-417-6068,"154 Random St, City 13, State TX",65,Non-Binary,Low,Regular,419,Customer service was rude.,1
+1873,Customer 873,customer873@example.com,635-417-6068,"154 Random St, City 13, State TX",65,Non-Binary,Low,Regular,954,Customer service was rude.,3
+1874,Customer 874,customer874@example.com,559-826-1284,"783 Random St, City 12, State TX",70,Female,High,VIP,677,Customer service was rude.,1
+1874,Customer 874,customer874@example.com,559-826-1284,"783 Random St, City 12, State TX",70,Female,High,VIP,859,Affordable and high quality.,2
+1875,Customer 875,customer875@example.com,914-724-4615,"809 Random St, City 5, State NY",66,Male,Low,Premium,,,
+1876,Customer 876,customer876@example.com,654-931-4341,"792 Random St, City 1, State CA",27,Non-Binary,High,Regular,16,Great product! Fast delivery.,3
+1877,Customer 877,customer877@example.com,158-133-4193,"385 Random St, City 6, State NY",46,Female,Middle,Premium,269,Affordable and high quality.,4
+1877,Customer 877,customer877@example.com,158-133-4193,"385 Random St, City 6, State NY",46,Female,Middle,Premium,737,Would buy again!,5
+1877,Customer 877,customer877@example.com,158-133-4193,"385 Random St, City 6, State NY",46,Female,Middle,Premium,991,"Disappointed, not as advertised.",5
+1878,Customer 878,customer878@example.com,363-145-6484,"962 Random St, City 7, State FL",48,Female,Low,Premium,,,
+1879,Customer 879,customer879@example.com,550-335-9877,"848 Random St, City 12, State NY",18,Male,Middle,Regular,5,Product was damaged on arrival.,4
+1879,Customer 879,customer879@example.com,550-335-9877,"848 Random St, City 12, State NY",18,Male,Middle,Regular,192,Customer service was rude.,2
+1879,Customer 879,customer879@example.com,550-335-9877,"848 Random St, City 12, State NY",18,Male,Middle,Regular,585,"Excellent service, highly recommended!",1
+1880,Customer 880,customer880@example.com,368-185-4430,"790 Random St, City 13, State NY",19,Male,Middle,VIP,446,Not satisfied with the quality.,5
+1881,Customer 881,customer881@example.com,120-643-8994,"32 Random St, City 18, State TX",40,Male,Middle,VIP,474,"Average, nothing special.",2
+1882,Customer 882,customer882@example.com,327-903-3109,"818 Random St, City 6, State FL",30,Male,Low,Regular,477,Customer service was rude.,1
+1882,Customer 882,customer882@example.com,327-903-3109,"818 Random St, City 6, State FL",30,Male,Low,Regular,663,"Amazing customer support, will buy again.",1
+1882,Customer 882,customer882@example.com,327-903-3109,"818 Random St, City 6, State FL",30,Male,Low,Regular,823,Would buy again!,5
+1883,Customer 883,customer883@example.com,995-228-4890,"369 Random St, City 9, State TX",22,Male,High,VIP,,,
+1884,Customer 884,customer884@example.com,781-676-9572,"697 Random St, City 6, State TX",40,Female,High,VIP,55,Great product! Fast delivery.,5
+1884,Customer 884,customer884@example.com,781-676-9572,"697 Random St, City 6, State TX",40,Female,High,VIP,762,"Amazing customer support, will buy again.",1
+1885,Customer 885,customer885@example.com,425-115-4252,"989 Random St, City 5, State FL",24,Female,Low,Premium,408,"Disappointed, not as advertised.",3
+1886,Customer 886,customer886@example.com,573-887-5779,"81 Random St, City 12, State CA",38,Female,High,Regular,241,Customer service was rude.,3
+1886,Customer 886,customer886@example.com,573-887-5779,"81 Random St, City 12, State CA",38,Female,High,Regular,300,Great product! Fast delivery.,3
+1886,Customer 886,customer886@example.com,573-887-5779,"81 Random St, City 12, State CA",38,Female,High,Regular,537,Loved it! Very happy with my purchase.,3
+1887,Customer 887,customer887@example.com,524-891-5666,"43 Random St, City 12, State NY",40,Male,Low,VIP,242,"Fast shipping, but packaging was poor.",3
+1888,Customer 888,customer888@example.com,301-185-8227,"873 Random St, City 2, State CA",61,Non-Binary,Low,Premium,,,
+1889,Customer 889,customer889@example.com,845-579-6227,"749 Random St, City 20, State FL",56,Male,High,Premium,177,The item is not as described.,1
+1889,Customer 889,customer889@example.com,845-579-6227,"749 Random St, City 20, State FL",56,Male,High,Premium,364,"Amazing customer support, will buy again.",3
+1889,Customer 889,customer889@example.com,845-579-6227,"749 Random St, City 20, State FL",56,Male,High,Premium,914,Product was damaged on arrival.,4
+1890,Customer 890,customer890@example.com,735-967-7129,"738 Random St, City 8, State CA",51,Female,Low,VIP,428,Not satisfied with the quality.,2
+1890,Customer 890,customer890@example.com,735-967-7129,"738 Random St, City 8, State CA",51,Female,Low,VIP,542,Great product! Fast delivery.,1
+1891,Customer 891,customer891@example.com,790-280-5633,"3 Random St, City 19, State WA",40,Female,Low,VIP,47,"Excellent service, highly recommended!",3
+1891,Customer 891,customer891@example.com,790-280-5633,"3 Random St, City 19, State WA",40,Female,Low,VIP,688,"Terrible experience, would not recommend.",4
+1891,Customer 891,customer891@example.com,790-280-5633,"3 Random St, City 19, State WA",40,Female,Low,VIP,740,Customer service was rude.,5
+1892,Customer 892,customer892@example.com,147-246-3775,"615 Random St, City 18, State FL",55,Female,High,Regular,274,"Excellent service, highly recommended!",2
+1892,Customer 892,customer892@example.com,147-246-3775,"615 Random St, City 18, State FL",55,Female,High,Regular,536,Would buy again!,2
+1893,Customer 893,customer893@example.com,367-826-8976,"927 Random St, City 8, State WA",55,Male,Middle,VIP,195,"Disappointed, not as advertised.",4
+1893,Customer 893,customer893@example.com,367-826-8976,"927 Random St, City 8, State WA",55,Male,Middle,VIP,488,"Disappointed, not as advertised.",5
+1893,Customer 893,customer893@example.com,367-826-8976,"927 Random St, City 8, State WA",55,Male,Middle,VIP,802,"Disappointed, not as advertised.",5
+1894,Customer 894,customer894@example.com,189-482-7111,"266 Random St, City 4, State NY",19,Female,Middle,VIP,,,
+1895,Customer 895,customer895@example.com,557-472-5593,"211 Random St, City 17, State NY",36,Female,Low,Premium,,,
+1896,Customer 896,customer896@example.com,295-269-9489,"276 Random St, City 9, State CA",57,Female,Low,Regular,,,
+1897,Customer 897,customer897@example.com,785-554-5916,"514 Random St, City 1, State FL",36,Non-Binary,Middle,Regular,308,Product was damaged on arrival.,5
+1897,Customer 897,customer897@example.com,785-554-5916,"514 Random St, City 1, State FL",36,Non-Binary,Middle,Regular,321,Customer service was rude.,1
+1898,Customer 898,customer898@example.com,931-549-5894,"956 Random St, City 18, State CA",19,Male,High,Regular,162,"Fast shipping, but packaging was poor.",2
+1898,Customer 898,customer898@example.com,931-549-5894,"956 Random St, City 18, State CA",19,Male,High,Regular,416,Great product! Fast delivery.,4
+1898,Customer 898,customer898@example.com,931-549-5894,"956 Random St, City 18, State CA",19,Male,High,Regular,523,Great product! Fast delivery.,5
+1899,Customer 899,customer899@example.com,413-261-5892,"417 Random St, City 16, State CA",34,Female,High,Premium,197,Customer service was rude.,4
+1900,Customer 900,customer900@example.com,600-420-2006,"613 Random St, City 9, State FL",33,Non-Binary,Middle,VIP,102,Product was damaged on arrival.,2
+1900,Customer 900,customer900@example.com,600-420-2006,"613 Random St, City 9, State FL",33,Non-Binary,Middle,VIP,881,Not satisfied with the quality.,4
+1901,Customer 901,customer901@example.com,345-244-5686,"672 Random St, City 3, State WA",20,Male,High,Premium,,,
+1902,Customer 902,customer902@example.com,526-354-1140,"731 Random St, City 4, State WA",58,Female,High,VIP,,,
+1903,Customer 903,customer903@example.com,283-153-7695,"620 Random St, City 7, State CA",46,Non-Binary,Low,Regular,103,Would buy again!,3
+1903,Customer 903,customer903@example.com,283-153-7695,"620 Random St, City 7, State CA",46,Non-Binary,Low,Regular,174,Loved it! Very happy with my purchase.,3
+1904,Customer 904,customer904@example.com,319-827-8115,"938 Random St, City 7, State TX",27,Female,Middle,Regular,,,
+1905,Customer 905,customer905@example.com,304-594-4611,"344 Random St, City 11, State FL",52,Female,High,Premium,642,Would buy again!,5
+1906,Customer 906,customer906@example.com,957-396-6409,"78 Random St, City 19, State FL",38,Female,High,Regular,173,"Disappointed, not as advertised.",5
+1906,Customer 906,customer906@example.com,957-396-6409,"78 Random St, City 19, State FL",38,Female,High,Regular,734,"Average, nothing special.",4
+1907,Customer 907,customer907@example.com,218-410-7852,"422 Random St, City 4, State CA",28,Male,High,VIP,683,Affordable and high quality.,2
+1908,Customer 908,customer908@example.com,757-869-3045,"71 Random St, City 1, State CA",24,Non-Binary,Low,Premium,318,Loved it! Very happy with my purchase.,5
+1909,Customer 909,customer909@example.com,456-971-9580,"369 Random St, City 6, State WA",31,Male,Middle,Regular,,,
+1910,Customer 910,customer910@example.com,768-753-7214,"213 Random St, City 15, State WA",69,Male,Middle,VIP,190,Would buy again!,5
+1910,Customer 910,customer910@example.com,768-753-7214,"213 Random St, City 15, State WA",69,Male,Middle,VIP,587,Product was damaged on arrival.,4
+1910,Customer 910,customer910@example.com,768-753-7214,"213 Random St, City 15, State WA",69,Male,Middle,VIP,874,"Average, nothing special.",1
+1911,Customer 911,customer911@example.com,750-937-6079,"167 Random St, City 7, State CA",66,Male,High,Premium,803,Product was damaged on arrival.,1
+1911,Customer 911,customer911@example.com,750-937-6079,"167 Random St, City 7, State CA",66,Male,High,Premium,994,Customer service was rude.,5
+1912,Customer 912,customer912@example.com,736-834-5821,"265 Random St, City 3, State TX",64,Male,Low,Premium,867,"Amazing customer support, will buy again.",3
+1913,Customer 913,customer913@example.com,200-225-3565,"512 Random St, City 13, State FL",32,Male,Middle,Premium,757,Product was damaged on arrival.,1
+1914,Customer 914,customer914@example.com,694-803-4133,"78 Random St, City 18, State NY",69,Non-Binary,High,VIP,11,Very good experience!,2
+1914,Customer 914,customer914@example.com,694-803-4133,"78 Random St, City 18, State NY",69,Non-Binary,High,VIP,325,Great product! Fast delivery.,5
+1915,Customer 915,customer915@example.com,515-833-1364,"94 Random St, City 11, State TX",25,Female,High,Premium,179,Great product! Fast delivery.,1
+1916,Customer 916,customer916@example.com,621-339-8903,"898 Random St, City 7, State TX",21,Male,Middle,Premium,,,
+1917,Customer 917,customer917@example.com,945-524-8437,"319 Random St, City 1, State CA",33,Non-Binary,High,Premium,341,Product was damaged on arrival.,1
+1918,Customer 918,customer918@example.com,238-141-3782,"680 Random St, City 8, State WA",37,Female,Middle,Regular,,,
+1919,Customer 919,customer919@example.com,930-593-3154,"970 Random St, City 1, State CA",48,Female,High,VIP,,,
+1920,Customer 920,customer920@example.com,220-591-6872,"230 Random St, City 9, State FL",24,Male,Low,Regular,63,Loved it! Very happy with my purchase.,3
+1920,Customer 920,customer920@example.com,220-591-6872,"230 Random St, City 9, State FL",24,Male,Low,Regular,175,Not satisfied with the quality.,5
+1920,Customer 920,customer920@example.com,220-591-6872,"230 Random St, City 9, State FL",24,Male,Low,Regular,211,"Disappointed, not as advertised.",5
+1921,Customer 921,customer921@example.com,671-520-3047,"24 Random St, City 3, State NY",45,Male,Middle,Regular,360,Loved it! Very happy with my purchase.,4
+1922,Customer 922,customer922@example.com,549-480-2653,"227 Random St, City 4, State TX",25,Male,Middle,Premium,,,
+1923,Customer 923,customer923@example.com,357-890-2986,"499 Random St, City 11, State CA",60,Non-Binary,High,Premium,441,Would buy again!,5
+1924,Customer 924,customer924@example.com,237-176-8488,"390 Random St, City 17, State CA",33,Non-Binary,High,Regular,250,"Excellent service, highly recommended!",5
+1924,Customer 924,customer924@example.com,237-176-8488,"390 Random St, City 17, State CA",33,Non-Binary,High,Regular,378,"Amazing customer support, will buy again.",1
+1925,Customer 925,customer925@example.com,154-287-5675,"356 Random St, City 20, State NY",61,Non-Binary,High,Regular,,,
+1926,Customer 926,customer926@example.com,597-222-9553,"802 Random St, City 2, State CA",52,Male,Middle,Premium,,,
+1927,Customer 927,customer927@example.com,878-687-9177,"698 Random St, City 7, State FL",25,Male,Middle,Regular,,,
+1928,Customer 928,customer928@example.com,167-941-4974,"838 Random St, City 7, State TX",56,Female,High,Premium,,,
+1929,Customer 929,customer929@example.com,581-547-9254,"806 Random St, City 2, State FL",18,Male,Low,VIP,810,The item is not as described.,5
+1930,Customer 930,customer930@example.com,138-176-8767,"304 Random St, City 8, State FL",69,Female,Middle,VIP,897,The item is not as described.,3
+1931,Customer 931,customer931@example.com,696-183-1658,"128 Random St, City 13, State NY",52,Female,High,Regular,,,
+1932,Customer 932,customer932@example.com,349-268-3941,"585 Random St, City 3, State NY",54,Male,High,Premium,577,Affordable and high quality.,4
+1933,Customer 933,customer933@example.com,887-109-8317,"849 Random St, City 7, State WA",62,Male,High,VIP,888,"Amazing customer support, will buy again.",5
+1934,Customer 934,customer934@example.com,548-707-7117,"733 Random St, City 4, State NY",56,Male,Middle,Premium,,,
+1935,Customer 935,customer935@example.com,415-344-1920,"866 Random St, City 16, State NY",22,Male,Low,VIP,57,"Average, nothing special.",3
+1935,Customer 935,customer935@example.com,415-344-1920,"866 Random St, City 16, State NY",22,Male,Low,VIP,255,Very good experience!,4
+1935,Customer 935,customer935@example.com,415-344-1920,"866 Random St, City 16, State NY",22,Male,Low,VIP,297,Very good experience!,4
+1936,Customer 936,customer936@example.com,247-250-4574,"761 Random St, City 1, State NY",30,Male,High,Premium,,,
+1937,Customer 937,customer937@example.com,809-978-5531,"789 Random St, City 9, State NY",34,Male,Middle,VIP,340,"Average, nothing special.",1
+1938,Customer 938,customer938@example.com,525-571-7366,"683 Random St, City 3, State FL",37,Male,Low,VIP,,,
+1939,Customer 939,customer939@example.com,142-560-9222,"264 Random St, City 3, State NY",47,Female,Middle,Regular,,,
+1940,Customer 940,customer940@example.com,265-479-1474,"459 Random St, City 12, State TX",24,Non-Binary,Low,Premium,,,
+1941,Customer 941,customer941@example.com,165-415-8167,"833 Random St, City 11, State WA",42,Female,Low,Premium,,,
+1942,Customer 942,customer942@example.com,901-737-2213,"337 Random St, City 19, State CA",45,Male,Middle,Regular,977,Not satisfied with the quality.,5
+1943,Customer 943,customer943@example.com,987-240-4015,"782 Random St, City 11, State WA",47,Non-Binary,High,VIP,,,
+1944,Customer 944,customer944@example.com,203-148-3811,"259 Random St, City 5, State NY",19,Female,Low,Premium,448,"Amazing customer support, will buy again.",3
+1945,Customer 945,customer945@example.com,559-250-3378,"652 Random St, City 11, State TX",27,Male,High,Premium,1000,Great product! Fast delivery.,5
+1946,Customer 946,customer946@example.com,190-958-4966,"137 Random St, City 2, State FL",58,Male,Low,VIP,598,Would buy again!,3
+1947,Customer 947,customer947@example.com,449-627-2127,"813 Random St, City 2, State NY",33,Male,High,VIP,368,The item is not as described.,4
+1947,Customer 947,customer947@example.com,449-627-2127,"813 Random St, City 2, State NY",33,Male,High,VIP,526,"Fast shipping, but packaging was poor.",3
+1948,Customer 948,customer948@example.com,837-503-5650,"697 Random St, City 4, State TX",55,Female,Middle,Premium,123,"Disappointed, not as advertised.",1
+1948,Customer 948,customer948@example.com,837-503-5650,"697 Random St, City 4, State TX",55,Female,Middle,Premium,563,Would buy again!,1
+1948,Customer 948,customer948@example.com,837-503-5650,"697 Random St, City 4, State TX",55,Female,Middle,Premium,708,Great product! Fast delivery.,4
+1949,Customer 949,customer949@example.com,659-346-7397,"213 Random St, City 15, State FL",52,Female,Middle,Premium,168,Very good experience!,1
+1949,Customer 949,customer949@example.com,659-346-7397,"213 Random St, City 15, State FL",52,Female,Middle,Premium,346,Customer service was rude.,1
+1950,Customer 950,customer950@example.com,109-920-1012,"218 Random St, City 19, State NY",43,Non-Binary,Middle,VIP,911,"Excellent service, highly recommended!",5
+1950,Customer 950,customer950@example.com,109-920-1012,"218 Random St, City 19, State NY",43,Non-Binary,Middle,VIP,990,"Fast shipping, but packaging was poor.",1
+1951,Customer 951,customer951@example.com,999-619-6115,"35 Random St, City 5, State WA",25,Male,High,Premium,,,
+1952,Customer 952,customer952@example.com,656-859-6112,"689 Random St, City 20, State FL",24,Female,Low,VIP,646,Not satisfied with the quality.,1
+1953,Customer 953,customer953@example.com,154-419-4534,"368 Random St, City 2, State NY",63,Non-Binary,Low,Regular,254,The item is not as described.,5
+1953,Customer 953,customer953@example.com,154-419-4534,"368 Random St, City 2, State NY",63,Non-Binary,Low,Regular,739,"Amazing customer support, will buy again.",4
+1953,Customer 953,customer953@example.com,154-419-4534,"368 Random St, City 2, State NY",63,Non-Binary,Low,Regular,744,Great product! Fast delivery.,4
+1953,Customer 953,customer953@example.com,154-419-4534,"368 Random St, City 2, State NY",63,Non-Binary,Low,Regular,941,Affordable and high quality.,2
+1954,Customer 954,customer954@example.com,295-696-1270,"31 Random St, City 11, State NY",70,Non-Binary,Low,VIP,,,
+1955,Customer 955,customer955@example.com,382-889-8132,"304 Random St, City 9, State TX",41,Male,Low,Regular,920,Loved it! Very happy with my purchase.,1
+1956,Customer 956,customer956@example.com,897-347-7294,"450 Random St, City 18, State CA",47,Non-Binary,High,Regular,745,"Terrible experience, would not recommend.",1
+1957,Customer 957,customer957@example.com,622-263-3962,"292 Random St, City 11, State TX",53,Non-Binary,High,VIP,,,
+1958,Customer 958,customer958@example.com,901-170-1799,"553 Random St, City 4, State CA",57,Female,Low,Regular,72,"Amazing customer support, will buy again.",1
+1959,Customer 959,customer959@example.com,277-545-2235,"475 Random St, City 15, State FL",65,Non-Binary,High,Regular,618,Product was damaged on arrival.,2
+1960,Customer 960,customer960@example.com,977-149-8973,"325 Random St, City 1, State FL",65,Male,High,Regular,,,
+1961,Customer 961,customer961@example.com,851-902-5445,"394 Random St, City 12, State CA",37,Non-Binary,Low,Regular,771,Great product! Fast delivery.,5
+1962,Customer 962,customer962@example.com,656-225-8474,"839 Random St, City 16, State TX",35,Male,High,VIP,616,Product was damaged on arrival.,4
+1963,Customer 963,customer963@example.com,234-232-2157,"469 Random St, City 7, State CA",50,Female,Middle,VIP,,,
+1964,Customer 964,customer964@example.com,542-256-8473,"439 Random St, City 19, State FL",22,Male,Middle,VIP,918,Not satisfied with the quality.,1
+1965,Customer 965,customer965@example.com,869-275-4185,"813 Random St, City 20, State CA",46,Non-Binary,Middle,Regular,,,
+1966,Customer 966,customer966@example.com,222-872-4944,"553 Random St, City 16, State TX",36,Male,High,Regular,273,Great product! Fast delivery.,5
+1967,Customer 967,customer967@example.com,818-939-9220,"177 Random St, City 9, State FL",19,Non-Binary,High,Regular,769,"Excellent service, highly recommended!",4
+1968,Customer 968,customer968@example.com,128-940-3251,"80 Random St, City 1, State WA",47,Female,Middle,Premium,17,"Amazing customer support, will buy again.",5
+1969,Customer 969,customer969@example.com,331-382-6846,"174 Random St, City 7, State CA",30,Female,Middle,VIP,,,
+1970,Customer 970,customer970@example.com,599-165-8425,"899 Random St, City 10, State FL",33,Non-Binary,Low,VIP,289,Great product! Fast delivery.,2
+1970,Customer 970,customer970@example.com,599-165-8425,"899 Random St, City 10, State FL",33,Non-Binary,Low,VIP,402,"Terrible experience, would not recommend.",2
+1971,Customer 971,customer971@example.com,563-167-5896,"477 Random St, City 9, State WA",26,Male,Middle,Regular,,,
+1972,Customer 972,customer972@example.com,897-623-2685,"911 Random St, City 15, State WA",26,Non-Binary,Low,Regular,218,Affordable and high quality.,3
+1972,Customer 972,customer972@example.com,897-623-2685,"911 Random St, City 15, State WA",26,Non-Binary,Low,Regular,623,"Amazing customer support, will buy again.",4
+1972,Customer 972,customer972@example.com,897-623-2685,"911 Random St, City 15, State WA",26,Non-Binary,Low,Regular,908,"Amazing customer support, will buy again.",1
+1973,Customer 973,customer973@example.com,497-313-4550,"765 Random St, City 9, State CA",40,Male,High,Regular,,,
+1974,Customer 974,customer974@example.com,394-734-8795,"969 Random St, City 13, State NY",37,Male,High,VIP,,,
+1975,Customer 975,customer975@example.com,229-518-5140,"525 Random St, City 19, State TX",31,Female,Middle,Regular,,,
+1976,Customer 976,customer976@example.com,779-730-6346,"799 Random St, City 20, State TX",35,Male,High,Premium,606,Great product! Fast delivery.,4
+1977,Customer 977,customer977@example.com,860-651-8550,"500 Random St, City 2, State TX",24,Non-Binary,Low,Regular,,,
+1978,Customer 978,customer978@example.com,356-739-7823,"921 Random St, City 2, State WA",66,Non-Binary,Low,Premium,460,Not satisfied with the quality.,2
+1978,Customer 978,customer978@example.com,356-739-7823,"921 Random St, City 2, State WA",66,Non-Binary,Low,Premium,682,"Amazing customer support, will buy again.",4
+1979,Customer 979,customer979@example.com,431-354-7388,"663 Random St, City 6, State TX",34,Male,Low,VIP,390,The item is not as described.,2
+1980,Customer 980,customer980@example.com,793-665-7300,"684 Random St, City 16, State NY",65,Female,Low,Regular,435,"Amazing customer support, will buy again.",2
+1981,Customer 981,customer981@example.com,721-645-4715,"716 Random St, City 5, State WA",64,Male,Middle,Premium,111,Great product! Fast delivery.,4
+1982,Customer 982,customer982@example.com,178-563-7961,"888 Random St, City 19, State NY",70,Female,High,Regular,773,"Excellent service, highly recommended!",3
+1982,Customer 982,customer982@example.com,178-563-7961,"888 Random St, City 19, State NY",70,Female,High,Regular,846,Not satisfied with the quality.,1
+1983,Customer 983,customer983@example.com,180-304-8113,"754 Random St, City 18, State CA",64,Male,Middle,Regular,287,Very good experience!,5
+1983,Customer 983,customer983@example.com,180-304-8113,"754 Random St, City 18, State CA",64,Male,Middle,Regular,794,Great product! Fast delivery.,1
+1984,Customer 984,customer984@example.com,280-139-1086,"550 Random St, City 6, State NY",55,Female,Middle,VIP,418,"Average, nothing special.",5
+1984,Customer 984,customer984@example.com,280-139-1086,"550 Random St, City 6, State NY",55,Female,Middle,VIP,680,Great product! Fast delivery.,1
+1984,Customer 984,customer984@example.com,280-139-1086,"550 Random St, City 6, State NY",55,Female,Middle,VIP,748,"Terrible experience, would not recommend.",5
+1985,Customer 985,customer985@example.com,956-939-2540,"699 Random St, City 14, State WA",70,Female,Middle,Premium,,,
+1986,Customer 986,customer986@example.com,418-746-9309,"939 Random St, City 19, State NY",63,Female,High,Regular,511,Not satisfied with the quality.,3
+1987,Customer 987,customer987@example.com,376-599-5790,"535 Random St, City 6, State FL",26,Male,Low,Premium,612,"Average, nothing special.",5
+1988,Customer 988,customer988@example.com,190-995-3968,"182 Random St, City 4, State FL",18,Non-Binary,Low,Regular,729,"Disappointed, not as advertised.",2
+1989,Customer 989,customer989@example.com,612-648-8857,"686 Random St, City 19, State CA",53,Non-Binary,Middle,Premium,,,
+1990,Customer 990,customer990@example.com,213-444-8337,"436 Random St, City 11, State NY",42,Male,Low,Premium,333,Customer service was rude.,2
+1991,Customer 991,customer991@example.com,774-671-7655,"363 Random St, City 13, State CA",56,Female,Low,Regular,,,
+1992,Customer 992,customer992@example.com,635-149-2744,"552 Random St, City 20, State WA",25,Non-Binary,High,Regular,,,
+1993,Customer 993,customer993@example.com,796-485-5176,"515 Random St, City 15, State TX",29,Non-Binary,Low,Premium,82,"Fast shipping, but packaging was poor.",3
+1993,Customer 993,customer993@example.com,796-485-5176,"515 Random St, City 15, State TX",29,Non-Binary,Low,Premium,394,Loved it! Very happy with my purchase.,1
+1994,Customer 994,customer994@example.com,380-639-3013,"774 Random St, City 7, State WA",29,Female,High,VIP,,,
+1995,Customer 995,customer995@example.com,384-914-3962,"415 Random St, City 5, State CA",52,Non-Binary,Low,VIP,424,The item is not as described.,5
+1996,Customer 996,customer996@example.com,864-748-1976,"451 Random St, City 4, State WA",61,Non-Binary,High,Premium,267,Very good experience!,2
+1997,Customer 997,customer997@example.com,342-757-2818,"584 Random St, City 8, State CA",69,Female,Middle,Premium,155,Great product! Fast delivery.,2
+1997,Customer 997,customer997@example.com,342-757-2818,"584 Random St, City 8, State CA",69,Female,Middle,Premium,541,Would buy again!,3
+1998,Customer 998,customer998@example.com,535-803-4290,"918 Random St, City 5, State WA",48,Female,High,Premium,60,Customer service was rude.,4
+1999,Customer 999,customer999@example.com,443-934-1163,"641 Random St, City 10, State NY",24,Male,Low,Regular,,,
+2000,Customer 1000,customer1000@example.com,830-914-2420,"95 Random St, City 4, State WA",52,Non-Binary,High,Premium,638,"Average, nothing special.",2
